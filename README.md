@@ -94,12 +94,17 @@ They think about the growth of the start-up itself, they don't think about the g
 ### Right Market
 
 There are a lot of different ways to talk about the right kind of market. 
+
 - For example, surfing some one else's wave, 
    - stepping into an up elevator, or being part of a movement, but all of this is just a way of saying that you want a market that's going to grow really quickly. 
- -It may seem small today, it may be small today, but you know - and other people don't
-   - that it's going to grow really fast.
+ - It may be small today, but you know and other people don't that it's going to grow really fast.
 
 So think about where this is happening in the world. You need this sort of tailwind to make a startup successful.
+
+**Marc Andreessen says, software is eating the world** 
+
+
+   There are so many great ideas out there. You just have to pick one, and find one that you really care about.
    
    
 
