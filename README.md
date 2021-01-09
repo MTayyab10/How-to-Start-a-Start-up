@@ -1,9 +1,26 @@
-# How to start StartUp
+# How to start a StartUp
 
 
-1- Idea 
-2- Product 
-3- Team
+### Note :
+  startup are different than normal companies.
+  
+## Four Areas You Need
+
+1. Idea 
+2. Product 
+3. Team
+4. Execution
+
+### Why you should start Start-up?
+
+Every one whos start start-up always says that you couldn't imagine how hard and painful it is going to be.
+You should start start-up that you can feel compelled by a particular problem and that you can think starting a company you can solve that probelm.
+**Passion** should come first and **Start-up** second.
+
+### 1. Idea
+
+
+
 
 Co-founders
 
