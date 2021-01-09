@@ -103,7 +103,6 @@ So think about where this is happening in the world. You need this sort of tailw
 
 **Marc Andreessen says, software is eating the world** 
 
-
    There are so many great ideas out there. You just have to pick one, and find one that you really care about.
    
    
