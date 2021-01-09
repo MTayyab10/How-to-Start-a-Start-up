@@ -21,17 +21,21 @@ You should start start-up that you can feel compelled by a particular problem an
 
 **Passion** should come first and **Start-up** second. 
 
-### 1. Great Idea
+## 1. Great Idea
 
 It's become popular in recent years that Idea doesn't matter, you do not need to spend a lot of time on **Idea**.  
 
 You just supposed to start, even do not think it is valube work. So this is **totally wrong**. 
 
-A bad idea is a bad.
+A bad idea is still bad.
 
-Great companies start with **great idea**. If you look successful start-ups they alawys have a good idea.
+Most great companies start with **great idea**. If you look at successful start-ups they alawys have a good idea.
 
-#### Def of Idea
+### Def of Idea
+The defination of idea is very broad it includes the **size and the growth** of the market.
+- The growth strategy for the company.
+- The defensibility strategy and so on
+
 
 
 
