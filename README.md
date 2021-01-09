@@ -70,10 +70,14 @@ You need to turn out your idea into monopoly but you cannot get monopoly in the 
 This is why some great startup ideas look really bad in the beginning its.
 
 ### Keep in mind:
-        There is a really hard part a great idea most people are going to think about it's a bad, you should be happy about that. Means they will not compete with you.
+
+There is a really hard part a great idea most people are going to think about it's a bad, you should be happy about that. Means they will not compete with you.
 
 You are also really wanna take the time to think about how the market is going to evolve you, u need to a market that is going to be big in next 10 years.
 Most Investors are obsessed with market size today, they do not think all about how the market is going to evolve.
+
+
+
 
 
 
