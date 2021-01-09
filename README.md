@@ -49,12 +49,12 @@ Long term thinking is so important in startups, that is huge advantage if you do
 > You are thinking through ideas another thing that we see young founders get wrong all the time is that someday you need to build business that's difficult to replicate ( important to remember it ).
 If you have several ideas that all seem pretty good work on the one which you often think about it.
 
-**TIP:**
+**Tip:**
 
    Most founders that they wish they have waited to start a start-up until they came up with an idea they really loved.
    Another way to looking this is that the best companies are almost always mission oriented.
 
-The company should feel like an **important mission**. It take years and years, even decades to create a great start-up.
+The company should feel like an ***important mission***. It take years and years, even decades to create a great start-up.
 If you do not love and believe in what are you building you will likely to give up at some point.
 
 A lot of founders and usually students belive that their start-ups only going to take two or three years and after that they will work on what they really passionate, that almost never works out, good startups usually takes **10 Years**.
@@ -98,12 +98,21 @@ There are a lot of different ways to talk about the right kind of market.
 - For example, surfing some one else's wave, 
    - stepping into an up elevator, or being part of a movement, but all of this is just a way of saying that you want a market that's going to grow really quickly. 
  - It may be small today, but you know and other people don't that it's going to grow really fast.
+ 
+ **Marc Andreessen says, software is eating the world** 
 
 So think about where this is happening in the world. You need this sort of tailwind to make a startup successful.
 
-**Marc Andreessen says, software is eating the world** 
 
-   There are so many great ideas out there. You just have to pick one, and find one that you really care about.
+> There are so many great ideas out there. You just have to pick one, and find one that you really care about.
+
+### Why Now?
+
+Sequoia's famous question: Why now? 
+ - Why is this the perfect time for this particular idea and to start this particular company?
+ - Why couldn't it be done two years ago, and why will two years in the future be too late?
+ - For the most successful startups we've been involved with, they've all had a great idea and a great answer to this question.
+ - And if you don't you should be at least somewhat suspicious about it.
    
    
 
