@@ -81,14 +81,27 @@ They think about the growth of the start-up itself, they don't think about the g
 
 **You should think about this above.**
 
+
 ### Fact 
 
- A big advantage of being a student one of the two biggest advantages
- - is that you probably have better intuition about which markets are likely to start growing rapidly than older people do.
-  - Another thing that students usually don't understand, or it takes awhile, 
-  - you can not create a market that does not want to exist.
-  - You can basically change everything in a start-up but the market, so you should actually do some thinking to be sure 
-  - that the market you're going after is going to grow and be there.
+ Being a student one of the two biggest advantages are:
+   - you probably have better intuition about which markets are likely to start growing rapidly than older people do.
+   - Another thing that students usually don't understand, or it takes awhile, 
+   - you can not create a market that does not want to exist.
+   - You can basically change everything in a start-up but the market, so you should actually do some thinking to be sure that the market you're    going after is going to grow and be there.
+   
+
+### Right Market
+
+There are a lot of different ways to talk about the right kind of market. 
+- For example, surfing some one else's wave, 
+   - stepping into an up elevator, or being part of a movement, but all of this is just a way of saying that you want a market that's going to grow really quickly. 
+ -It may seem small today, it may be small today, but you know - and other people don't
+   - that it's going to grow really fast.
+
+So think about where this is happening in the world. You need this sort of tailwind to make a startup successful.
+   
+   
 
 
 
