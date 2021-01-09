@@ -14,10 +14,8 @@
 
 ### Why you should start Start-up?
 
-> Every one whos start start-up always says that you couldn't imagine how hard and painful it is going to be.
- 
+> Every one whos start start-up always says that you couldn't imagine how hard and painful it is going to be. 
 > You should start start-up that you can feel compelled by a particular problem and that you can think starting a company you can solve that probelm.
-
 > **Passion** should come first and **Start-up** second. 
 
 ### 1. Idea
