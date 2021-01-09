@@ -84,7 +84,7 @@ They think about the growth of the start-up itself, they don't think about the g
 **You should think about this above.**
 
 
-### Fact 
+### While a student
 
  Being a student one of the two biggest advantages are:
    - you probably have better intuition about which markets are likely to start growing rapidly than older people do.
@@ -92,8 +92,10 @@ They think about the growth of the start-up itself, they don't think about the g
    - you can not create a market that does not want to exist.
    - You can basically change everything in a start-up but the market, so you should actually do some thinking to be sure that the market you're    going after is going to grow and be there.
    - you've got a very good perspective on new technology.
+   - Think about new ideas.
    - And learning to have good ideas takes a while,
    - So start working on that right now. That's one thing we hear from people all the time, that they wish they had done more of as a student.
+   
    
 
 ### Right Market
@@ -119,10 +121,17 @@ Sequoia's famous question: Why now?
  - Why couldn't it be done two years ago, and why will two years in the future be too late?
  - For the most successful startups we've been involved with, they've all had a great idea and a great answer to this question.
  - And if you don't you should be at least somewhat suspicious about it.
+ 
+ 
+ ### Quote from 50 Cent
+ 
+ It's about the importance of thinking about what customers want, and thinking about the demands of the market.
+ 
+ Most people don't do this—most students especially don't do this. If you can just do this one thing, 
+ if you can just learn to think about the market first, you'll have a big leg up on most people starting startups.
+ 
+ And this is probably the thing we see wrong with Y Combinator apps most frequently, is that people have not thought about the market first, and what people want first.
 
-
-### Student 
-. And learning to have good ideas takes a while, 
    
 
 
