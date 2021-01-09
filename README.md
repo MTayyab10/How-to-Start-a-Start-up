@@ -35,16 +35,21 @@ Most great companies start with **great idea**. If you look at successful start-
 The defination of idea is very broad it includes the **size and the growth** of the market.
 - The growth strategy for the company.
 - The defensibility strategy and so on...
+
 When you are evaluting an idea you need to think through all these things, not just the product.
 If it works out you are going to work for **10 Years** So its worth some real upfront time to think there's a long term value in the defensibilty of busines.
+
 Even though plans themselves are worthless the **exercise of planning** is really valuable and totally missing in most start-ups.
 Long term thinking is so important in startups, that is huge advantage if you do it.
+
 **Remember:**
+
         The idea will expand and become more ambitious you go. You certainly don't need to figured out in a path from here to the world donmination.
 
-You are thinking through ideas another thing that we see young founders get wrong all the time is that someday you need to build business that's difficult to replicate ( important to remember it )
+You are thinking through ideas another thing that we see young founders get wrong all the time is that someday you need to build business that's difficult to replicate ( important to remember it ).
 
-If you have several ideas that all seem pretty good work on the one which you often think about it
+If you have several ideas that all seem pretty good work on the one which you often think about it.
+
 **TIP**
    Most founders that they wish they have waited to start a start-up until they came up with an idea they really loved.
    Another way to looking this is that the best companies are almost always mission oriented.
@@ -52,9 +57,10 @@ If you have several ideas that all seem pretty good work on the one which you of
 The company should feel like an **important mission**. It take years and years, even decades to create a great start-up.
 If you do not love and believe in what are you building you will likely to give up at some point.
 
-A lot of founders and usually students belive that their start-ups only going to take two or three years and after that they will work on what they really passionate, that almost never works out, good startups usually takes **10 Years**.\
+A lot of founders and usually students belive that their start-ups only going to take two or three years and after that they will work on what they really passionate, that almost never works out, good startups usually takes **10 Years**.
 
 Another advantage of mission oriented company is that outsider peoples will help and support.
+
 **Hard Part**
      The hardest part about coming up with great ideas is that the best ideas often look very **terrible** at the beginning.
 **Seems like a bad idea** Start-Up **This a good idea**.
