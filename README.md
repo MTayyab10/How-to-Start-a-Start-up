@@ -8,7 +8,7 @@
 ## Four Areas for Start-up
 
 1. [Idea](https://github.com/MTayyab10/How-to-start-Start-up/blob/main/README.md#1-great-idea) 
-2. Product 
+2. [Product](https://github.com/MTayyab10/How-to-start-Start-up/blob/main/README.md#1-great-product)
 3. Team
 4. Execution
 
@@ -131,6 +131,11 @@ Sequoia's famous question: Why now?
  if you can just learn to think about the market first, you'll have a big leg up on most people starting startups.
  
  And this is probably the thing we see wrong with Y Combinator apps most frequently, is that people have not thought about the market first, and what people want first.
+ 
+ 
+ ## Great Product
+ 
+ 
 
    
 
