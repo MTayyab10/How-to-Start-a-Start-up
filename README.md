@@ -7,7 +7,7 @@
   
 ## Four Areas for Start-up
 
-1. [Idea](Great Idea) 
+1. [Idea](https://github.com/MTayyab10/How-to-start-Start-up/blob/main/README.md#1-great-idea) 
 2. Product 
 3. Team
 4. Execution
