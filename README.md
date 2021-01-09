@@ -24,9 +24,13 @@ You should start start-up that you can feel compelled by a particular problem an
 ### 1. Great Idea
 
 It's become popular in recent years that Idea doesn't matter, you do not need to spend a lot of time on **Idea**.  
+
 You just supposed to start, even do not think it is valube work. So this **totally wrong**. 
-A bad idea is a bad
-Great companies start with **great idea**. If you look successful start-ups they alawys have a good idea. 
+A bad idea is a bad.
+
+Great companies start with **great idea**. If you look successful start-ups they alawys have a good idea.
+
+#### Def of Idea
 
 
 
