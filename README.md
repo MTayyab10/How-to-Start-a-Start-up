@@ -2,9 +2,10 @@
 
 
 ### Note :
-  startup are different than normal companies.
+
+  Startup are different than normal companies.
   
-## Four Areas You Need
+## Four Areas for Start-up
 
 1. Idea 
 2. Product 
@@ -13,9 +14,9 @@
 
 ### Why you should start Start-up?
 
-Every one whos start start-up always says that you couldn't imagine how hard and painful it is going to be.
+Every one whos start start-up always says that you couldn't imagine how hard and painful it is going to be.  return 
 You should start start-up that you can feel compelled by a particular problem and that you can think starting a company you can solve that probelm.
-**Passion** should come first and **Start-up** second.
+**Passion** should come first and **Start-up** second. 
 
 ### 1. Idea
 
