@@ -62,12 +62,14 @@ A lot of founders and usually students belive that their start-ups only going to
 Another advantage of mission oriented company is that outsider peoples will help and support.
 
 #### Hard Part
-     The hardest part about coming up with great ideas is that the best ideas often look very **terrible** at the beginning.
+     The hardest part about coming up with great ideas is that the best ideas often look very terrible at the beginning.
+     
 **Seems like a bad idea** Start-Up **This a good idea**.
 
 You need to turn out your idea into monopoly but you cannot get monopoly in the big market, righ wat too much competition, For that you need to find small market in which you can get monopoly and then expand quickly.
 
 This is why some great startup ideas look really bad in the beginning its.
+
 
 ### Keep in mind:
 
@@ -89,6 +91,9 @@ They think about the growth of the start-up itself, they don't think about the g
    - Another thing that students usually don't understand, or it takes awhile, 
    - you can not create a market that does not want to exist.
    - You can basically change everything in a start-up but the market, so you should actually do some thinking to be sure that the market you're    going after is going to grow and be there.
+   - you've got a very good perspective on new technology.
+   - And learning to have good ideas takes a while,
+   - So start working on that right now. That's one thing we hear from people all the time, that they wish they had done more of as a student.
    
 
 ### Right Market
@@ -106,6 +111,7 @@ So think about where this is happening in the world. You need this sort of tailw
 
 > There are so many great ideas out there. You just have to pick one, and find one that you really care about.
 
+
 ### Why Now?
 
 Sequoia's famous question: Why now? 
@@ -113,7 +119,10 @@ Sequoia's famous question: Why now?
  - Why couldn't it be done two years ago, and why will two years in the future be too late?
  - For the most successful startups we've been involved with, they've all had a great idea and a great answer to this question.
  - And if you don't you should be at least somewhat suspicious about it.
-   
+
+
+### Student 
+. And learning to have good ideas takes a while, 
    
 
 
