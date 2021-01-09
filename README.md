@@ -8,7 +8,7 @@
 ## Four Areas for Start-up
 
 1. [Idea](https://github.com/MTayyab10/How-to-start-Start-up/blob/main/README.md#1-great-idea) 
-2. [Product](https://github.com/MTayyab10/How-to-start-Start-up/blob/main/README.md#-great-product)
+2. [Product](https://github.com/MTayyab10/How-to-start-Start-up/blob/main/README.md#great-product)
 3. Team
 4. Execution
 
@@ -142,7 +142,9 @@ Sequoia's famous question: Why now?
   - Although great products are always new to the world, and its hard to give you advice about what to build, there are enough commonalities that   we can give you a lot of advice about how to build it.
   
   
- One of the most important tasks for a founder is to make sure that the company builds a great product.
+  **Most important tasks**
+  
+    One of the most important tasks for a founder is to make sure that the company builds a great product.
  
  Until you build a great product, nothing else matters. When really successful startup founders tell the story of their early days its almost always sitting in front of the computer working on their product, or talking to their customers.
  
