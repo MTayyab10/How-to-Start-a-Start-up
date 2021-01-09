@@ -7,7 +7,7 @@
   
 ## Four Areas for Start-up
 
-1. Idea 
+1. [Idea] 
 2. Product 
 3. Team
 4. Execution
