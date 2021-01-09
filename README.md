@@ -50,6 +50,7 @@ Long term thinking is so important in startups, that is huge advantage if you do
 If you have several ideas that all seem pretty good work on the one which you often think about it.
 
 **TIP:**
+
    Most founders that they wish they have waited to start a start-up until they came up with an idea they really loved.
    Another way to looking this is that the best companies are almost always mission oriented.
 
