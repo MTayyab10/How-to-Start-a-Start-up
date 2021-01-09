@@ -47,10 +47,9 @@ Long term thinking is so important in startups, that is huge advantage if you do
 >  The idea will expand and become more ambitious you go. You certainly don't need to figured out in a path from here to the world donmination.
 
 > You are thinking through ideas another thing that we see young founders get wrong all the time is that someday you need to build business that's difficult to replicate ( important to remember it ).
-
 If you have several ideas that all seem pretty good work on the one which you often think about it.
 
-**TIP**
+**TIP:**
    Most founders that they wish they have waited to start a start-up until they came up with an idea they really loved.
    Another way to looking this is that the best companies are almost always mission oriented.
 
