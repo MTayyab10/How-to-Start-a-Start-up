@@ -74,7 +74,22 @@ This is why some great startup ideas look really bad in the beginning its.
 There is a really hard part a great idea most people are going to think about it's a bad, you should be happy about that. Means they will not compete with you.
 
 You are also really wanna take the time to think about how the market is going to evolve you, u need to a market that is going to be big in next 10 years.
-Most Investors are obsessed with market size today, they do not think all about how the market is going to evolve.
+
+
+In fact, I think this is one of the biggest systemic mistakes that investors make.
+They think about the growth of the start-up itself, they don't think about the growth of the market.
+
+**You should think about this above.**
+
+### Fact 
+
+ A big advantage of being a student one of the two biggest advantages
+ - is that you probably have better intuition about which markets are likely to start growing rapidly than older people do.
+  - Another thing that students usually don't understand, or it takes awhile, 
+  - you can not create a market that does not want to exist.
+  - You can basically change everything in a start-up but the market, so you should actually do some thinking to be sure 
+  - that the market you're going after is going to grow and be there.
+
 
 
 
