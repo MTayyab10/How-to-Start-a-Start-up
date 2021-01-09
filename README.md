@@ -137,7 +137,7 @@ Sequoia's famous question: Why now?
  
  Very broad definition of product is 
   - It includes customer support, the copy you write explaining the product, anything involved in your customer's interaction in what you built for    them.
-  - To build a really great company, you first have to turn a great idea into a great product.
+  - **To build a really great company, you first have to turn a great idea into a great product.**
   - This is really hard, but its crucially important, and fortunately its pretty fun.
   - Although great products are always new to the world, and its hard to give you advice about what to build, there are enough commonalities that   we can give you a lot of advice about how to build it.
   
@@ -148,7 +148,13 @@ Sequoia's famous question: Why now?
  
  Until you build a great product, nothing else matters. When really successful startup founders tell the story of their early days its almost always sitting in front of the computer working on their product, or talking to their customers.
  
- That's pretty much all the time. They do very little else, and you should be very skeptical if your time allocation is much different. Most other problems that founders are trying to solve, raising money, getting more press, hiring, business development, et cetera, these are significantly easier when you have a great product. Its really important to take care of that first.
+ That's pretty much all the time. They do very little else, and you should be very skeptical if your time allocation is much different.
+ Most other problems that founders are trying to solve:
+  - raising money,
+  - getting more press, 
+  - hiring, 
+  - business development, etc,
+  These are significantly easier when you have a **great product**. Its really important to take care of that first.
  
  Step one is to build something that users love. At YC, we tell founders to work on their product, talk to users, exercise, eat and sleep, and very little else. All the other stuff I just mentioned—PR, conferences, recruiting advisers, doing partnerships—you should ignore all of that, and just build a product and get it as good as possible by talking to your users.
  
