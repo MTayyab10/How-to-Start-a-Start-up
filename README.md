@@ -8,7 +8,7 @@
 ## Four Areas for Start-up
 
 1. [Idea](https://github.com/MTayyab10/How-to-start-Start-up/blob/main/README.md#1-great-idea) 
-2. [Product](https://github.com/MTayyab10/How-to-start-Start-up/blob/main/README.md#1-great-product)
+2. [Product](https://github.com/MTayyab10/How-to-start-Start-up/blob/main/README.md#-great-product)
 3. Team
 4. Execution
 
@@ -134,6 +134,12 @@ Sequoia's famous question: Why now?
  
  
  ## Great Product
+ 
+ Very broad definition of product
+  - It includes customer support, the copy you write explaining the product, anything involved in your customer's interaction in what you built for them.
+  - To build a really great company, you first have to turn a great idea into a great product.
+  - This is really hard, but its crucially important, and fortunately its pretty fun.
+  - Although great products are always new to the world, and its hard to give you advice about what to build, there are enough commonalities that we can give you a lot of advice about how to build it.
  
  
 
