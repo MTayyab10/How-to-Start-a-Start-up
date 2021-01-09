@@ -153,10 +153,14 @@ Sequoia's famous question: Why now?
   - raising money,
   - getting more press, 
   - hiring, 
-  - business development, etc,
-  These are significantly easier when you have a **great product**. Its really important to take care of that first.
- 
- Step one is to build something that users love. At YC, we tell founders to work on their product, talk to users, exercise, eat and sleep, and very little else. All the other stuff I just mentioned—PR, conferences, recruiting advisers, doing partnerships—you should ignore all of that, and just build a product and get it as good as possible by talking to your users.
+  - business development, etc.
+  
+  These are significantly easier when you have a **great product**.
+  Its really important to take care of PRODUCT first.
+  
+### Steps to build Product
+
+   Step one is to build something that users love. At YC, we tell founders to work on their product, talk to users, exercise, eat and sleep, and very little else. All the other stuff I just mentioned—PR, conferences, recruiting advisers, doing partnerships—you should ignore all of that, and just build a product and get it as good as possible by talking to your users.
  
  
 
