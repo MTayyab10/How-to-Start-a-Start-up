@@ -144,18 +144,17 @@ They think about the growth of the start-up itself, they don't think about the g
 **You should think about this above.**
 
 
-### While a student
+### While a Student
 
  Being a student one of the two biggest advantages are:
    - You probably have better intuition about which markets are likely to start growing rapidly than older people do.
    - Another thing that students usually don't understand, or it takes awhile, 
    - You can not create a market that does not want to exist.
-   - You can basically change everything in a start-up but the market, so you should actually do some thinking to be sure that the market you're    going after is going to grow and be there.
+   - You can basically change everything in a start-up but the market, so you should actually do some thinking to be sure that the market you're going after is going to grow and be there.
    - you've got a very good perspective on new technology.
    - Think about new ideas.
    - And learning to have good ideas takes a while,
-   - So start working on that right now. That's one thing we hear from people all the time, that they wish they had done more of as a student.
-   
+   - So start working on that right now. That's one thing we hear from people all the time, that they wish they had done more of as a student.   
    
 
 ### Right Market
@@ -362,7 +361,7 @@ One of the hard parts about **running a startup is that it's real life** and you
 
 ## 3. Great Team
 
-    Today, we're going to talk about how to hire and how to execute. Hopefully you don't execute the people you hire.
+    Learn how to hire and how to execute. Hopefully you don't execute the people you hire.
     
 ### Co-founders
 
@@ -375,7 +374,7 @@ One of the hard parts about **running a startup is that it's real life** and you
 - The top twenty most valuable YC companies, almost all of them have at least two founders. And we probably funded a rate of like one out of ten solo teams.
 
 
-### Looking for Cofounder
+### Quality of Cofounders
 
 - Need to be unflappable.
 - Tough, they know what to do in every situation. 
@@ -393,6 +392,32 @@ One of the hard parts about **running a startup is that it's real life** and you
 
 - Software people should really be starting software companies. Media people should be starting media companies. In the YC experience, two or three cofounders seems to be about perfect. One, obviously not great, five, really bad. Four works sometimes, but two or three I think is the target.
 
+
+### Try not to Hire
+
+One of the weird things you'll notice as you start a company, is that everyone will ask you how many employees you have.
+
+And this is the metric people use to judge how real your startup is and how cool you are. And if you say you have a high number of employees, they're really impressed.
+
+And if you say you have a low number of employees, then you sound like this little joke.
+
+But actually it sucks to have a lot of employees, and you should be proud of how few employees you have. Lots of employees ends up with things like
+ - a high burn rate, meaning you're losing a lot of money every month, 
+ - complexity, slow decision making, 
+ - the list goes on and it's nothing good.
+
+- Many of the best YC companies have had a phenomenally small number of employees for their first year, sometimes none besides the founders. They really try to stay small as long as they possibly can.
+
+- At the beginning, you should only hire when you desperately need to. Later, you should learn to hire fast and scale up the company, but in the early days the goal should be not to hire. 
+
+- Hiring too much just kills the company.
+
+**Example**
+
+> **Airbnb spent five months interviewing their first employee. And in their first year, they only hired two. 
+Before they hired a single person, they wrote down a list of the culture values that they wanted any Airbnb employee to have.
+One of those what that you had to bleed Airbnb, and if you didn't agree to that they just wouldn't hire you.
+As an example of how intense Brian Chesky is, he's the Airbnb CEO, he used to ask people if they would take the job if they got a medical diagnosis that they have one year left to life. Later he decided that that was a little bit too crazy and I think he relaxed it to ten years, but last I heard, he still asks that question.**
 
 Hiring Process:
 
