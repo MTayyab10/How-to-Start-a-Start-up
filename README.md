@@ -31,11 +31,11 @@ then you might by joining a later stage company.
 - There's an ugly side to being an entrepreneur, and more importantly, 
 - what you're actually spending your time on is just a lot of hard work. 
 - your basically just sitting at your desk, 
-  - heads down, 
-  - focused, 
-  - answering customer support emails,
-  - doing sales,
-  - figuring out hard engineering problems.
+  - Heads down, 
+  - Focused, 
+  - Answering customer support emails,
+  - Doing sales,
+  - Figuring out hard engineering problems.
  
 - So its really important that you go in with eyes wide open.
 - And then its also quite stressful. 
@@ -340,6 +340,25 @@ You want to build an engine in the company that
   - Net promoter scores
   
   these things that matter. And then be brutally honest if they're not going in the right direction. Startups live on growth, its the indicator of a great product.
+  
+
+### FAQ
+
+**How do I identify if a market has a fast growth rate now and also for the next ten years?**
+
+The good news about this is this is one of the big advantages students have. You should just trust your instincts on this.
+
+Older people have to basically guess about the technologies young people are using. But you can just watch what you're doing and what your friends are doing and you will almost certainly have better instincts than anybody older than you.
+
+And so the answer to this is just trust your instincts, think about what you're doing more, think about what you're using, what you're seeing people your age using, that will almost certainly be the future.
+
+**How do you deal with burnout while still being productive and remaining productive?
+
+The answer to this is just that it sucks and you keep going. 
+
+Unlike a student where you can throw up your hands and say you know I'm really burnt out and I'm just going to get bad grades this quarter.
+
+One of the hard parts about running a startup is that it's real life and you just have to get through it. The canonical advice is to go on a vacation and that never works for founders. It's sort of all consuming in this way that is very difficult to understand.
   
  
   
