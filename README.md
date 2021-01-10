@@ -87,9 +87,9 @@ They think about the growth of the start-up itself, they don't think about the g
 ### While a student
 
  Being a student one of the two biggest advantages are:
-   - you probably have better intuition about which markets are likely to start growing rapidly than older people do.
+   - You probably have better intuition about which markets are likely to start growing rapidly than older people do.
    - Another thing that students usually don't understand, or it takes awhile, 
-   - you can not create a market that does not want to exist.
+   - You can not create a market that does not want to exist.
    - You can basically change everything in a start-up but the market, so you should actually do some thinking to be sure that the market you're    going after is going to grow and be there.
    - you've got a very good perspective on new technology.
    - Think about new ideas.
@@ -133,7 +133,7 @@ Sequoia's famous question: Why now?
  And this is probably the thing we see wrong with Y Combinator apps most frequently, is that people have not thought about the market first, and what people want first.
  
  
- ## Great Product
+ ## 2. Great Product
  
  Very broad definition of product is 
   - It includes customer support, the copy you write explaining the product, anything involved in your customer's interaction in what you built for    them.
@@ -161,13 +161,80 @@ Sequoia's famous question: Why now?
 ### Steps to build Product
 
 - Step one is to build something that users love.
+- Talk to users
 At YC, we tell founders to work on their product,
   - talk to users, 
   - exercise, 
   - eat and sleep, 
   - very little else.
   - All the other stuff I just mentioned—PR, conferences, recruiting advisers, doing partnerships—you should ignore all of that.
-    - **just build a product and get it as good as possible by talking to your users.**
+    - **Just build a product and get it as good as possible by talking to your users.**
+ 
+### NoteAble
+
+    A lot of good-on-paper startups fail because they merely make something that people like. Making something that people want, but only a medium amount, is a great way to fail, and not understand why you're failing.
+    
+- Its better to build something that a small number of users love, then a large number of users like.
+- Of course, it would be best to build something that a small number of users love, but opportunities to do that for v1 are rare, and they're usually not available to startups.
+
+
+### Advice
+
+ This is a very important piece of advice. 
+ Build something that a small number of users love. It is much easier to expand from something that small number of people love, to something that a lot of people love, then from something that a lot of people like to a lot of people love.
+ 
+ So the advice is: find a small group of users, and make them love what you're doing.
+ 
+ ### Growth
+ 
+ One way that you know when this is working, is that you'll get growth by word of mouth. 
+ If you get something people love, people will tell their friends about it. This works for consumer product and enterprise  products as well.
+ 
+ When people really love something, they'll tell their friends about it, and you'll see organic growth.
+
+If you find yourself talking about how it's okay that you're not growing—because there's a big partnership that's going to come save you or something like that—its almost always a sign of real trouble.
+
+Sales and marketing are really important.
+
+But if you do not have some early organic growth then its mean your product is not probably good yet,
+
+> Over the long run, great product win. Don't worry about your competitors raising a lot of money, or what they might do in the future. They probably aren't very good anyway. Very few startups die from competition. Most die because they themselves fail to make something users love, they spend their time on other things. So worry about this above all else.
+ 
+ ### Great Products Win
+ 
+ Another piece of advice to make something that users love:
+ 
+ Start with something simple.
+  - Its much much easier to make a great product if you have something simple. 
+  - Even if your eventual plans are super complex, and hopefully they are, you can almost always start with a smaller subset of the problem then you think is the smallest, and its hard to build a great product, so you want to start with as little surface area as possible.
+  
+ - Think about the really successful companies, and what they started with, think about products you really love. 
+ 
+  - They're generally incredibly simple to use, and especially to get started using. The first version of Facebook was almost comically simple.
+  
+  - The first version of Google was just a webpage with a textbox and two buttons; but it returned the best results, and that's why users loved it. The iPhone is far simpler to use then any smartphone that ever came before it, and it was the first one users really loved.
+  
+ ### Fanatical
+ 
+ The word fanatical comes up again and again when you listen to successful founders talk about how they think about their product.
+ 
+ Founders talk about being fanatical in how they care about the quality of the small details. Fanatical in getting the copy that they use to explain the product just right.
+ 
+ and fanatical in the way that they think about customer support. In fact, one thing that correlates with success among the YC companies is the founders that hook up Pagerduty to their ticketing system, so that even if the user emails in the middle of the night when the founder's asleep, they still get a response within an hour.
+ 
+Companies actually do this in the early days. Their founders feel physical pain when the product sucks and they want to wake up and fix it. They don't ship crap, and if they do, they fix it very very quickly.
+
+And it definitely takes some level of fanaticism to build great products.
+
+
+### Feedback
+
+You need some users to help with the feedback cycle, but the way you should get those users is manually
+- you should go recruit them by hand. Don't do things like buy Google ads in the early days, to get initial users.
+- You don't need very many, you just need ones that will give you feedback everyday, and eventually love your product. So instead of trying to get them on Google Adwords, just the few people, in the world, that would be good users. Recruit them by hand.
+    
+
+    
  
  
 
