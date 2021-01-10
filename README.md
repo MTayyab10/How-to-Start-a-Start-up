@@ -243,7 +243,7 @@ Ben Silbermann, when everyone thought Pinterest was a joke, recruited the initia
 - This is an important example of doing things that don't scale. If you haven't read Paul Graham's essay on that topic, you definitely should.
 
 
-### Engine of Company
+### Engine of a Company
 
 You want to build an engine in the company that 
 
@@ -256,6 +256,27 @@ You want to build an engine in the company that
  - Ask them if they'd be really bummed if your company went away. 
   
  - Ask them what would make them recommend the product to their friends, and ask them if they'd recommended it to any yet.
+ 
+ **Great Founders**
+ 
+1. Great founders don't put anyone between themselves and their users. 
+
+2. The founders of these companies do things like sales and customer support themselves in the early days. 
+
+3. Its critical to get this loop embedded in the culture.
+
+4. In fact, a specific problem we always see with Stanford startups, for some reason, is that the students try to hire sales and customer support people right away, and you've got to do this yourself, its the only way.
+
+### Metrics: Focus on Growth
+
+ It really is true that the company will build whatever the CEO decides to measure.
+ 
+ > If you're building an Internet service, ignore things like total registrations, don't talk about them, don't let anyone in the company talk about them.
+ 
+ And look at 
+  - Growth and active users, 
+  - Ativity levels 
+ -cohort retention, revenue, net promoter scores, these things that matter. And then be brutally honest if they're not going in the right direction. Startups live on growth, its the indicator of a great product.
 
 
 
