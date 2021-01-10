@@ -76,7 +76,7 @@ Here are couple of reasons:
 
 1. [Idea](https://github.com/MTayyab10/How-to-start-Start-up/blob/main/README.md#1-great-idea) 
 2. [Product](https://github.com/MTayyab10/How-to-start-Start-up/blob/main/README.md#2-great-product)
-3. Team
+3. [Team](https://github.com/MTayyab10/How-to-start-Start-up/blob/main/README.md#3-great-team)
 4. Execution
 
 
@@ -366,10 +366,33 @@ One of the hard parts about **running a startup is that it's real life** and you
     
 ### Co-founders
 
-Shoud be smart & have technical knowledge
-Not should be random one ( janty na ho )
-You shoud know him
-( good to have 2 or 3 co-founders ) Its better not to have instead of having a bad co-founder 
+> Cofounder relationships are among the most important in the entire company. Everyone says you have to watch out for tension brewing among cofounders and you have to address is immediately. That's all true and certainly in YC's case, the number one cause of early death for startups is cofounder blowups. But for some reason, a lot of people treat choosing their cofounder with even less importance than hiring. Don't do this! This is one of the most important decisions you make in the life of your startup and you need to treat it as such.
+
+- And for some reason, students are really bad at this. They just pick someone. They're like, I want to start a business and you want to start a business, let's start a startup together. There are these cofounder dating things where you're like, Hey I'm looking for a cofounder, we don't really know each other, let's start a company. And this is like, crazy. You would never hire someone like this and yet people are willing to choose their business partners this way. It's really really bad. And choosing a random random cofounder, or choosing someone you don't have a long history with, choosing someone you're not friends with, so when things are really going wrong, you have this sort of past history to bind you together, usually ends up in disaster.
+
+- **It's better to have no cofounder than to have a bad cofounder, but it's still bad to be a solo founder.**
+
+- The top twenty most valuable YC companies, almost all of them have at least two founders. And we probably funded a rate of like one out of ten solo teams.
+
+
+### Looking for Cofounder
+
+- Need to be unflappable.
+- Tough, they know what to do in every situation. 
+
+- They act quickly, they're decisive, they're creative, they're ready for anything, and it turns out that there's a model for this in pop culture. And it sounds very dumb, but it's at least very memorable and we've told every class of YC this for a long time and I think it helps them.
+
+- Shoud be smart & have technical knowledge.
+- You really want to know your cofounders for awhile, ideally years. 
+
+- You want a tough and a calm cofounder. There are obvious things like smart, but everyone knows you want a smart cofounder, they don't prioritize things like tough and calm enough, especially if you feel like you yourself aren't, you need a cofounder who is. 
+
+- You want a technical cofounder. 
+
+- There's this weird thing going on in startups right now where it's become popular to say, You know what, we don't need a technical cofounders, we're gonna hire people, we're just gonna be great managers. That doesn't work too well in our experience. 
+
+- Software people should really be starting software companies. Media people should be starting media companies. In the YC experience, two or three cofounders seems to be about perfect. One, obviously not great, five, really bad. Four works sometimes, but two or three I think is the target.
+
 
 Hiring Process:
 
