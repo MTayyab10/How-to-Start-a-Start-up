@@ -515,8 +515,8 @@ But the right answer is to fire fast when it's not working. It's better for the 
 
 In addition to firing people who are doing bad at their job:
 
-1- creating office politics
-2- who are persistently negative
+1. creating office politics
+2. who are persistently negative
 
 - The rest of the company is always aware of employees doing things like this, and it's just this huge drag - it's completely toxic to the company.
 
@@ -544,7 +544,8 @@ If you don't do that and if you have a huge fallout and one founder leaves early
 **What about cofounders that aren't working in the same location?** 
 
 The answer is, don't do it. I am skeptical of remote teams in general but in the early days of a startup, when communication and speed outweigh everything else, for some reason video conferencing calls just don't work that well.
-> The data on this is look at say the 30 successful software companies of all time and try to point to a single example where the cofounders were in different locations. It's really really tough.
+
+- The data on this is look at say the 30 successful software companies of all time and try to point to a single example where the cofounders were in different locations. It's really really tough.
 
 ## 4. Execution
 
@@ -565,56 +566,79 @@ But really what it’s about more than anything else, what being a cofounder rea
 
 - Set the vision
 - Raise money
-- Evangilize ( recuriting, running,  press )
+- Evangilize (recuriting, running,  press )
 - Hire and manage
 - Make sure the entire company execute
 
-So can you get done it????
-   Focus
-There will be a lot things to done but you can done only 2 or 3  
-    where are you spending time and money? 
-    what are the two imporant things to do?
-U must need to done otherwise it can be very difficult 
+### Focus
 
-Focus 
+  So can you get done it????
+  
+There will be a lot of things to done but you can done only 2 or 3 
 
-i- Saya a lot
-ii- set the goals 
-iii- Commnuicate
-iv- Maintian growth & momentum
-v- work together in person 
+**where are you spending time and money?**
 
-success of Startup is with extreme Focus and dedication 
+**what are the two imporant things to do?**
 
-INTENSITY
+You must need to done otherwise it can be very difficult.
 
-i- Releteness operating rythm ( break things and move fast like fb or google ) 
-ii- Obsession with execution quality
-iii- Bias towards action ( do not just talk, just do quickly ) 
+> if you don't get good at setting what those two or three things are, you'll never be good at getting stuff done. This is really hard for founders. Founders get excited about starting new things.
 
-Important Points 
+So then there's this question of how do you figure out what to focus on each day. 
+**Each day it's really important to have goals.** Most good founders have a set of small overarching goals for the company that everybody in the company knows.
+You know it could be something like 
+ - ship a product by this date, 
+ - get this certain growth rate, 
+ - get this engagement rate, 
+ - hire for these key roles, 
+ - those are some of them but everyone in the company can tell you each week what are our key goals. 
+ And then everybody executes based off of that.
 
-Quickly 
-Do whatever it takes 
-Do not give up
-Show up
-be courageous
-Move speedly
-Future of Startup depends 
+### Care About
 
-Always keep momentum
-Always keep growing
+1. Saya a lot
+2. Set the goals 
+3. Commnuicate
+4. Maintian growth & momentum
+5. Work together in person 
 
-If you cannot keep these 
+**Success of Startup is with extreme Focus and dedication.** 
+
+> You can have a startup and one other thing, you can have a family, but you probably can't have many other things. Startups are not the best choice for work life balance and that's sort of just the sad reality. There's a lot of great things about a startup, but this is not one of them. Startups are all-consuming in a way that is generally difficult to explain. You basically need to be willing to outwork your competitors.
+
+### Intensity
+
+- Releteness operating rythm ( move fast and break things like fb or google ) 
+- Obsession with execution quality
+- Bias towards action ( do not just talk, just do quickly ) 
+- Quickly 
+- Do whatever it takes 
+- Do not give up
+- Show up
+- Be courageous
+- Move speedly
+- Future of Startup depends 
+
+
+> Momentum and growth are lifeblood of Startups.
+
+**Always keep momentum, Always keep growing**
+
+If you cannot keep momentum and growth
 fix the small one and keep momentum 
 And 
-   Sales fix everything in Startup
+   **Sales fix everything in Startup**
+   
+### For momentum and growth
 
 Operating rythm 
-i- shipping product
-ii- launching new features 
-iii- reviewing / reporting metrics and milestones
+- Shipping product
+- Launching new features 
+- Reviewing / reporting metrics and milestones
 
 Do not use money which you don't have!
+
+> **This great quote from Henry Ford that I love: “The competitor to be feared is one who never bothers about you at all, but goes on making his own business better all the time.”**
+
 
 
