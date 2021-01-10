@@ -5,6 +5,44 @@
 
        Startup are different than normal companies.
   
+
+
+## Why you should start Start-up?
+
+Every one whos start start-up always says that you couldn't imagine how hard and painful it is going to be. 
+
+You should start start-up that you can feel compelled by a particular problem and that you can think starting a company you can solve that probelm.
+
+**Passion** should come first and **Start-up** second. 
+
+### Common Reasons to become a Tech Entrepreneur
+
+Here the 4 most common reasons for Start-up
+- It's glamorous
+- You'll get to be the boss
+- You'll have flexibility, especially over your schedule
+- You'll have the chance to have bigger impact 
+- You'll make more $$$ money
+then you might by joining a later stage company.
+
+### Start-up in Reality 
+
+- Reality is just not quite so glamorous.
+- There's an ugly side to being an entrepreneur, and more importantly, 
+- what you're actually spending your time on is just a lot of hard work. 
+- your basically just sitting at your desk, 
+  - heads down, 
+  - focused, 
+  - answering customer support emails,
+  - doing sales,
+  - figuring out hard engineering problems.
+ 
+- So its really important that you go in with eyes wide open.
+- And then its also quite stressful. 
+- This has been a popular topic in the press lately: The Economist actually ran a story just last week called "Entreupeneurs anonymous", and shows a founder like hiding under his desk, talking about founder depression.
+- So this is a very real thing. 
+- Let's be real, if you start a company its going to be extremely hard.
+
 ## Four Areas for Start-up
 
 1. [Idea](https://github.com/MTayyab10/How-to-start-Start-up/blob/main/README.md#1-great-idea) 
@@ -12,14 +50,6 @@
 3. Team
 4. Execution
 
-### Why you should start Start-up?
-
-Every one whos start start-up always says that you couldn't imagine how hard and painful it is going to be. 
-
-You should start start-up that you can feel compelled by a particular problem and that you can think starting a company you can solve that probelm.
-
-
-**Passion** should come first and **Start-up** second. 
 
 ## 1. Great Idea
 
@@ -274,9 +304,17 @@ You want to build an engine in the company that
  > If you're building an Internet service, ignore things like total registrations, don't talk about them, don't let anyone in the company talk about them.
  
  And look at 
-  - Growth and active users, 
+  - Growth and active users
   - Ativity levels 
- -cohort retention, revenue, net promoter scores, these things that matter. And then be brutally honest if they're not going in the right direction. Startups live on growth, its the indicator of a great product.
+  - Cohort retention,
+  - Revenue, 
+  - Net promoter scores
+  
+  these things that matter. And then be brutally honest if they're not going in the right direction. Startups live on growth, its the indicator of a great product.
+  
+ 
+  
+ 
 
 
 
