@@ -4,7 +4,9 @@
 ### Note :
 
        Startup are different than normal companies.
-  
+
+How to start Start-up? Course at Stanford University by Y-Combinator
+Here is the YouTube [link](https://youtu.be/CVfnkM44Urs)
 
 
 ## Why you should start Start-up?
