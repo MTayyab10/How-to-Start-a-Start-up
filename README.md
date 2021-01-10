@@ -67,10 +67,10 @@ Here are couple of reasons:
 
 - **So if you're lucky and you have a bad startup idea, you fail quickly, but most of the time it's not like that.**
 
-### Anxiety & Strss
+### Anxiety & Stress
 
 
-    If you do start a company, be aware that you're going to deal with this. You're going to have to actually manage this, it's one of your core responsibilities. Ben Horowitz likes to say the number one role of a CEO is managing your own psychology, it's absolutely true, make sure you do it.
+> If you do start a company, be aware that you're going to deal with this. You're going to have to actually manage this, it's one of your core responsibilities. Ben Horowitz likes to say the number one role of a CEO is managing your own psychology, it's absolutely true, make sure you do it.
 
 ## Four Areas for Start-up
 
