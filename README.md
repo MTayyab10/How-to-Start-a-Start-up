@@ -62,6 +62,7 @@ A lot of founders and usually students belive that their start-ups only going to
 Another advantage of mission oriented company is that outsider peoples will help and support.
 
 #### Hard Part
+
      The hardest part about coming up with great ideas is that the best ideas often look very terrible at the beginning.
      
 **Seems like a bad idea** Start-Up **This a good idea**.
@@ -232,14 +233,6 @@ And it definitely takes some level of fanaticism to build great products.
 You need some users to help with the feedback cycle, but the way you should get those users is manually
 - you should go recruit them by hand. Don't do things like buy Google ads in the early days, to get initial users.
 - You don't need very many, you just need ones that will give you feedback everyday, and eventually love your product. So instead of trying to get them on Google Adwords, just the few people, in the world, that would be good users. Recruit them by hand.
-    
-
-    
- 
- 
-
-   
-
 
 
 
