@@ -234,6 +234,29 @@ You need some users to help with the feedback cycle, but the way you should get 
 - you should go recruit them by hand. Don't do things like buy Google ads in the early days, to get initial users.
 - You don't need very many, you just need ones that will give you feedback everyday, and eventually love your product. So instead of trying to get them on Google Adwords, just the few people, in the world, that would be good users. Recruit them by hand.
 
+### Pinterest Joke 
+
+Ben Silbermann, when everyone thought Pinterest was a joke, recruited the initial Pinterest users by chatting up strangers in coffee shops. 
+
+- He really did, he just walked around Palo Alto and said "Will you please use my product?" He also used to run around the Apple store in Palo Alto, and he would like set all the browsers to the Pinterest homepage real quick, before they caught him and kicked him out, and so that when people walked in they were like "Oh, what's this?".
+
+- This is an important example of doing things that don't scale. If you haven't read Paul Graham's essay on that topic, you definitely should.
+
+
+### Engine of Company
+
+You want to build an engine in the company that 
+
+ - **transforms feedback from users into product decisions.**
+ 
+ - Then get it back in from of the users and repeat. 
+ 
+ - Ask them what the like and don't like, and watch them use it. Ask them what they'd pay for.
+  
+ - Ask them if they'd be really bummed if your company went away. 
+  
+ - Ask them what would make them recommend the product to their friends, and ask them if they'd recommended it to any yet.
+
 
 
 
