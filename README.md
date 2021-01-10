@@ -419,14 +419,33 @@ Before they hired a single person, they wrote down a list of the culture values 
 One of those what that you had to bleed Airbnb, and if you didn't agree to that they just wouldn't hire you.
 As an example of how intense Brian Chesky is, he's the Airbnb CEO, he used to ask people if they would take the job if they got a medical diagnosis that they have one year left to life. Later he decided that that was a little bit too crazy and I think he relaxed it to ten years, but last I heard, he still asks that question.**
 
-Hiring Process:
+- And when the company faced a big crisis early on, everyone lived in the office, and they shipped product every day until the crisis was over. 
+- One of the remarkable observations about Airbnb is that if you talk to any of the first forty or so employees, they all feel like they were a part of the founding of the company.
 
-At Starting not Hire too much employes
+### Get the Best Peopls
+
+When you're in this hiring mode, it should be your number one priority to get the best people.
+
+Just like when you're in product mode that should be your number one priority. 
+
+And when you're in fundraising mode, fundraising is your number one priority.
+
+#### Time for hiring
+
+how much time you should be spending on hiring?
+> The answer is zero or twenty-five percent. You're either not hiring at all or it's probably your single biggest block of time. In practice, all these books on management say you should spend fifty percent of your time hiring, but the people that give that advice, it's rare for them to even spend ten percent themselves. 
+
+Twenty-five percent is still a huge amount of time, but that's really how much you should be doing once you're in hiring mode.
+
+### Great Advice
+
+   Medicore engineers do not build best companies.
+Not hire medicore candidates, 
+
 Hiring peoples is disaster for a company ( money, time, goals and create tension )
 In hiring follow these : 
 Experience matter sometime not. 
-Not hire medicore candidates, 
-medicore do not make best companies 
+ 
 
 Skills looking for in Peoples:
 1, Are they smart? 
