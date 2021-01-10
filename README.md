@@ -342,7 +342,7 @@ You want to build an engine in the company that
   these things that matter. And then be brutally honest if they're not going in the right direction. Startups live on growth, its the indicator of a great product.
   
 
-### FAQ
+## Frequently Asked Questions ( FAQ )
 
 **How do I identify if a market has a fast growth rate now and also for the next ten years?**
 
@@ -352,27 +352,19 @@ Older people have to basically guess about the technologies young people are usi
 
 And so the answer to this is just trust your instincts, think about what you're doing more, think about what you're using, what you're seeing people your age using, that will almost certainly be the future.
 
-**How do you deal with burnout while still being productive and remaining productive?
+**How do you deal with burnout while still being productive and remaining productive?**
 
 The answer to this is just that it sucks and you keep going. 
 
 Unlike a student where you can throw up your hands and say you know I'm really burnt out and I'm just going to get bad grades this quarter.
 
-One of the hard parts about running a startup is that it's real life and you just have to get through it. The canonical advice is to go on a vacation and that never works for founders. It's sort of all consuming in this way that is very difficult to understand.
-  
- 
-  
- 
+One of the hard parts about **running a startup is that it's real life** and you just have to get through it. The canonical advice is to go on a vacation and that never works for founders. It's sort of all consuming in this way that is very difficult to understand.
 
+## 3. Great Team
 
-
-
-
-
-
-
-
-Co-founders
+    Today, we're going to talk about how to hire and how to execute. Hopefully you don't execute the people you hire.
+    
+### Co-founders
 
 Shoud be smart & have technical knowledge
 Not should be random one ( janty na ho )
