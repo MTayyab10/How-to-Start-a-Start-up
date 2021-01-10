@@ -17,7 +17,7 @@ You should start start-up that you can feel compelled by a particular problem an
 
 ### Common Reasons to become a Tech Entrepreneur
 
-Here the 4 most common reasons for Start-up
+Here the most common reasons for Start-up
 - It's glamorous
 - You'll get to be the boss
 - You'll have flexibility, especially over your schedule
@@ -25,7 +25,7 @@ Here the 4 most common reasons for Start-up
 - You'll make more $$$ money
 then you might by joining a later stage company.
 
-### Start-up in Reality 
+### Ugly side of being a Founder 
 
 - Reality is just not quite so glamorous.
 - There's an ugly side to being an entrepreneur, and more importantly, 
@@ -39,9 +39,38 @@ then you might by joining a later stage company.
  
 - So its really important that you go in with eyes wide open.
 - And then its also quite stressful. 
+
 - This has been a popular topic in the press lately: The Economist actually ran a story just last week called "Entreupeneurs anonymous", and shows a founder like hiding under his desk, talking about founder depression.
+
 - So this is a very real thing. 
-- Let's be real, if you start a company its going to be extremely hard.
+- Let's be real, if you start a company its going to be **extremely hard**.
+
+### Why is it so stressful?
+
+Here are couple of reasons:
+
+- You've got a lot of responsibility.
+
+- People in any career have a fear of failure, its kind of just like a dominant part of the part of the psychology.
+
+- But when you're an entrepreneur, you have fear of failure on behalf of yourself and all of the people who decided to follow you. 
+
+- So that's really stressful. In some cases people are depending on you for their livelihood, even when that's not true, they've decided to devote the best years of their life to following you. 
+
+- So you're responsible for the opportunity cost of their time. 
+- You're always on call, if something comes up—maybe not always at 3 in the morning, but for some startups that's true—but if something important comes up, you're going to deal with it. 
+- That's doesn't matter if you're on vacation, doesn't matter if its the weekend, you've got to always be on the ball and be in a place mentally where you're prepared to deal with those things.
+
+- A sort of special example of this kind of stress is **fundraising**.
+
+- If you're at a startup and it's very stressful and things are not going well, you're unhappy, you can just leave. For a founder, you can leave, but it's very uncool and pretty much a black eye for the rest of your career.
+
+- **So if you're lucky and you have a bad startup idea, you fail quickly, but most of the time it's not like that.**
+
+### Anxiety & Strss
+
+
+    If you do start a company, be aware that you're going to deal with this. You're going to have to actually manage this, it's one of your core responsibilities. Ben Horowitz likes to say the number one role of a CEO is managing your own psychology, it's absolutely true, make sure you do it.
 
 ## Four Areas for Start-up
 
