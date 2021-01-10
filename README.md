@@ -439,40 +439,135 @@ Twenty-five percent is still a huge amount of time, but that's really how much y
 
 ### Great Advice
 
-   Medicore engineers do not build best companies.
-Not hire medicore candidates, 
+       Medicore engineers do not build best companies.
+       
+Not hire medicore candidates.
 
-Hiring peoples is disaster for a company ( money, time, goals and create tension )
-In hiring follow these : 
-Experience matter sometime not. 
+- We like to warn founders of this but no one really feels it until they make the mistake the first time, but it can poison the culture.
+- Mediocre people at huge companies will cause some problems, but it won't kill the company.
+- **A single mediocre hire within the first five will often in fact kill a startup.**
+
+### Sources of candidates
+
+ The best source for hiring by far is people that you already know and people that other employees in the company already know. Most great companies in tech have been built by personal referrals for the first hundred employees and often many more.
  
+ Most founders feel awkward but calling anyone good that they've ever met and asking their employees to do the same.
 
-Skills looking for in Peoples:
-1, Are they smart? 
-2, Do they get things done?
-3, Do I want to spend a lot of time to around them? 
-    
-If have Hire, you will not regret
-( before hiring you can do work with that one for a project )
-Even give first 4 employes 10% of the company
+- Another tip is to look outside the valley. It is brutally competitive to hire engineers here but you probably know people elsewhere in the world that would like to work with you.
 
-Fire::
-Fire to peoples its completly toxic, very bad for company 
-But sometime its necessary to fire bad employes
-Some kind of peoples like 
-1- who are not doing work 
-2- Doing politics in Office
-3- Negative Peoples
+**Another question that founders ask us a lot about his experience and how much that matters?**
 
-4- Execution :
-Founder is not a easy task you need to do a lot of hard work, you are the only one who can decide the future of company, if u will be hard worker, responsible and doing stuff with a good manner then other will also do, That will become a culture of your company
+> The short version here is that experience matters for some roles and not for others. 
+When you're hiring someone that is going to run a large part of your organization experience probably matters a lot.
+For most of the early hires that you make at a startup, experience probably doesn't matter that much and you should go for aptitude and belief in what you’re doing.
 
- Main 5 jobs of CEO
-i- Set the vision
-ii- Raise money
-iii- Evangilize ( recuriting, running,  press )
-iv- Hire & mange
-v- Make sure the entire company execute
+> Most of the best hires that I've made in my entire life have never done that thing before. So it's really worth thinking, is this a role where I care about experience or not. And you'll often find to don’t, especially in the early days.
+
+
+### Skills looking for in Peoples:
+
+1. Are they smart? 
+2. Do they get things done?
+3. Do I want to spend a lot of time to around them? 
+
+If they have these qualities hire, you will not regret.
+
+- You can learn a lot about all three of these things in an interview but the very best way is working together.
+
+- Work with someone on a project for a day or two before hiring them. You'll both learn a lot they will too and most first-time founders are very bad interviewers but very good at evaluating someone after they've worked together.
+
+- You should ask specifically about projects that someone worked on in the past. You'll learn a lot more than you will with brainteasers. For some reason, young technical cofounders love to ask brainteasers rather than just ask what someone has done.
+
+> **And call references. That is another thing that first time founders like to skip. You want to call some people that these people have worked with in the past. And when you do, you don't just want to ask, How was so-and-so, you really want to dig in. Is this person in the top five percent of people you've ever worked with? What specifically did they do? Would you hire them again? Why aren't you trying to hire them again? You really have to press on these reference calls.**
+
+### Also have qualities 
+
+- Good Communication Skills
+- Determined
+- Feel comfortable reporting.
+- You don't have to be friends with everybody, but you should at least enjoy working with them. 
+- And if you don't have that, you should at least deeply respect them.
+- But again, if you don't want to spend a lot of time around people you should trust your instincts about that.
+
+### Employee equity
+
+ Founders screw this up all the time. I think as a rough estimate, you should aim to give about ten percent of the company to the first ten employees.
+They have to earn it over four years anyway, and if they're successful, they're going to contribute way more than that. They're going to increase the value of the company way more than that.
+
+**Generous as you possibly can with employees.**
+- You have to make sure your employees are happy and feel valued.
+
+> you shouldn't tell your employees they're fucking up every day unless you want them all to leave because they will.
+
+- Dan Pink talks about these three things that motivate people to do great work:
+  - Autonomy 
+  - Mastery
+  - Purpose 
+  
+### Fire People
+
+Firing people when it's not working.
+Firing people is one of the worst parts of running a company.
+
+Actually in my own experience, I'd say it is the very worst part. 
+Every first time founder waits too long, everyone hopes that an employee will turn around.
+But the right answer is to fire fast when it's not working. It's better for the company, it's also better for the employee. But it's so painful and so awful, that everyone gets it wrong the first few times.
+
+In addition to firing people who are doing bad at their job:
+
+1- creating office politics
+2- who are persistently negative
+
+- The rest of the company is always aware of employees doing things like this, and it's just this huge drag - it's completely toxic to the company.
+
+- Again, this is an example of something that might work OK in a big company, although I'm still skeptical, but will kill a startup. So that you need to watch out for people that are.
+
+## FAQ 
+
+**When should co-founders decide on the equity split?**
+
+For some reason, I've never really been sure why this is, a lot of founders, a lot of co-founders like to leave this off for a very long time. You know, they'll even sign the incorporation documents in some crazy way so that they can wait to have this discussion.
+
+This is not a discussion that gets easier with time, you wanna set this ideally very soon after you start working together. And it should be near-equal. If you're not willing to give someone - your co-founder - you know, like an equal share of the equity, I think that should make you think hard about whether or not you want them as a co-founder. But in any case, you should try to have the ink dry on this before the company gets too far along. Like, certainly in the first number of weeks.
+
+**What happens when your relationship with your cofounder falls apart?**
+
+Most important thing that founders screw up. Which is, every cofounder, you yourself of course, has to have vesting. 
+
+Basically what you're doing with cofounder vesting is you're pre-negotiating what happens if one of you leaves.
+
+And so the normal stance on this in Silicon Valley is that it takes four years, let's say you split the equity fifty-fifty, is that it takes four years to earn all of that. And the clock doesn't start until one year in. So if you leave after one year, you keep twenty-five percent of the equity, and if you leave after two years, fifty, and on and on like that.
+
+If you don't do that and if you have a huge fallout and one founder leaves early on with half the company, you have this deadweight on your equity table, and it's very hard to get investors to fund you or to do anything else. So number one piece of advice to prevent that is to have vesting on the equity. We pretty much won't fund a company now where the founders don't have vested equity because it's just that bad. The other thing that comes up in the relationship between the cofounders, which happens to some degree in every company, is talk about it early, don't let it sit there and fester.
+
+
+**What about cofounders that aren't working in the same location?** 
+
+The answer is, don't do it. I am skeptical of remote teams in general but in the early days of a startup, when communication and speed outweigh everything else, for some reason video conferencing calls just don't work that well.
+> The data on this is look at say the 30 successful software companies of all time and try to point to a single example where the cofounders were in different locations. It's really really tough.
+
+## 4. Execution
+
+> Execution for most founders is not the most fun part of running the company, but it is the most critical.
+Many cofounders think they're just signing up to this beautiful idea and then they're going to go be on magazine covers and go to parties.
+But really what it’s about more than anything else, what being a cofounder really means, is signing up for this years long grind on execution and you can’t outsource this.
+
+### Super Important
+
+- The way to have a company that executes well is you have to execute well yourself.
+- Every thing at a startup gets modeled after the founders. Whatever the founders do becomes the culture. So if you want a culture where people work hard, pay attention to detail, manage the customers, are frugal, you have to do it yourself.
+
+- There is no other way. You cannot hire a COO ( chief operating officer ) to do that while you go off to conferences. The company just needs to see you as this maniacal execution machine. 
+
+- There’s at least a hundred times more people with great ideas than people who are willing to put in the effort to execute them well. Ideas by themselves are not worth anything, only executing well is what adds and creates value.
+
+### 5 Main jobs of CEO
+
+- Set the vision
+- Raise money
+- Evangilize ( recuriting, running,  press )
+- Hire and manage
+- Make sure the entire company execute
 
 So can you get done it????
    Focus
