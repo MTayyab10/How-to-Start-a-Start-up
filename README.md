@@ -63,7 +63,7 @@ Another advantage of mission oriented company is that outsider peoples will help
 
 #### Hard Part
 
- - The hardest part about coming up with great ideas is that the best ideas often look very terrible at the beginning.
+  The hardest part about great ideas is that the best ideas look terrible at the beginning.
      
 **Seems like a bad idea** Start-Up **This a good idea**.
 
