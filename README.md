@@ -172,7 +172,7 @@ At YC, we tell founders to work on their product,
  
 ### NoteAble
 
-    A lot of good-on-paper startups fail because they merely make something that people like. Making something that people want, but only a medium amount, is a great way to fail, and not understand why you're failing.
+  > A lot of good-on-paper startups fail because they merely make something that people like. Making something that people want, but only a medium amount, is a great way to fail, and not understand why you're failing.
     
 - Its better to build something that a small number of users love, then a large number of users like.
 - Of course, it would be best to build something that a small number of users love, but opportunities to do that for v1 are rare, and they're usually not available to startups.
