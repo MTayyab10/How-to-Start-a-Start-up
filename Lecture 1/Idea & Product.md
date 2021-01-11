@@ -1,14 +1,5 @@
 
-# How to start a StartUp
-
-
-### Note :
-
-       Startup are different than normal companies.
-
-Course at Stanford Uni. Here is the YT [link](https://youtu.be/CVfnkM44Urs)
-
-## Why you should start Start-up?
+# Why you should start Start-up?
 
 Every one whos start start-up always says that you couldn't imagine how hard and painful it is going to be. 
 
@@ -16,7 +7,8 @@ You should start start-up that you can feel compelled by a particular problem an
 
 **Passion** should come first and **Start-up** second. 
 
-### Common Reasons to become a Tech Entrepreneur
+
+## Common Reasons to become a Tech Entrepreneur
 
 Here the most common reasons for Start-up
 - It's glamorous
@@ -26,7 +18,7 @@ Here the most common reasons for Start-up
 - You'll make more $$$ money
 then you might by joining a later stage company.
 
-### Ugly side of being a Founder 
+## Ugly side of being a Founder 
 
 - Reality is just not quite so glamorous.
 - There's an ugly side to being an entrepreneur, and more importantly, 
@@ -46,7 +38,7 @@ then you might by joining a later stage company.
 - So this is a very real thing. 
 - Let's be real, if you start a company its going to be **extremely hard**.
 
-### Why is it so stressful?
+## Why is it so stressful?
 
 Here are couple of reasons:
 
@@ -68,7 +60,7 @@ Here are couple of reasons:
 
 - **So if you're lucky and you have a bad startup idea, you fail quickly, but most of the time it's not like that.**
 
-### Anxiety & Stress
+## Anxiety & Stress
 
 
 > If you do start a company, be aware that you're going to deal with this. You're going to have to actually manage this, it's one of your core responsibilities. Ben Horowitz likes to say the number one role of a CEO is managing your own psychology, it's absolutely true, make sure you do it.
@@ -121,7 +113,7 @@ A lot of founders and usually students belive that their start-ups only going to
 
 Another advantage of mission oriented company is that outsider peoples will help and support.
 
-#### Hard Part
+### Hard Part
 
      The hardest part about great ideas is that the best ideas look terrible at the beginning.
      
