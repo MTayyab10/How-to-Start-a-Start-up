@@ -5,7 +5,9 @@
     
 ## Co-founders
 
-> Cofounder relationships are among the most important in the entire company. Everyone says you have to watch out for tension brewing among cofounders and you have to address is immediately. That's all true and certainly in YC's case, the number one cause of early death for startups is cofounder blowups. But for some reason, a lot of people treat choosing their cofounder with even less importance than hiring. Don't do this! This is one of the most important decisions you make in the life of your startup and you need to treat it as such.
+> Cofounder relationships are among the most important in the entire company. Everyone says you have to watch out for tension brewing among cofounders and you have to address is immediately. 
+That's all true and certainly in YC's case, the number one cause of early death for startups is cofounder blowups. But for some reason, a lot of people treat choosing their cofounder with even less importance than hiring.
+Don't do this! This is one of the most important decisions you make in the life of your startup and you need to treat it as such.
 
 - And for some reason, students are really bad at this. They just pick someone. They're like, I want to start a business and you want to start a business, let's start a startup together. There are these cofounder dating things where you're like, Hey I'm looking for a cofounder, we don't really know each other, let's start a company. And this is like, crazy. You would never hire someone like this and yet people are willing to choose their business partners this way. It's really really bad. And choosing a random random cofounder, or choosing someone you don't have a long history with, choosing someone you're not friends with, so when things are really going wrong, you have this sort of past history to bind you together, usually ends up in disaster.
 
@@ -150,14 +152,14 @@ They have to earn it over four years anyway, and if they're successful, they're 
 Firing people when it's not working.
 Firing people is one of the worst parts of running a company.
 
-Actually in my own experience, I'd say it is the very worst part. 
-Every first time founder waits too long, everyone hopes that an employee will turn around.
+Firing is very worst part. 
+
 But the right answer is to fire fast when it's not working. It's better for the company, it's also better for the employee. But it's so painful and so awful, that everyone gets it wrong the first few times.
 
 In addition to firing people who are doing bad at their job:
 
-1. creating office politics
-2. who are persistently negative
+1. Creating office politics
+2. Whoo are persistently negative
 
 - The rest of the company is always aware of employees doing things like this, and it's just this huge drag - it's completely toxic to the company.
 
@@ -279,7 +281,7 @@ Operating rythm
 
 Do not use money which you don't have!
 
-> **This great quote from Henry Ford that I love: “The competitor to be feared is one who never bothers about you at all, but goes on making his own business better all the time.”**
+> This great quote from Henry Ford that I love: **“The competitor to be feared is one who never bothers about you at all, but goes on making his own business better all the time.”**
 
 
 
