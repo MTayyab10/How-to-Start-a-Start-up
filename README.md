@@ -5,9 +5,11 @@
        
 ## Description
 
-Course at Stanford University by Y-Combinator. Here is the YouTube link of course [How to start a StartUp](https://youtu.be/CVfnkM44Urs)
+Course at Stanford University by Y-Combinator.
 
-Very Important for Tech Startups
+Here is the YouTube link of course [How to start a StartUp](https://youtu.be/CVfnkM44Urs)
+
+Very Important for Tech Startups.
 
 
 ## Notes
