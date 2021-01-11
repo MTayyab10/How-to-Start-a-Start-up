@@ -1,9 +1,9 @@
 
-## 3. Great Team
+# 3. Great Team
 
     Learn how to hire and how to execute. Hopefully you don't execute the people you hire.
     
-### Co-founders
+## Co-founders
 
 > Cofounder relationships are among the most important in the entire company. Everyone says you have to watch out for tension brewing among cofounders and you have to address is immediately. That's all true and certainly in YC's case, the number one cause of early death for startups is cofounder blowups. But for some reason, a lot of people treat choosing their cofounder with even less importance than hiring. Don't do this! This is one of the most important decisions you make in the life of your startup and you need to treat it as such.
 
@@ -14,7 +14,7 @@
 - The top twenty most valuable YC companies, almost all of them have at least two founders. And we probably funded a rate of like one out of ten solo teams.
 
 
-### Quality of Cofounders
+## Quality of Cofounders
 
 - Need to be unflappable.
 - Tough, they know what to do in every situation. 
@@ -33,7 +33,7 @@
 - Software people should really be starting software companies. Media people should be starting media companies. In the YC experience, two or three cofounders seems to be about perfect. One, obviously not great, five, really bad. Four works sometimes, but two or three I think is the target.
 
 
-### Try not to Hire
+## Try not to Hire
 
 One of the weird things you'll notice as you start a company, is that everyone will ask you how many employees you have.
 
@@ -62,7 +62,7 @@ As an example of how intense Brian Chesky is, he's the Airbnb CEO, he used to as
 - And when the company faced a big crisis early on, everyone lived in the office, and they shipped product every day until the crisis was over. 
 - One of the remarkable observations about Airbnb is that if you talk to any of the first forty or so employees, they all feel like they were a part of the founding of the company.
 
-### Get the Best Peopls
+## Get the Best Peopls
 
 When you're in this hiring mode, it should be your number one priority to get the best people.
 
@@ -70,9 +70,10 @@ Just like when you're in product mode that should be your number one priority.
 
 And when you're in fundraising mode, fundraising is your number one priority.
 
-#### Time for hiring
+### Time for hiring
 
 how much time you should be spending on hiring?
+
 > The answer is zero or twenty-five percent. You're either not hiring at all or it's probably your single biggest block of time. In practice, all these books on management say you should spend fifty percent of your time hiring, but the people that give that advice, it's rare for them to even spend ten percent themselves. 
 
 Twenty-five percent is still a huge amount of time, but that's really how much you should be doing once you're in hiring mode.
@@ -104,7 +105,7 @@ For most of the early hires that you make at a startup, experience probably does
 > Most of the best hires that I've made in my entire life have never done that thing before. So it's really worth thinking, is this a role where I care about experience or not. And you'll often find to don’t, especially in the early days.
 
 
-### Skills looking for in Peoples:
+## Skills looking for in Peoples:
 
 1. Are they smart? 
 2. Do they get things done?
@@ -144,7 +145,7 @@ They have to earn it over four years anyway, and if they're successful, they're 
   - Mastery
   - Purpose 
   
-### Fire People
+## Fire People
 
 Firing people when it's not working.
 Firing people is one of the worst parts of running a company.
@@ -210,7 +211,7 @@ But really what it’s about more than anything else, what being a cofounder rea
 - Hire and manage
 - Make sure the entire company execute
 
-### Focus
+## Focus
 
   So can you get done it????
   
@@ -234,7 +235,7 @@ You know it could be something like
  - those are some of them but everyone in the company can tell you each week what are our key goals. 
  And then everybody executes based off of that.
 
-### Care About
+## Care About
 
 1. Saya a lot
 2. Set the goals 
