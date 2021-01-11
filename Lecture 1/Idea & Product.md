@@ -67,8 +67,8 @@ Here are couple of reasons:
 
 ## Four Areas for Start-up
 
-1. [Idea](https://github.com/MTayyab10/How-to-start-Start-up/blob/main/README.md#1-great-idea) 
-2. [Product](https://github.com/MTayyab10/How-to-start-Start-up/blob/main/README.md#2-great-product)
+1. [Idea](https://github.com/MTayyab10/How-to-start-Start-up/blob/main/Lecture%201/Idea%20%26%20Product.md#1-great-idea) 
+2. [Product](https://github.com/MTayyab10/How-to-start-Start-up/blob/main/Lecture%201/Idea%20%26%20Product.md#2-great-product)
 3. [Team](https://github.com/MTayyab10/How-to-start-Start-up/blob/main/README.md#3-great-team)
 4. Execution
 
