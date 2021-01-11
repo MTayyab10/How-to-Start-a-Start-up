@@ -2,9 +2,12 @@
 
        Startup are different than normal companies.
        
+       
 ## Description
 
 Course at Stanford University by Y-Combinator. Here is the YouTube link of course [How to start a StartUp](https://youtu.be/CVfnkM44Urs)
+
+Very Important for Tech Startups
 
 
 ## Notes
