@@ -1,5 +1,4 @@
 
-
 # Why you should start Start-up?
 
 Every one whos start start-up always says that you couldn't imagine how hard and painful it is going to be. 
