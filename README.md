@@ -9,7 +9,7 @@
 
   - **The act or an instance of setting in operation or motion.**
   
-  - **"a fledgling business enterprise".**
+  - **"A fledgling business enterprise".**
   
   - **A business that recently begun operation.**
   
@@ -40,4 +40,4 @@ I try to write some main and important parts of Course, Step wise Lectures
 
 - [Lecture 3](https://github.com/MTayyab10/How-to-Start-a-Start-up/tree/main/Lecture%203) Counterintuitive Parts of Startups and How to Have Ideas
 
-- [Lecture 4](https://github.com/MTayyab10/How-to-Start-a-Start-up/tree/main/Lecture%204) Building Product, Talking to Users, and Growing
+- [Lecture 4](https://github.com/MTayyab10/How-to-Start-a-Start-up/tree/main/Lecture%204) Building Product, Talking to Users and Growing
