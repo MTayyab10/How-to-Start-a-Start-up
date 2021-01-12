@@ -69,8 +69,8 @@ Here are couple of reasons:
 
 1. [Idea](https://github.com/MTayyab10/How-to-Start-a-Start-up/blob/main/Lecture%201/Idea%20%26%20Product.md#1-great-idea) 
 2. [Product](https://github.com/MTayyab10/How-to-Start-a-Start-up/blob/main/Lecture%201/Idea%20%26%20Product.md#2-great-product)
-3. [Team](https://github.com/MTayyab10/How-to-start-Start-up/blob/main/README.md#3-great-team)
-4. Execution
+3. [Team](https://github.com/MTayyab10/How-to-Start-a-Start-up/blob/main/Lecture%202/Team%20and%20Execution%20.md#3-great-team)
+4. [Execution](https://github.com/MTayyab10/How-to-Start-a-Start-up/blob/main/Lecture%202/Team%20and%20Execution%20.md#4-execution)
 
 
 ## 1. Great Idea
