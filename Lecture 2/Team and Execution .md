@@ -3,6 +3,8 @@
 
     Learn how to hire and how to execute. Hopefully you don't execute the people you hire.
     
+ [YouTube Video Lecture](https://youtu.be/CBYhVcO4WgI)
+    
 ## Co-founders
 
 > Cofounder relationships are among the most important in the entire company. Everyone says you have to watch out for tension brewing among cofounders and you have to address is immediately. 
