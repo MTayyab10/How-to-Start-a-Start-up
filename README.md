@@ -30,7 +30,7 @@ Here is the YouTube link of complete course [How to start a StartUp](https://you
 Very Important for Tech Startups.
 
 
-## Notes
+## Lecture Notes 
 
 I try to write some main and important parts of Course, Step wise Lectures 
 
