@@ -1,5 +1,7 @@
 
- ## Counterintuitive Parts of Startups and How to Have Ideas
+ ## Counterintuitive Parts of Startups and How to Have Ideas 
+ 
+ [YouTube Lecture Video](https://youtu.be/ii1jcLg-eIQ)
  
 - Startups are very counterintuitive.
 - This is an area where you cannot trust your intuition all the time.
@@ -22,7 +24,7 @@ If you remember nothing more than that, when you're about to make a mistake, you
 
 ## Questions
 
-#### Why do founders persistently ignore the partner's advice?**
+#### Why do founders persistently ignore the partner's advice?
 
 That's the thing about counterintuitive ideas, they contradict your intuitions, they seem wrong, so of course your first impulse is to ignore them.
 
