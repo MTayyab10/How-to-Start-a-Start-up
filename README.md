@@ -14,7 +14,7 @@ Very Important for Tech Startups.
 
 ## Notes
 
-I try to write some main and Important parts of Course, Check step wise Lectures
+I try to write some main and important parts of Course, Step wise Lectures 
 
 - [Lecture 1](https://github.com/MTayyab10/How-to-start-Start-up/tree/main/Lecture%201) Idea and Product
 
