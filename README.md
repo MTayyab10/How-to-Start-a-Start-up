@@ -1,6 +1,6 @@
 # How to start a StartUp
 
-       Startup are different than normal companies.
+       Create a company, Startup are different than normal companies.
        
        
 ## Description
@@ -16,8 +16,8 @@ Very Important for Tech Startups.
 
 I try to write some main and Important parts of Course, Check step wise Lectures
 
-- [Lecture 1](https://github.com/MTayyab10/How-to-start-Start-up/tree/main/Lecture%201)
+- [Lecture 1](https://github.com/MTayyab10/How-to-start-Start-up/tree/main/Lecture%201) Idea and Product
 
-- [Lecture 2](https://github.com/MTayyab10/How-to-start-Start-up/tree/main/Lecture%202)
+- [Lecture 2](https://github.com/MTayyab10/How-to-start-Start-up/tree/main/Lecture%202) Team and Execution
 
 - [Lecture 3](https://github.com/MTayyab10/How-to-start-Start-up/tree/main/Lecture%201)
