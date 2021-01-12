@@ -7,7 +7,7 @@
 
  The startup means
 >  >**The act or an instance of setting in operation or motion".
-  > "a fledgling business enterprise".
+ > "a fledgling business enterprise".
  > a business that recently begun operation
  > A startup is a young company that is just beginning to develop. 
  > Startups are usually small and intially financed and operated by a handful of founders and individual.
