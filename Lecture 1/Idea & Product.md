@@ -1,5 +1,7 @@
 
-# Why you should start Start-up?
+# Why you should start a Start-up?
+
+[YouTube Video Lecture](https://youtu.be/CBYhVcO4WgI)
 
 Every one whos start start-up always says that you couldn't imagine how hard and painful it is going to be. 
 
