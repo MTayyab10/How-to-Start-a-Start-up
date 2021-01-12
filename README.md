@@ -7,7 +7,7 @@
 
  The startup means
 
-  - **The act or an instance of setting in operation or motion".**
+  - **The act or an instance of setting in operation or motion.**
   
   - **"a fledgling business enterprise".**
   
@@ -17,7 +17,7 @@
   
   - **Startups are usually small and intially financed and operated by a handful of founders and individual.**
   
-  - **These companies offer a product or service that is not currently offered elsewhere in the market or is being offered in an inferior manner. Because startups have a high failure rate.**
+  - These companies offer a product or service that is not currently offered elsewhere in the market or is being offered in an inferior manner. Because startups have a high failure rate.
  
  
        
