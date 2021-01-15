@@ -142,7 +142,22 @@ And that is not just meaning the website itself?
  
  - After they finish using the product or service do they leave a review or do they leave comments? 
  
- You need to be able to go through that whole flow and visualize in your head what the perfect user experience is. And then put it down on paper and put it into code, and then start from there.
+ **You need to be able to go through that whole flow and visualize in your head what the perfect user experience is.**
+ 
+ **And then put it down on paper and put it into code, and then start from there.**
+ 
+ 
+ So, you have all these ideas in your head, 
+ 
+ - Now you kind of know what the core customer base is that you want to go after,
+ 
+ - And you know everything about the industry, what do you do next?
+ 
+ - You start building your product. The common phrase that most people use today is, 
+ 
+ - You should build a "minimum viable product (MVP)." And I underlined viable because I think a lot of people skip that part and they go out with a feature and the whole user experience in the very beginning is flat.
+ 
+ - Minimal viable product pretty much means what is the smallest feature set that you should build to solve the problem that you are trying to solve. I think if you go through the whole storyboarding experience you can kind of figure that out very quickly. But again, you have to be talking to users, you have to be seeing what exists out there already, and what you should be building should solve their immediate needs.
 
 
 
