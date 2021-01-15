@@ -101,6 +101,54 @@ In that sense I learned why a local cleaning company could not become huge like 
 
 - And that is because they are pretty old school and they have a lot of things that are done inefficiently. Such as booking the customer and optimizing the cleaners' schedules was just done very inefficiently.  
 
+### Note 
+
+If you are in a situation like mine where there is a service element of it then you should go and do that service yourself.
+
+If your thing is related to restaurants you should become a waiter, if it is related to painting become a painter and kind of get in the shoes of your customers from all angles of what you are trying to build.
+
+The other thing is there is also a level of obsessiveness that you should have with it as well. You should be so obsessed that you want to know what everybody in that space is doing.
+
+- And it is things like writing a list of all 
+ - of the potential competitors,
+ - similar types of companies, 
+
+- Google searching them and clicking on every single link and reading every single article from search result number 1 to 1000.
+
+- You should become an expert in your industry. There should be no doubt when you are building this that you are the expert so that people trust you when you are building this product.
+
+
+The second thing is identifying **customer segments**.
+
+Ideally at the end of the day you have built a product or business that everybody in the world is using.
+
+In the beginning, you realistically want to corner off a certain part of the customer base so that you can really optimize for them.
+
+It is just about focus and whether you are catering to teenage girls or whether it is soccer moms, you will be able to focus a lot on their needs.
+
+
+### Important
+
+And lastly, before you even create a product or before you put code down.
+
+> You should really storyboard out the user experience of how you are going to solve the problem.
+And that is not just meaning the website itself?
+> - It also means how does the customer find out about you.
+  > - It can be through an ad or word-of-mouth, and
+  > - then they come to your site and they learn more about you.
+ 
+ - What does that text say and what are you communicating to them when they sign up for the project and when they purchase the service? 
+ - What are they actually getting from your service or product? 
+ 
+ - After they finish using the product or service do they leave a review or do they leave comments? 
+ 
+ You need to be able to go through that whole flow and visualize in your head what the perfect user experience is. And then put it down on paper and put it into code, and then start from there.
+
+
+
+
+
+
 
 
 
