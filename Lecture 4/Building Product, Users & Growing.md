@@ -8,7 +8,7 @@
 
 Just a reminder that you should take all advice as directionally good guidance,
 
-**but every business is different. You're different, and I'm not you, so take everything with that in mind.**
+**but every business is different. You're different, So take everything with that in mind.**
 
 
 ## Advices
@@ -31,7 +31,7 @@ Just a reminder that you should take all advice as directionally good guidance,
 
 - It is sort of a vicious cycle. I actually did this once, and I did this while I was in YC. When I went through YC I didn't even launch a product. I didn't launch on TechCrunch which is the thing you should definitely do. You don't ever want to get into that cycle because you'll just end up with nothing good.
 
-### After this
+## After this
 
 The next thing is that you have an idea and you should really think about what the idea is really solving.
  - Like what is the actual problem. 
@@ -45,7 +45,7 @@ The next thing is that you have an idea and you should really think about what t
  
  And you verify that by going out and talking to people.
  
-### PathJoy Failure
+## PathJoy Failure
  
 One of the biggest mistakes I've made involves my co-founder.
 
@@ -64,7 +64,7 @@ we aren't cynical people by any means, but life coaches and therapists are just 
  - And so if you just start from T=0 and think about this before you build any product I think you can save yourself a lot of headache down the road from doing something you don't want to do.
  
  
- ### Got Idea
+## Got Idea
  
 So say you have a problem or idea and you are able to state it, 
 
@@ -87,11 +87,19 @@ Because it's when you get into the details, that's when you start seeing things 
 ### Example of HomeJoy
 
 This is that when we started Homejoy, 
- - we started with the cleaning industry, 
+
+  - we started with the cleaning industry, 
   - and when we started we were the cleaners ourselves.
   - We started to clean houses and we found out really quickly that we were very bad cleaners.
   - As a result, we said okay, we have to learn more about this and we went to buy books. We bought books about how to clean, which helped maybe a little bit.
   - We learned a little more about cleaning supplies but it is sort of like basketball, you can read and learn about basketball but you're not going to get better at it if you don't actually train and throw a basketball into the net.
+  
+> So one of us was going to have to learn how to clean. Or at least get trained by a professional. We actually went to get a job at a cleaning company itself and I learned a lot about cleaning.
+
+I learned a lot about how a local cleaning company works. 
+In that sense I learned why a local cleaning company could not become huge like Homejoy is today. 
+
+- And that is because they are pretty old school and they have a lot of things that are done inefficiently. Such as booking the customer and optimizing the cleaners' schedules was just done very inefficiently.  
 
 
 
