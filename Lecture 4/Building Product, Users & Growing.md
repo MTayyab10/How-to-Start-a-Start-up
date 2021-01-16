@@ -92,6 +92,7 @@ This is that when we started Homejoy,
   - and when we started we were the cleaners ourselves.
   - We started to clean houses and we found out really quickly that we were very bad cleaners.
   - As a result, we said okay, we have to learn more about this and we went to buy books. We bought books about how to clean, which helped maybe a little bit.
+  
   - We learned a little more about cleaning supplies but it is sort of like basketball, you can read and learn about basketball but you're not going to get better at it if you don't actually train and throw a basketball into the net.
   
 > So one of us was going to have to learn how to clean. Or at least get trained by a professional. We actually went to get a job at a cleaning company itself and I learned a lot about cleaning.
@@ -201,18 +202,24 @@ Our parents live in Milwaukee and we were based in Mountain View so that didn't 
 
 - So we actually ended up in a dead end of not being able to convince many people to use it in the beginning. So what we did was, because we are in Mountain View, some of you guys might know on Castro Street they have street fairs there during the summertime. 
 
-- So we would go out and basically chase down people and get them to try to book a cleaning. Almost everyone would say no until one day we just took advantage of the weather. It was a very hot and humid day and what we noticed was that everyone gravitated towards the food and drink area, especially on a hot day.
+- So we would go out and basically chase down people and get them to try to book a cleaning. Almost everyone would say no until one day we just took advantage of the weather.
+
+It was a very hot and humid day and what we noticed was that everyone gravitated towards the food and drink area, especially on a hot day.
 
 We figured we needed to get in the middle of that so we took water bottles and froze them and we started handing out free bottles of water that were cold.
 
-- And people just came to us. I think we basically guilt tripped people into booking cleanings. But the proof in the pudding was that I figured most of the people were guilt tripped into doing it, but then they went home and they didn't cancel on us. Well, some of them did but the majority of them did not. I thought that's good, I have to go clean their houses but at least there is something we are actually solving here.
+- And people just came to us. I think we basically guilt tripped people into booking cleanings. But the proof in the pudding was that I figured most of the people were guilt tripped into doing it, but then they went home and they didn't cancel on us. Well, some of them did but the majority of them did not.
+
+- I thought that's good, I have to go clean their houses but at least there is something we are actually solving here.
 
 
 ### Do like this
 
 I know another startup in the last batch, I forgot their name right now, but they were selling shipping type products or trying to replace shipping products.
 
-- So they would show up to the US postal office and find people who were trying to ship products and just take them out of line and get them to try to use the product and have them ship it for them. So you just have to go to places where people are really going to show up.
+- So they would show up to the US postal office and find people who were trying to ship products and just take them out of line and get them to try to use the product and have them ship it for them. 
+
+So you just have to go to places where people are really going to show up.
 
 - Your conversion rate is going to be really low but to go from 0 to 1 to 3 to 4 these are the kind of things you might have to do.
 
@@ -236,7 +243,9 @@ But in any case a way for people to give inbound feedback is good, but really wh
 
 One way to do this is to send out surveys to get reviews after they have used the product. This is okay but generally people are only going to respond if they really love you or they really hate you. And you never get the in between.
 
-- A way to get the in between and not all of the extremes is to actually meet the person that is using your product. I've seen people go out to meet the user and they sit there and it is like a laboratory and it is like an inquisition. You're just kind of poking at them. That is not going to give you the best results.
+- A way to get the in between and not all of the extremes is to actually meet the person that is using your product. I've seen people go out to meet the user and they sit there and it is like a laboratory and it is like an inquisition.
+
+You're just kind of poking at them. That is not going to give you the best results.
 
 - What you should really do is make it into a conversation and get to know them and get them to feel comfortable. You want to get them at a level where they feel like they should be honest with you to help you improve things.
 
@@ -251,6 +260,7 @@ Usually over time you are kind of looking at monthly retention so people who cam
 The problem with that metric is that it takes forever to collect that data and sometimes you don't have a month or two months or three months to figure that out. 
 
 So a good leading indicator is actually collecting reviews and ratings. Such as five-star and four-star reviews or collecting some notion of nps, which is net promoter score.
+
 So you're basically asking them for a rating from 0 to 10 about how likely are they to recommend you to a friend and calculating the nps.
 
 Over time what you'll see is that as you are building new features, you will be able to see that the reviews and the retention are going up over time. That means that you are doing a good job.
