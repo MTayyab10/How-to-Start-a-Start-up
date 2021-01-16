@@ -244,11 +244,14 @@ One way to do this is to send out surveys to get reviews after they have used th
 
 ### Customer Retention
 
-So another thing that you should be tracking is how are you doing in general from a macro perspective. The best way to do that is by tracking customer retention. The number of people that came in the door today, the number of people who are coming back tomorrow, the next day and so forth. Usually over time you are kind of looking at monthly retention so people who came in the door today, are they still using it next month and so forth.
+So another thing that you should be tracking is how are you doing in general from a macro perspective. The best way to do that is by tracking customer retention. The number of people that came in the door today, the number of people who are coming back tomorrow, the next day and so forth. 
+
+Usually over time you are kind of looking at monthly retention so people who came in the door today, are they still using it next month and so forth.
 
 The problem with that metric is that it takes forever to collect that data and sometimes you don't have a month or two months or three months to figure that out. 
 
-So a good leading indicator is actually collecting reviews and ratings. Such as five-star and four-star reviews or collecting some notion of nps, which is net promoter score. So you're basically asking them for a rating from 0 to 10 about how likely are they to recommend you to a friend and calculating the nps.
+So a good leading indicator is actually collecting reviews and ratings. Such as five-star and four-star reviews or collecting some notion of nps, which is net promoter score.
+So you're basically asking them for a rating from 0 to 10 about how likely are they to recommend you to a friend and calculating the nps.
 
 Over time what you'll see is that as you are building new features, you will be able to see that the reviews and the retention are going up over time. That means that you are doing a good job.
 
