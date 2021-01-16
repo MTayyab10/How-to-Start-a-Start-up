@@ -177,7 +177,7 @@ But when you are starting with no users you really need to tell them what they a
 
 After we changed our position to get your place cleaned for $20 an hour, then everyone got it and we were able to get users in the door that way.
 
-### MVP ( Minimum Viable Product )
+### After MVP ( Minimum Viable Product )
 
 So you have an MVP out there:
 - now how do you get your first few users to start trying it? 
@@ -208,7 +208,13 @@ We figured we needed to get in the middle of that so we took water bottles and f
 - And people just came to us. I think we basically guilt tripped people into booking cleanings. But the proof in the pudding was that I figured most of the people were guilt tripped into doing it, but then they went home and they didn't cancel on us. Well, some of them did but the majority of them did not. I thought that's good, I have to go clean their houses but at least there is something we are actually solving here.
 
 
-I know another startup in the last batch, I forgot their name right now, but they were selling shipping type products or trying to replace shipping products. So they would show up to the US postal office and find people who were trying to ship products and just take them out of line and get them to try to use the product and have them ship it for them. So you just have to go to places where people are really going to show up. Your conversion rate is going to be really low but to go from 0 to 1 to 3 to 4 these are the kind of things you might have to do.
+### Do like this
+
+I know another startup in the last batch, I forgot their name right now, but they were selling shipping type products or trying to replace shipping products.
+
+- So they would show up to the US postal office and find people who were trying to ship products and just take them out of line and get them to try to use the product and have them ship it for them. So you just have to go to places where people are really going to show up.
+
+- Your conversion rate is going to be really low but to go from 0 to 1 to 3 to 4 these are the kind of things you might have to do.
 
 
 
