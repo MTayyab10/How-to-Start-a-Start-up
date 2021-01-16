@@ -216,6 +216,46 @@ I know another startup in the last batch, I forgot their name right now, but the
 
 - Your conversion rate is going to be really low but to go from 0 to 1 to 3 to 4 these are the kind of things you might have to do.
 
+### After having few Users
+
+So now that you have users using you ,
+
+ - **what do you do with all of these users?** 
+ 
+The first thing you should do is make sure that there is a way for people to contact you. 
+
+Ideally there is a phone number and if you put up a phone number, one good idea is to make sure that you have a voicemail so that you won't be picking it up all the time. 
+
+But in any case a way for people to give inbound feedback is good, but really what you should be doing is going out to your users and talking to them.
+
+- Get away from your desk and just get out and do the work. It seems like a slog and it is going to be a slog but this is where you are going to get the best feedback ever for your product.
+
+- And this is where it is going to teach you what features you need to completely change, get rid of, or what features you need to build.
+
+### Do Surveys
+
+One way to do this is to send out surveys to get reviews after they have used the product. This is okay but generally people are only going to respond if they really love you or they really hate you. And you never get the in between.
+
+- A way to get the in between and not all of the extremes is to actually meet the person that is using your product. I've seen people go out to meet the user and they sit there and it is like a laboratory and it is like an inquisition. You're just kind of poking at them. That is not going to give you the best results.
+
+- What you should really do is make it into a conversation and get to know them and get them to feel comfortable. You want to get them at a level where they feel like they should be honest with you to help you improve things.
+
+- So I found that actually **taking people out for drinks and stuff** like that was actually a very good way to do that. I'm not sure if all of you are old enough to do that but you can take them for coffee.
+
+### Customer Retention
+
+So another thing that you should be tracking is how are you doing in general from a macro perspective. The best way to do that is by tracking customer retention. The number of people that came in the door today, the number of people who are coming back tomorrow, the next day and so forth. Usually over time you are kind of looking at monthly retention so people who came in the door today, are they still using it next month and so forth.
+
+The problem with that metric is that it takes forever to collect that data and sometimes you don't have a month or two months or three months to figure that out. 
+
+So a good leading indicator is actually collecting reviews and ratings. Such as five-star and four-star reviews or collecting some notion of nps, which is net promoter score. So you're basically asking them for a rating from 0 to 10 about how likely are they to recommend you to a friend and calculating the nps.
+
+Over time what you'll see is that as you are building new features, you will be able to see that the reviews and the retention are going up over time. That means that you are doing a good job.
+
+If it is going down then you are doing a bad job. If it is kind of staying the same that probably means that you need to go out and figure out what new things you should be building.
+
+
+
 
 
 
