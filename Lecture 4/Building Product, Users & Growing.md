@@ -157,10 +157,58 @@ And that is not just meaning the website itself?
  
  - You should build a "minimum viable product (MVP)." And I underlined viable because I think a lot of people skip that part and they go out with a feature and the whole user experience in the very beginning is flat.
  
- - Minimal viable product pretty much means what is the smallest feature set that you should build to solve the problem that you are trying to solve. I think if you go through the whole storyboarding experience you can kind of figure that out very quickly. But again, you have to be talking to users, you have to be seeing what exists out there already, and what you should be building should solve their immediate needs.
+ - Minimal viable product pretty much means what is the smallest feature set that you should build to solve the problem that you are trying to solve. 
+ 
+ - I think if you go through the whole storyboarding experience you can kind of figure that out very quickly. But again, you have to be talking to users, you have to be seeing what exists out there already, and what you should be building should solve their immediate needs.
+ 
+ ### Second Thing
+ 
+>   > And the second thing is that before you put things in front of the user you should really have your product positioning down. 
+  > What I mean by that is that you should be able to go to a person and be able to say, "Hey, this does X,Y, and Z in one sentence." 
+  - So for example, at Homejoy we started off with something super complicated. We were an online platform for home services, you start with cleaning and you can choose blah blah blah. It just went on for paragraphs and paragraphs.
+ 
+ When we went to potential users to come on our platform they would kind of get bored after the first few sentences. 
+ 
+ **What we found out was that we needed a one-liner. The one-liner was very important.**
+ 
+ It kind of describes the functional benefits of what you do. In the future when you are trying to build a brand or whatnot you should be able to describe the emotional benefits and stuff like that. 
+ 
+But when you are starting with no users you really need to tell them what they are going to get out of it.
+
+After we changed our position to get your place cleaned for $20 an hour, then everyone got it and we were able to get users in the door that way.
+
+### MVP ( Minimum Viable Product )
+
+So you have an MVP out there:
+- now how do you get your first few users to start trying it? 
+
+- The first few users should be obviously people you are connected with.
+
+You and your cofounder should be using it, your mom and dad should be using it, and your friends and coworkers should be using it.
+
+- Beyond that, you want to get more user feedback. 
+I've listed here some of the obvious places to go to depending on what you are selling. You can take your pick of the draw here. 
+ - So, online communities, on Hacker News now there is the show HN - that's a great place.
+ - Especially if you are building tools for developers and things like that.
+ 
+ - Local communities - so if you're building consumer products you know there are a lot of influential local community mailing lists. Especially those for parents. Those are places you might want to hit up too.
+
+### Example 
+
+At Homejoy we actually tried all of these. We used it ourselves and that was fine. We were the only cleaners so that was pretty easy.
+
+Our parents live in Milwaukee and we were based in Mountain View so that didn't work. Friends and coworkers were kind of like in San Francisco and elsewhere so we didn't have too many of them use it.
+
+- So we actually ended up in a dead end of not being able to convince many people to use it in the beginning. So what we did was, because we are in Mountain View, some of you guys might know on Castro Street they have street fairs there during the summertime. 
+
+- So we would go out and basically chase down people and get them to try to book a cleaning. Almost everyone would say no until one day we just took advantage of the weather. It was a very hot and humid day and what we noticed was that everyone gravitated towards the food and drink area, especially on a hot day.
+
+We figured we needed to get in the middle of that so we took water bottles and froze them and we started handing out free bottles of water that were cold.
+
+- And people just came to us. I think we basically guilt tripped people into booking cleanings. But the proof in the pudding was that I figured most of the people were guilt tripped into doing it, but then they went home and they didn't cancel on us. Well, some of them did but the majority of them did not. I thought that's good, I have to go clean their houses but at least there is something we are actually solving here.
 
 
-
+I know another startup in the last batch, I forgot their name right now, but they were selling shipping type products or trying to replace shipping products. So they would show up to the US postal office and find people who were trying to ship products and just take them out of line and get them to try to use the product and have them ship it for them. So you just have to go to places where people are really going to show up. Your conversion rate is going to be really low but to go from 0 to 1 to 3 to 4 these are the kind of things you might have to do.
 
 
 
