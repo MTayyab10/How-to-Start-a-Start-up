@@ -267,6 +267,45 @@ Over time what you'll see is that as you are building new features, you will be 
 
 If it is going down then you are doing a bad job. If it is kind of staying the same that probably means that you need to go out and figure out what new things you should be building.
 
+### Honesty Curve
+
+One thing you should be wary of is the honesty curve. 
+
+- Some people will just lie to you. These are degrees of separation from you, and this is the level of honesty. So here this is your mom, these are the friends of your friends and here are random people. Your mom will use your product and she will be proud of you anyway, so she'll be honest this much. 
+
+- Your friends will be pretty honest with you and give you feedback because they care about you this is assuming this is a free product
+
+- and then over time as you get more and more random, these people don't know who you are.
+  
+There are people over here who don't care about giving you feedback. So take this into consideration when getting user feedback.
+
+
+### After Getting lot Feedback
+
+You're getting a lot of feedback and 
+
+**what do you do before you officially launch the product? **
+
+You always want to be building fast and you want to be optimizing for this stage of your growth. 
+
+- You might have 10 users at this point and there is no point in trying to build features for when you might have 10 million users.
+You want to optimize for the next stage of growth which will be 10 to 100 users.
+
+- What are the features you really need for that and just go with that. One of the things I found when building a marketplace is that process is very important over time as you scale.
+
+### HomeJoy Hiring Process
+
+You need to not try and automate everything and create software to have robots run everything.
+
+What you should do to really understand what you should build is manually do it yourself. An example of this is when we started taking on cleaning professionals on to our platform, we would ask them a bunch of questions over the phone and then in person would ask a bunch of questions as well.
+
+And then they would go to a test clean and then they would get onboarded to our platform if they were good enough. Doing all these questions for that many candidates we had a 3-5% acceptance rate.
+
+
+What happened over time was that we learned certain questions that we were asking were good indicators as to whether or not they would be a good or bad performer on the platform through data collection and just looking at everything we could ask on an online form. That is when we put up an online application, they could apply and then we would ask them maybe several other questions during the in person interview. If you try to automate things too fast then you run into this potential problem of not being able to move quickly and iterate things like questions on an application and things like that.
+
+
+
 
 
 
