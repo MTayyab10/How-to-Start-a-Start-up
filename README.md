@@ -7,19 +7,19 @@
 
  The startup means
 
-  - **The act or an instance of setting in operation or motion.**
+  - The act or an instance of setting in operation or motion.
   
   - **"A fledgling business enterprise".**
   
-  - **A business that recently begun operation.**
+  - A business that recently begun operation.
   
-  - **A startup is a young company that is just beginning to develop.**
+  - A startup is a young company that is just beginning to develop.
   
   - **Startups are usually small and intially financed and operated by a handful of founders and individual.**
   
-  - These companies offer a product or service that is not currently offered elsewhere in the market or is being offered in an inferior manner. Because startups have a high failure rate.
- 
- 
+  - These companies offer a product or service that is not currently offered elsewhere in the market or is being offered in an inferior manner.
+ Because startups have a high failure rate.
+  
        
 ## Description
 
@@ -41,3 +41,5 @@ I try to write some main and important parts of Course, Step wise Lectures
 - [Lecture 3](https://github.com/MTayyab10/How-to-Start-a-Start-up/tree/main/Lecture%203) Counterintuitive Parts of Startups and How to Have Ideas
 
 - [Lecture 4](https://github.com/MTayyab10/How-to-Start-a-Start-up/tree/main/Lecture%204) Building Product, Talking to Users and Growing
+
+- [Lecture 5](https://github.com/MTayyab10/How-to-Start-a-Start-up/tree/main/Lecture%205) Business strategy and monopoly ( Competition is For Losers)
