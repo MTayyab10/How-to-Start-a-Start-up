@@ -297,16 +297,257 @@ You want to optimize for the next stage of growth which will be 10 to 100 users.
 
 You need to not try and automate everything and create software to have robots run everything.
 
-What you should do to really understand what you should build is manually do it yourself.  An example of this is when we started taking on cleaning professionals on to our platform, we would ask them a bunch of questions over the phone and then in person would ask a bunch of questions as well.
+What you should do to really understand what you should build is manually do it yourself.
+
+An example of this is when we started taking on cleaning professionals on to our platform, we would ask them a bunch of questions over the phone and then in person would ask a bunch of questions as well.
 
 And then they would go to a test clean and then they would get onboarded to our platform if they were good enough. Doing all these questions for that many candidates we had a 3-5% acceptance rate.
 
+**Questions Asked**
 
-What happened over time was that we learned certain questions that we were asking were good indicators as to whether or not they would be a good or bad performer on the platform through data collection and just looking at everything we could ask on an online form. That is when we put up an online application, they could apply and then we would ask them maybe several other questions during the in person interview. If you try to automate things too fast then you run into this potential problem of not being able to move quickly and iterate things like questions on an application and things like that.
+What happened over time was that we learned certain questions that we were asking good indicators as to whether or not they would be a good or bad performer on the platform through data collection and just looking at everything we could ask on an online form. 
 
+That is when we put up an online application, they could apply and then we would ask them maybe several other questions during the in person interview.
 
+If you try to automate things too fast then you run into this potential problem of not being able to move quickly and iterate things like questions on an application and things like that.
 
+> Perfection is irrelevant during this stage. When you get to the next stage of growth what you are trying to perfect in one stage is not going to matter anyway. 
 
+- So do not worry about all of the edge cases when you are building something, just worry about the generic case of who your core user is going to be. 
+
+- As you get bigger and bigger the volume of those edge cases increases over time and you will want to build for that.
+
+### Frankenstein Approach
+
+Lastly beware of the Frankenstein approach which is
+
+ - Great you talked to all of these users and they gave you all of these ideas and the first thing you are going to want to do is go build every single one of them and then go show them the next day and make them happier.
+ 
+- You should definitely listen to user feedback but when someone tells you to build a feature you shouldn't go build it right away.
+
+- What you should really do is get to the bottom of **why they are asking you to build the feature**. Usually what they are suggesting is not the best idea. 
+
+- What they are really suggesting is that I have this other problem that you either created for me while using the product or I really need this problem solved if I'm going to pay to use this product.
+
+- So figure that out first before piling on a bunch of features which then hide the problem altogether.
+
+### S is for Stealth & Stupidity
+
+So you have a product that you are ready to ship 
+
+- some people at this point will continue building the product and not ship it at all. I think the whole idea of being stealth and perfecting the product to no end is the idea that imitation is cheaper than innovation in terms of time and money and capital. 
+
+I think that everyone should always assume in general that if you have a really good idea no matter when you launch someone is going to fast follow you and someone is going to execute as hard as they possibly can to catch up with you.
+
+There is no point in holding out on all of that user feedback that you can get by getting a lot of users because he felt paranoid that someone is going to do this to you.
+
+I hate to keep harping on it but these are things that I see today with founders and something that I went through as well. 
+
+And I think that unless you are building something that requires tens of millions of dollars just to start up there is really no point in waiting around to launch the product.
+
+So say you have something that you feel ready to get lots of users on. **So what do you do at this point?**
+
+When it is just you, your cofounder, and a couple of other people building, you aren't creating a team just for growth.
+
+It is going to be one person and one person only. You really need to focus and you are going to be tempted to **try five different strategies at one time.**
+
+### what you should do?
+
+But really what you should do is take one channel and really execute on it for an entire week and just focus on that. And if that works continue executing on it until it caps out. If it doesn't work then just move on.
+
+By doing this you will feel more certain that the channel you were working on is wrong and your initial hypothesis is wrong than if you only spent a third of your time on it over the course of a few weeks. So learn one channel at a time.
+
+**Second** 
+
+when you find one channel at a time and strategies that work, always be iterating on it. You can potentially create a playbook and give it to someone else to iterate on it but these channels always change.
+
+Anything from Facebook ads to Google ads, the distribution channels, the environments that you don't control change all of the time and you should always be iterating and optimizing for that.
+
+And lastly, in the beginning when you see a channel that fails just to get rid of it and go on there are lots of other things to try. But over time go back to that channel and look at it again.
+
+### Example
+
+An example is that in the beginning at Homejoy we had no money so when we tried to buy Google ads to get users in the door quickly 
+
+ - what we found was that all of these national companies had more money than us, they were making a lot more money on the job than us.
+ 
+ So they were able to acquire users at a much higher cost than us. So we couldn't afford that and we had to go through another channel.
+ 
+- But today we make more money on the job, and we are better at some things. So we should probably revisit the idea of buying Google ads. That's what I mean by that.
+
+And the key to all of this is creativity. 
+
+Performance marketing, or marketing and growth in general can be very technical but, it is actually technical, and you have to be creative because if it was really easy and bland then everyone would be growing right now.
+
+So you always have to find that little thing that no one else is doing and do that to the extreme.
+
+### Types of Growth
+
+So there are three types of growth.
+
+- Sticky,
+- viral, 
+- paid growth.
+
+Sticky growth is trying to get your existing users to come back and pay you more or use you more. 
+
+Viral growth is when people talk about you. So you use a product, you really like it and you tell ten other friends, and they like it. That's viral growth. 
+
+And the third is paid growth. If you happen to have money in the bank you're going to be able to use part of that money to buy growth.
+
+### Sustainability Growth
+
+By sustainable growth I mean you are basically not a leaky bucket. 
+
+The money you put in has a good return investment on it. So sticky growth is, like I said, trying to get your existing users to come back and buy stuff. The only thing that really matters here is that you deliver a good experience. Right? 
+
+If you deliver a good experience people are going to want to keep using you. If you deliver an addictive experience people are going to want to keep using you.
+
+And the way to measure this and to really look at this and how you are doing over time with whether you are providing good sticky growth is to look at the CLV and retention cohort analysis.
+
+### CLV (Customer Lifetime Value)
+
+CLV, some people call it TLV (Life Time Value), is a customer's lifetime. It is basically the net revenue that a customer brings in the door over a period of time.
+
+So a 12 month CLV is how much net revenue does a customer give you over 12 months. And sometimes people will do the month and six months and so forth.
+
+So when I say cohort basically what you are looking at is, this is time, and this is percent of the users coming back to you. So at period zero you are at 100%.
+
+### Cohort 
+
+So cohort is another name for customer segments.
+
+For example you might look at the female versus male cohorts or people in Atlanta, Georgia versus people in Sacramento, California cohorts.
+
+The most common one is by month. So cohort equals month and let's just say for this exercise we are looking at March 2012. So in March 2012, 100% of the people are using your product.
+
+Now, one month later 50% of the people might come back. Now, in the second month how many people that came in March are coming back two months later? That might be down. 
+
+So over time you will have a curve that looks like this. There is always some initial drop off. The reasons that people don't stay after first use could be that it wasn't worth it or they had a bad experience, or something like that.
+
+And then over time what you want is for your curve to flatten out. These over here become your core customers. These are the ones that will stay with you over time.
+
+Say we are at one year later and you have built a bunch of stuff. You graph out the same thing and hopefully what you see is that you have a curve like this. 
+
+That is, that even in the first period more than 50% of the people came back to you and more and more people are sticking with you. 
+
+A really bad retention curve looks like this - which is after the first use they just hate you so much that no one even comes back. I don't know what kind of business that is, it is obviously a shitty business. 
+
+I can't explain a good business that has a retention curve like that. Over time as you are thinking of strategies to increase this curve and to keep making it go up and up and up you want to keep looking at this analysis over time to see if that strategy is working for you.
+
+### Viral Grwoth
+
+Like sticky growth you also need to deliver a good experience. But on top of that you need to deliver a really, really good experience.
+
+What is going to make these people shout out loud on Twitter or on Facebook or whatever and tell all their friends and email all of their family about you.
+
+You have to really deliver a good experience. Combined with that is you have to have really good mechanics for the referral program itself. You have 100 customers who really want to talk about you. **Now how are they going to talk about you?**
+
+- So in that sense the viral growth strategy is all about building a good experience, but if you have that, how do you build a good referral program. 
+
+- I have listed the three main parts of that.
+ - One is the customer touch points which is where are people learning that they can refer other people?
+ - That might be after they book or after they sign up. A better one is after they use the product for a while and you see that they are highly engaged, then you show them that link and get them to send it out to everyone. 
+ 
+ - Another one is if you are doing more of a platform type play - for Homejoy we actually go inside their home.
+
+You want to basically put the customer touch points and the actual link to however they are going to refer their friends at a point in time where they are highly engaged and you know that they are loving you.
+
+### Program Mechanics
+
+The second is program mechanics. The most common thing I have seen is $10 for $10. You get $10 if you invite your friends and they use it and they get $10.
+
+And so you should try different types of mechanics in that sense and try to optimize for whatever works for you. It could be 25 for 25 or it could be 10 for 10, it could be any of these things.
+
+And lastly, when your friend clicks on your referral link, when they come back to the site it is really important to optimize that conversion flow of how they are going to sign up.
+
+Sometimes you need to sell them in a different manner or up-sell that a friend suggested that you use this and so forth. So with all of these combined, you will really need to play around with them in different dimensions and come up with a good referral program.
+
+### Paid Growth
+
+And lastly is paid growth. Some examples of paid growth are this right here. And these are some of the most obvious ones and I'm sure that you guys can think of more. 
+
+Paid growth is you happen to have money you can spend - you may have credit cards or whatever - but you can spend something to get users.
+
+So the correct way to think about paid growth is that you are going to risk putting money out there so that are you going to get a return.
+
+The simple way to think about it - is your CLV, your customer's lifetime - is it more than your CAC. And your CAC is an abbreviation for customer acquisition costs.
+
+So an example is - say you run a bunch of ads over 12 months and the customer is worth $300 to you. Each one of these ads, when you click on it the CPC costs different types of money, and then when they click on your ad they have to come to the site and sign up or buy something.
+
+And the conversion rates are different for all of these ads. The CAC is calculated by the CPC divided by the conversion. So you see that there are different acquisition costs for different types of ads. 
+
+To determine whether or not that is a good or bad ad all you have to do is CLV minus the CAC. If it is more than zero you are earning a profit.
+
+So you see that despite the CLV remaining the same and the conversions being higher or lower sometimes some ads that might seem good actually don't seem so good at the end of the day.
+
+- You can look at this for your whole entire customer base, aggregating all of your customers together, but the better way of looking at it is to break it down by customer segments.
+
+- If you are building a marketplace for country music the CLVs of someone in Nashville, Tennessee is going to be much larger than the CLVs of someone in Czechoslovakia. I just assume that is the case anyway.
+
+You will want to make sure that when you are buying ads for these different types of cohorts that you know what the differences are and you don't want to mix everything together.
+
+The last point on payback and sustainability
+
+- I think a lot of businesses get in trouble and they turn into bad businesses when they start spending beyond their means. And it has a lot to do with risk tolerance or how much risk you are willing to take on.
+
+So when you look at these CLVs, which is suppose you get a customer that is worth $300 after 12 months. In the first month they are worth $100.
+If you wait until the 12 month period then they give you the other $200. But if in the first period you are actually paying $200 for them then you are in the hole for $100 until the end of the 12 month period.
+
+That's when you start to get into potentially unsustainable growth.
+
+Something could happen at the end of the 12 months where you don't actually get the $200 from the customer and you end up in a very bad situation. Essentially, at the end of the day you could be running out of money.
+
+And if you are doing this with credit cards you will definitely find that you are going to have to declare bankruptcy very soon.
+
+So again, **payback time is very important.** Safe time to go with is three months. If you are very risk loving then maybe 12 months is better. Beyond 12 months is very much unsafe territory.
+
+### Art of Pivoting
+
+The art of pivoting - Homejoy in its current concept was literally the 13th idea we fully built out and tried to execute on and tried to get customers for. 
+
+And so a lot of the questions I get are, 
+
+**"How do you even get to that 13th idea, and how did you decide when to move on?"**
+
+The best guidance that I can give on that is the kind of look at these three criteria,
+
+- which is once you realize that you can't grow,
+- and despite building out all of these great features and talking to all of these users none of them stick, or the economics of the business just don't make sense
+
+- then once you make that realization you just need to move on.
+
+I think the trickiest one is probably the growth one because there are so many stories out there where the founders stuck with the idea and then after three years all of a sudden it started growing.
+
+So the trick here is what you really should do is have a growth plan when you start out.
+
+**What is an optimistic but realistic way to grow this business?** 
+
+It might look something like this. In week one you just want one user, in week two you want maybe two users and so forth. And you can keep doubling up and up.
+
+In week one you should basically build as much as possible to get that one user. And then a week to build as much to get two users. 
+If you have a product that people want you should be able to maintain this growth curve pretty easily by just walking around and manually finding people.
+
+> **It is when you get to 100 users a week when you need these growth strategies to start working. What I tell people is usually if you are fully executing on your product, and you are working really hard, then if you go three or four weeks in a row of no growth or backwards growth, then it is time to maybe consider a pivot.**
+
+Maybe not in the sense that you completely come up with a new idea but you are probably fundamentally doing something wrong because at that early stage a startup should always be growing.
+
+This is optimistically what it looks like and this is the kind of growth curve that I set forth and put out when I started Homejoy, but really what it looks like is like this. 
+
+So you want to make sure that when you are in a lull you don't stop. And that is what you should wait 2 to 3 weeks. As long as you don't stop working hard you'll eventually get back here and you'll see a trend like this over time.
+
+### If your users already have a product that they are already comfortable with how do you get them to switch to yours?
+
+There is always a switchover cost. I will tell you the example of Homejoy.
+
+We were actually creating a new market in the sense that a lot of our initial users had never had cleanings before so it was pretty simple to get them on board. And a lot of people who have cleaners already really trust their cleaner.
+
+A lot of people when they build a product they are like
+
+- and these 50 things are better than the existing solution
+- and even if the benefits outweigh the switchover cost it is really hard to actually tell that to a user and try to get them to aggregate all of those benefits over many little things.
+
+It is better to have one or two things that clearly differentiate yourself from the other product.
 
 
 
