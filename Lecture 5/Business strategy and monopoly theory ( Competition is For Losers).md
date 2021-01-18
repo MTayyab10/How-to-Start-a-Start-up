@@ -363,7 +363,141 @@ What that realization tends to obscure, is again that "X" and "Y" are independen
 
 So I do think the history of innovation has been this history where the microeconomics, the structure of these industries has mattered a tremendous amount and there is sort of this story where some people made vast fortunes because they worked in industries with the right structure and other people made nothing at all because they were in these very competitive things.
 
-### psycology of competition
+### Psycology of Competition
 
-Come back to this sort of overarching theme for this talk, this competition is for losers idea, which is always a provocative way to title things because we always think of the losers as the people who are not good at competing. We think of losers as the people who are slow on the track team in high school or do a little less well on standardized tests, and don't get into the right schools. So we always think of losers as people who can't compete and I want us to really rethink and re-value this and consider whether it's possible the competition itself is off.
+Come back to this sort of overarching theme for this talk, this competition is for losers idea,
+
+- which is always a provocative way to title things because we always think of the losers as the people who are not good at competing.  
+
+- We think of losers as the people who are slow on the track team in high school or do a little less well on standardized tests, and don't get into the right schools.
+
+- So we always think of losers as people who can't compete and I want us to really rethink and re-value this and consider whether it's possible the competition itself is off.
+
+        It's not just the case we don't understand this monopoly-competition dichotomy intellectually.
+
+So we’ve been talking about why you wouldn’t understand it intellectually, because people lie about it, it’s distorted, the history of innovation rationalizes it in all these very strange ways.
+
+I think it's more than just an intellectual blind spot, but also a psychological blind spot, where we find ourselves very attracted to competition and in one form or another we find it reassuring if other people do things. 
+
+The word ape, already in the time of Shakespeare, meant both primate and imitate and that is something about human nature, it's deeply imitative, ape like, sheep like and this is very problematic thing that we need to always think through and try to overcome.
+
+There is always this question about competition as a form of validation, 
+
+where we go for things that lots of other people are going for. It's not that there is wisdom of crowds, it's not that lots of people trying to do something is the best proof of that being valuable. 
+
+- I think it's when lots of people are trying to do something, that is often proof of insanity.
+
+- **There are twenty thousand people a year who move to Los Angeles to become movie stars, about twenty of them make it.**
+
+I think the Olympics are a little bit better because you have, you can sort of figure out pretty quickly whether you’re good or not, so there's little less of a deadweight loss to society.
+
+You know the sort of educational experience that at a place, the pre-Stanford educational experience, there is always sort of a non-competitive characterization.
+
+I think most of the people in this room had machine guns and they were competing with people with bows and arrows, so it wasn’t exactly a parallel competition when you were in junior high school, in high school. There is always the question: does the tournament make sense as you keep going?
+
+There is always this question if people going on to grad school or post doctoral educations, does the intensity of the competition really make sense.
+
+There is the classic Henry Kissinger line describing his fellow faculty at Harvard, “The battles were so ferocious because the stakes were so small,” describing academia and you sort of think on one level this is a description of insanity.
+
+Why would people fight like crazy when the stakes are so small, but it's also, I think, simply a function of the logic of a situation. When it's been really hard to differentiate yourself from other people, when the differences are, when the objectives differences really are small,
+
+you have to compete ferociously to maintain a difference of one sort or another. That's often more imaginary than real. There is always sort of a personal version of this I tell, where I was sort of hypertracked.
+
+In my eighth grade junior high school yearbook one my friends wrote, I know you’re going to get into Stanford.
+
+Four years later, I went to Stanford Law School, ended up at a big law firm in New York where from the outside everybody wanted to get in and on the inside everybody wanted to leave and it was this very strange dynamic where I realized,
+
+this was maybe not the best idea, and I left after seven months and three days.
+
+Other people down the hall told me, it's really reassuring to see you leave, 
+
+Peter, I had no idea that it was possible to escape from Alcatraz, which of course all you had do was go out the front door and not come back.
+
+But so much of people's identities got wrapped up in winning these competitions that they somehow lost sight of what was important, what was valuable. 
+
+Competition does make you better at whatever it is that you're competing at because when you're competing you're comparing yourself with the people around you.
+
+I’m figuring out how to beat the people next to me, how do I do somewhat better than whatever it is they're doing and you will get better at that. I'm not questioning that, I'm not denying that, but there often comes this tremendous price that you stop asking some bigger questions about what's truly important and truly valuable.
+
+Don't always go through the tiny little door that everyone's trying to rush through, maybe go around the corner and go through the vast gate that nobody is taking.
+
+
+## Questions 
+
+### Do you have any ways to determine the difference [between a monopoly and a non monopoly] when looking at an idea or thinking about your own idea?
+
+- I would say the question I always focus on is what is the actual market? 
+
+- So not what's the narrative of the market, because you can always tell a fictional story about a market: it's much bigger much or smaller, but what is the real objective market.
+
+So you always try to figure it out, and you realize people have incentives to powerfully distort these things.
+
+### So which of the aspects, of all these you mentioned, you would you say is applicable to Google?
+
+ Well, they have they have network effects with the ad network, they had proprietary technology that gave them the initial lead because they had the page rank algorithm, 
+ 
+ which was an order of magnitude better than any other search engine.
+ 
+They had economies of scale up because of the need to store all these different sites, and at this point you have brand, 
+
+so Google has all four. Maybe the proprietary technology is somewhat weaker at this point but definitely it had all four, and maybe three and a half out of four now.
+
+### How does this apply to Palantir and Square?
+
+That's sort of a set of companies that are doing different copycat payment systems, on mobile phones, there's Square, there's PayPal, 
+
+they have different shapes that's how they differentiate themselves, one is a triangle, one is a square.
+
+Maybe at one point the apes run out of shapes or something like that, but at Palantir we started with a focus on the intelligence community, which is a small submarket.
+
+We had a proprietary technology that used a very different approach where it was focused on the human computer synthesis, rather than the substitution, which I think is the dominant paradigm. So, there is a whole set of things, I would say, on the market approach and on the proprietary technology.
+
+### What do you think about lean startups?
+
+I'm personally quite skeptical of all the lean startup methodology.
+
+I think the really great companies did something that was somewhat more of a quantum improvement that really differentiated them from everybody else. 
+
+They typically did not do massive customer surveys, the people who ran these companies sometimes, not always, suffered from mild forms of Aspergers,
+
+so they were not actually that influenced, not that easily deterred, by what other people told them to do. I do think we're way too focused on iteration as a modality and not enough on trying to have a virtual ESP link with the public and figuring it out ourselves.
+
+I would say the risk question is always a very tricky one, because it's often the case that you don't have enough time to really mitigate risk.
+
+If you're going to take enough time to figure out what people want, you often will have missed the boat by then.
+
+And then of course there is always the risk of doing something that's not that significant or meaningful. You could say that a track in law school is a low risk track from one perspective, 
+
+but it may still be a very high risk track in the sense that maybe you have a high risk of not doing something meaningful with your life. We have to think about risk in these very complicated ways.
+I think risk is this complicated concept.
+
+### Doesn't the last mover advantage already imply that there's competition to begin with?
+
+Yes, there's always a terminology thing. I would say that there are categories in which people sort of are bundled together. The monopoly business, I think they really were a big first mover.
+
+In some sense you can say Google was not the first search engine, there were search engines before. But on one dimension they were dramatically better than everybody else.
+
+They were the first one with page rank, with an automated approach.
+
+Facebook was not the first of social networking site. My friend, Reid Hoffman, started one in 1997, they called it Social Net, so they already had the name social networking in the name of their company seven years before Facebook.
+
+Their idea was that it going to be this virtual cyberspace were I'd be a dog and you'd be a cat and we'd have all these different rules about how we interact with each other in this virtual alternate reality.
+
+Facebook was the first one to get real identity, so I hope Facebook will be the last social networking site. It was the first one in a very important dimension, people often would not think of it as the first because they sort of lump all these things together.
+
+### If someone worked at Goldman Sachs out of college and left after six months and is now studying CS at Stanford, how would you recommend rethinking their competitive advantage?
+
+I am not great at the psychotherapy stuff, so I don't quite know how to solve this. There are these very odd studies they have done on people who go to business school, this one was done at the Harvard Business School
+
+where it's sort of the anti-Asbergers personality, where people are super extroverted, generally have low convictions, few ideas and you have sort of a hothouse environment you put all these people and for two years and at the end of it, they systematically end up, the largest cohort systematically ends up doing the wrong thing, they try to catch the last wave. in 1999 everyone tried to work with Mike Milken, this was a few years before he went to jail for all the junk bond stuff.
+
+They were never interested in Silicon Valley or tech except for 1999, 2000 when they timed the dotcom bubble peaking perfectly. 2005 to 2007 was housing, private equity, stuff like this. This tendency for us to see competition as validation is very deep, I don't think there's some easy psychological formula to avoid this. I don't quite know how what sort of therapy to recommend.
+
+My first starting point, which is only going to be maybe ten percent of the way, is to never underestimate how big a problem it is. We always think that this is something that afflicts other people. 
+
+We always point to people in business school, people at Harvard or people on Wall Street, but it actually does afflict all of us to a very profound degree. We always think of advertising as this thing that works on other people,
+
+for all the stupid people who follow ads on TV, but they obviously work to some extent and they work to the disturbing extent on all of us and it's something we must work to overcome.
+
+Thank you very much.
 
