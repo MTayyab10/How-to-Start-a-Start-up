@@ -44,4 +44,4 @@ I try to write some main and important parts of Course, Step wise Lectures
 
 - [Lecture 5](https://github.com/MTayyab10/How-to-Start-a-Start-up/tree/main/Lecture%205) Business strategy and monopoly ( Competition is For Losers)
 
-- [Lecture 6](Lecture 6/06-Growth (Alex Schultz deck).pdf)
+- [Lecture 6](https://github.com/MTayyab10/How-to-Start-a-Start-up/tree/main/Lecture%206) Growth for Startups
