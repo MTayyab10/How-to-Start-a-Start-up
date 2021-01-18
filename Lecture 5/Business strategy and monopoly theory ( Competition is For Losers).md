@@ -1,11 +1,12 @@
 
-# Business strategy and monopoly ( Competition is For Losers)
+# Business strategy and create monopoly
 
 [YouTube Video Lecture](https://youtu.be/5_0dVHMpJlo)
 
 
 > I'm completely obsessed with on the business side which is that 
 if you’re the founder, entrepreneur, starting a company you always want to aim for monopoly and you want to always avoid competition.
+
 And so hence competition is for losers, something we’ll be talking about today.
 
 ## Capturing Value
@@ -22,7 +23,7 @@ A very simple formula, that if you have a valuable company two things are true.
 
 > **So to create a valuable company you have to basically both create something of value and capture some fraction of the value of what you've created.**
 
-### Perfect Competition
+## Perfect Competition
 
 If we look at perfect competition, 
 
@@ -43,7 +44,7 @@ There is shockingly little that is in between. And this dichotomy is not underst
 
 And in my mind this is not necessarily the most important thing in business, but I think it's the most important business idea that people don't understand, that there are just these two kinds of businesses.
 
-### Lies people tell
+## Lies people tell
 
 So let me tell you a little bit about the lies people tell. 
 
