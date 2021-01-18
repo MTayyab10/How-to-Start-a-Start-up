@@ -249,9 +249,121 @@ So most of the value exists far in the future. I did this exercise at Pay Pal in
 
 - It's very far in the future and so one of the things that we always over value in Silicon Valley is growth rates and we undervalue durability
 
+### Growth
 
-Growth is something you can measure in the here and now, you can always track that very precisely. The question of whether a company will be around a decade from now, that’s actually what dominates the value equation and that’s a much more qualitative sort of a thing. And so if we went back to this idea of these characteristics of monopoly, the proprietary technology, network effects, economies of scale, you can think of these characteristics as ones that exist at a moment in time where you capture a market and take it over but you also want to think about, are these things going to last over time. So there’s a time dimension to all these characteristics. So networks in fact often have a great time element where as the network scales, network effects actually get more robust, and so if you have a network business it's often one that can become a bigger and stronger monopoly over time.
+Growth is something you can measure in the here and now, you can always track that very precisely. The question of whether a company will be around a decade from now, that’s actually what dominates the value equation and that’s a much more qualitative sort of a thing.
+
+And so if we went back to this idea of these characteristics of monopoly, the proprietary technology, network effects, economies of scale, you can think of these characteristics as ones that exist at a moment in time where you capture a market and take it over but you also want to think about, are these things going to last over time. So there’s a time dimension to all these characteristics.
+
+So networks in fact often have a great time element where as the network scales, network effects actually get more robust, and so if you have a network business it's often one that can become a bigger and stronger monopoly over time.
+
+Proprietary technology is always a little bit of a tricky one, so you want something that is an order of magnitude better than the state of the art in the world today.
+
+That's how you get people's attention, that's how you initially break through. But then you don't want to be superseded by somebody else.
+
+So there are all these areas of innovation where there was tremendous innovation, but no one made any money. So disk drive manufacturing in the 1980's, you could build a better disk drive than anybody else, you could take over the whole world and two years later someone else would come along and replace yours.
+
+In the course of fifteen years, you got vastly improved disk drives, so had a great benefit to consumers, but it didn't actually help the people who started these companies.
+
+There's always this question about having a huge breakthrough in technology, but then also being able to explain why yours will be the last breakthrough or at least the last breakthrough for a long time or if you make a breakthrough, then you can keep improving on it at quick enough pace that no one can ever catch up.
+
+So if you have a structure of the future where there's a lot of innovation and other people will come up with new things and the thing you're working on, that's great for society. It's actually not that good for your business typically. And then economies of scale we’ve already about. 
+
+I think this last mover thing is very critical. I’m always tempted, I don't want to overdo chess analogies, but the first mover in chess is someone who plays white, white is about a one-third of a pawn advantage, 
+
+so there is a small advantage to going first. You want to be the last mover who wins the game, so there’s always world chess champion Capablanca line, “You must begin by studying the end game.” I wouldn't say that’s the only thing you should study,
+
+I think perspective of asking these questions, why will this still be the leading company in ten, fifteen, twenty years from now, is a really critical one to try to think through.
 
 
+## History of Inovation 
 
+I want to go in two slightly other directions with this the monopoly versus competition idea. 
+
+- I think this is the central idea on my mind for business, for starting a business, for thinking about them. There are some very interesting perspectives, 
+
+- I think it gives, on the whole history of innovation in technology and science. We've lived through 300 years of incredible technological progress in many many different domains.
+
+- Steam engines to railways, the telephone, refrigeration, household appliances, the computer revolution, aviation, all different areas of technological innovation.
+
+Then there's sort of an analogous thing to say about science where we've lived through centuries of enormous amounts of innovation in science as well.
+
+> **The thing that I think people always miss when they think about these things, is that because "X" and "Y" are independent variables, some of these things can be extremely valuable innovations, but the people who invent them, who come up with them, do not get rewarded for this.**
+
+Certainly if you go back to you need to create X dollars in value and you capture Y percent of X, I would suggest that the history of science has generally been one where Y is zero percent across the board, the scientists never make any money.
+
+They’re always deluded into thinking that they live in a just universe that will reward them for their work and for their inventions. 
+
+This is probably the fundamental delusion that scientists tend to suffer from in our society. 
+
+Even in technology there are sort of many different areas of technology where there were great innovations that created tremendous value for society, but people did not actually capture much of the value. 
+
+- So I think there is a whole history of science and technology that can be told from the perspective of how much value was actually captured. Certainly there are entire sectors where people didn't capture anything.
+
+### Important
+
+You're the smartest physicist of the twentieth century, you come up with special relativity, you come up with general relativity, you don't get to be a billionaire, you don't even get to be a millionaire. 
+
+It just somehow doesn't work that way. The railroads were incredibly valuable, they mostly just went bankrupt because there was too much competition. Wright brothers, you fly the first plane, you don't make any money.
+
+So I think there is a structure to these industries that’s very important.
+
+I think the thing that's actually rare are the success cases
+
+. So if you really think about the history in this and this two hundred fifty years sweep, 
+
+why is almost always zero percent, it's always zero in science, it's almost always in technology.
+
+- It's very rare where people made money. You know in the late eighteenth, early nineteenth century, the first industrial revolution was the textile mills, you got the steam engine, you sort of automated things. 
+
+- You had these relentless improvements that people improved efficiency of textile factories, of manufacturing generally, at a clip of five to seven percent every year, year after year, decade after decade. You had sixty, seventy years of tremendous improvement from 1780 to 1850.
+
+- Even in 1850, most of the wealth in Britain was still held by the landed aristocracy and the workers didn't make that much.
+
+The capitalists didn't make that much either, it was all competed away. There were hundreds of people running textile factories, it was an industry where the structure of the competition prevented people from making any money.
+
+There are, in my mind, probably only two broad categories in the entire history of the last two hundred and fifty years where people actually came up with new things and made money doing so.
+
+One is these sort of vertically integrated complex monopolies which people did build in the second industrial revolution at the end of the nineteenth and start of the twentieth century. 
+
+This is like Ford, it was the vertically integrated oil companies like Standard Oil, and what these vertically integrated monopolies typically required was a very complex coordination,
+
+you've got a lot of pieces to fit together in just the right way, and when you assemble that you had a tremendous advantage. 
+
+This is actually done surprisingly little today and so I think this is sort of a business form that when people can pull it off, is very valuable.
+
+
+- And then I think there is something about software itself that's very powerful.
+
+- Software has these incredible economies of scale, these low marginal costs, and there is something about the world of bits, as opposed to the world of atoms, 
+
+-- where you can often get very fast adoption and fast adoption is critical to capturing and taking over markets because even if you have a small market,
+if adoption rate is too slow, there will be enough time for other people to enter that market and compete with you.
+
+- Whereas if you have a small to midsize market, have the fast adoption rate, you can now take over this market.
+
+- So I think this is one of the reasons Silicon Valley has done so well and why software has been this phenomenal industry.
+
+What I would suggest that we will leave you with is there are these different rationalizations people give for why certain things work and why certain things don't work, and I think these rationalizations always obscure this question on creating "X" dollars in value and capturing "Y" percent of "X." 
+
+So, the science rationalization we’re always told is that the scientists aren’t interested in making money.
+
+They’re doing it for charitable reasons and that you're not a good scientist if you’re motivated by money. I'm not even saying people should always be motivated by money or something like this, 
+
+but I think we should wish to be a little bit more critical of this as a rationalization. 
+
+- We should ask is this a rationalization to obscure the fact that "Y" equals zero percent and the scientists are operating in this sort of world where all the innovation is effectively competed away and they can’t capture any of it directly.
+
+
+The software distortion that often happens is because people are making such vast fortunes in software, we infer that this is the most valuable thing in the world being done full stop.
+
+And so people at Twitter make billions of dollars, it must be that Twitter is worth far more than anything Einstein did.
+
+What that realization tends to obscure, is again that "X" and "Y" are independent variables and that there are these businesses where you capture a lot of X and others where you don't.
+
+So I do think the history of innovation has been this history where the microeconomics, the structure of these industries has mattered a tremendous amount and there is sort of this story where some people made vast fortunes because they worked in industries with the right structure and other people made nothing at all because they were in these very competitive things.
+
+### psycology of competition
+
+Come back to this sort of overarching theme for this talk, this competition is for losers idea, which is always a provocative way to title things because we always think of the losers as the people who are not good at competing. We think of losers as the people who are slow on the track team in high school or do a little less well on standardized tests, and don't get into the right schools. So we always think of losers as people who can't compete and I want us to really rethink and re-value this and consider whether it's possible the competition itself is off.
 
