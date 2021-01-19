@@ -4,13 +4,13 @@
 [YouTube Video Lecture](https://youtu.be/n_yHZ_vKjno)
 
 
-What do you think matters most for growth?
+**What do you think matters most for growth?**
 
 You’ve had tons of lectures, and people have said it over and over, 
 
-**so what do you guys think matters most for growth?**
+#### so what do you guys think matters most for growth?**
 
-  > Great product.
+   Great product.
 
 #### What does a great product lead to?
 
@@ -20,32 +20,94 @@ You’ve had tons of lectures, and people have said it over and over,
 
     Spread the word.
     
+    
+Yes that’s it, retention. 
+
+## Retention
+
+Retention is the single most important thing for growth.
+
+Now we have an awesome growth team at Facebook and I’m super proud to work in it, but the truth of the matter is, we have a fantastic product.
+
+Getting to work on growth of Facebook is a massive privilege because we are promoting something that everyone in the world really wants to use, which is absolutely incredible. If we can get people on, and get them ramped up, they stick on Facebook.
+
+So many times, I got to advise multiple startups. My favorite was working with Airbnb, but I’ve worked with Coursera,
+
+But the one thing that’s true, over and over again is, if you look at this curve, ‘percent monthly active’ versus ‘number of days from acquisition’, if you end up with a retention curve that is asymptotic to a line parallel to the X-axis, you have a viable business and you have product market fit for some subset of market.
+
+But most of the companies that you see fly up, we’ve talked about packing and virality and all of this stuff, their retention curve slopes down toward the axis, and in the end, intercepts the X-axis.
+
+Now when I show this job to people, they say that’s all well and good, you had a million people a day in terms of growth, when you started the growth team at Facebook, or ‘you were at 50 million users, you had a lot of people join your site so you had a ton of data to do this.’
+
+We used the same methodology for our B2B growth , getting people to sign-up for services advertisements, we used this to understand how much growth we were going to have in that market as well. 
+
+And at that point when I joined Facebook, the product was three days old. And within 90 days of the product launching, we were able to use this technique to figure out what the one year value of an advertiser was, and we predicted it for the first year to 97%. So I think it’s very important to look at your retention curve.
+
+So the next question that people ask over and over again is,
+
+### what does good retention look like? 
+
+Sure! I can have 5% retention, but I’m guessing Facebook had better than that. That’s not going to be a successful business. 
+
+I get really pissed off when people ask me that question, because I think you can figure it out. 
+
+That’s a hard problem. Figuring out what Facebook’s retention rate is, is not a hard problem. 
+
+**How many people are there on the internet?** 2.4 billion, 2.3 billion. Okay, Facebook is banned in China,
+
+so what now?
+
+2 billion.
+
+So 2 billion people on the internet. Facebook said around 1.3 billion users in terms of active users. You can divide those numbers by each other. And yet that won’t give you the right answer. 
+
+Of course not! But it’s going to give you close enough to a ballpark answer of what the retention rate looks like for Facebook.
+
+If we signed everyone on the internet up, then you will know it’s higher than that.
+
+Similarly, if you look at WhatsApp. They’ve announced 600 million active users.
+
+**How many people have Smart Phones?**
+
+You can figure out that number - that number is out knocking around. It can give you an idea of how many users there are.
+
+Amazon has a had a pop at signing up almost everyone in the United States. You know how many people are online in the United States, and you have a good idea of how many customers Amazon has from the numbers they throw out.
+
+**Different verticals need different terminal retention rates for them to have successful businesses.**
+
+If you’re on ecommerce and you’re retaining on a monthly active basis, like 20 to 30% of your users, you’re going to do very well. 
+
+If you’re on social media, and the first batch of people signing up to your product are not like, 80% retained, you’re not going to have a massive social media site.
+
+So it really depends on the vertical you’re in, what the retention rates are. What you need to do is have the tools to think, ‘who out there is comparable’ and how you can look at it and say, ‘am I anywhere close to what real success looks like in this vertical?’
 
 
-Schultz: Yes that’s it, retention. Retention is the single most important thing for growth. Now we have an awesome growth team at Facebook and I’m super proud to work in it, but the truth of the matter is, we have a fantastic product. Getting to work on growth of Facebook is a massive privilege because we are promoting something that everyone in the world really wants to use, which is absolutely incredible. If we can get people on, and get them ramped up, they stick on Facebook.
+### Important thing for Growth
 
-So many times, I got to advise multiple startups. My favorite was working with Airbnb, but I’ve worked with Coursera, I’ve worked with other ones that haven’t done as well as those guys. But the one thing that’s true, over and over again is, if you look at this curve, ‘percent monthly active’ versus ‘number of days from acquisition’, if you end up with a retention curve that is asymptotic to a line parallel to the X-axis, you have a viable business and you have product market fit for some subset of market. But most of the companies that you see fly up, we’ve talked about packing and virality and all of this stuff, their retention curve slopes down toward the axis, and in the end, intercepts the X-axis.
-Now when I show this job to people, they say that’s all well and good, you had a million people a day in terms of growth, when you started the growth team at Facebook, or ‘you were at 50 million users, you had a lot of people join your site so you had a ton of data to do this.’ We used the same methodology for our B2B growth , getting people to sign-up for services advertisements, we used this to understand how much growth we were going to have in that market as well. And at that point when I joined Facebook, the product was three days old. And within 90 days of the product launching, we were able to use this technique to figure out what the one year value of an advertiser was, and we predicted it for the first year to 97%. So I think it’s very important to look at your retention curve.
+Retention is the single most important thing for growth and retention comes from having a great idea and a great product to back up that idea, and great product market fit. 
 
-If you see here, this red line is the ‘number of users’ who have been on your product for a certain number of days. So a bunch of people, will have been on the product at least one day, but if your product has been around for a year, you’ll have zero users who have been on it for 366 days. Make sense?
+The way we look at, whether a product has great retention or not, is whether or not the users who install it, actually stay on it long-term,
 
-So what you then do is look for all of your users who have been on your product one day. What percentage of them are monthly active? 100% for the first 30 days obviously, because monthly active, they also end up on one day. But then you look at 31. Every single user on their 31st day after registration, what percentage of them are monthly active? Thirty-second day, thirty-third day, thirty-fourth day. And that allows you, with only 10,000 customers, to get a real idea of what this curve is going to look like for your product. And you’re going to be able to tell, is it asymptotic? It’ll get noisy towards the right side, like I’ m not using real data, but you’ll be able to get a handle on, whether this curve flattens out or does it not. If it doesn’t flatten out, don’t go into growth tactics, don’t do virality, don’t hire a growth hacker. Focus on getting product market fit, because in the end, as Sam said in the beginning of this course: idea, product, team, execution. If you don’t have a great product, there’s no point in executing more on growing it because it won’t grow. Number one problem I’ve seen, inside Facebook for new products, number one problem I’ve seen for startups, is they don’t actually have product market fit, when they think they do.
+when you normalize on a cohort basis, and I think that’s a really good methodology for looking at your product and say ‘okay the first 100, the first 1,000, the first 10,000 people I get on this, will they be retained in the long-run?
 
-So the next question that people ask over and over again is, what does good retention look like? Sure! I can have 5% retention, but I’m guessing Facebook had better than that. That’s not going to be a successful business. I get really pissed off when people ask me that question, because I think you can figure it out. I love this story; this is like my one gratuitous story (link on powerpoint) that I’m throwing out here, so the rest of it may not be as gratuitous. But this is a picture that was published in Life Magazine in 1950 of one of the Trinity nuclear bomb tests. There’s a guy named Jeffrey Taylor. He was a British Physicist who ended up winning the Nobel Prize. He was able to figure out, from looking at this picture (picture on powerpoint) what the power of the U.S. atomic bomb was, and Russians were publishing similar pictures, just using dimensional reasoning. Dimensional reasoning was one of the best skills I learned during my time studying physics back in the UK.
+#### So now, how do you attack operating for growth?
 
-What dimensional reasoning is, you look at the dimensions that are involved in a problem, so you want to figure out energy, newtons, meters, newtons as a kilogram, meters seconds to minus two. You want to figure out kilograms, meters squared, seconds to minus two, and then you try to figure out how you can get each of those numbers from what data you have. The mass is the volume of this sphere, so that’s a meter cubed, so you’ve got meters to five over seconds to minus two and he was able to use that to figure out what the power of this atomic bomb was and what the ratios of the power between the Russian and the U.S. atomic bomb was, and essentially reveal one of the top secrets that existed in the world at that time.
+Let’s say you have awesome product market fit. You’ve built an ecommerce site, and you have 60% of people coming back every single month, and making a purchase from you, which would be absolutely fantastic. 
 
-That’s a hard problem. Figuring out what Facebook’s retention rate is, is not a hard problem. How many people are there on the internet? 2.4 billion, 2.3 billion. Okay, Facebook is banned in China, so what now?
+How do you then take that, and say, **‘now it’s time to scale.’** (Now it’s time to execute was the last thing on your forum right? *to moderator*.) That’s where I think growth teams come in.
 
-Audience: 2 billion.
+### Startup Growth Advice
 
-Schultz: So 2 billion people on the internet. Facebook said around 1.3 billion users in terms of active users. You can divide those numbers by each other. And yet that won’t give you the right answer. Of course not! But it’s going to give you close enough to a ballpark answer of what the retention rate looks like for Facebook. If we signed everyone on the internet up, then you will know it’s higher than that. Similarly, if you look at WhatsApp. They’ve announced 600 million active users. How many people have Smart Phones? You can figure out that number - that number is out knocking around. It can give you an idea of how many users there are. Amazon has a had a pop at signing up almost everyone in the United States. You know how many people are online in the United States, and you have a good idea of how many customers Amazon has from the numbers they throw out. Different verticals need different terminal retention rates for them to have successful businesses. If you’re on ecommerce and you’re retaining on a monthly active basis, like 20 to 30% of your users, you’re going to do very well. If you’re on social media, and the first batch of people signing up to your product are not like, 80% retained, you’re not going to have a massive social media site. So it really depends on the vertical you’re in, what the retention rates are. What you need to do is have the tools to think, ‘who out there is comparable’ and how you can look at it and say, ‘am I anywhere close to what real success looks like in this vertical?’
+    If you're a startup, you shouldn't have a Fucking growth team.
 
-Retention is the single most important thing for growth and retention comes from having a great idea and a great product to back up that idea, and great product market fit. The way we look at, whether a product has great retention or not, is whether or not the users who install it, actually stay on it long-term, when you normalize on a cohort basis, and I think that’s a really good methodology for looking at your product and say ‘okay the first 100, the first 1,000, the first 10,000 people I get on this, will they be retained in the long-run?
+- Startups should not have growth teams. The whole company should be the growth team. 
+- The CEO should be the head of growth.
 
-So now, how do you attack operating for growth? Let’s say you have awesome product market fit. You’ve built an ecommerce site, and you have 60% of people coming back every single month, and making a purchase from you, which would be absolutely fantastic. How do you then take that, and say, ‘now it’s time to scale.’ (Now it’s time to execute was the last thing on your forum right? *to moderator*.) That’s where I think growth teams come in.
+- You need someone to set a North star for you about where the company wants to go, and that person needs to be the person leading the company, from my opinion, that's what I've seen.
 
-My contrarian viewpoint is, if you're a startup, you shouldn't have a growth team. Startups should not have growth teams. The whole company should be the growth team. The CEO should be the head of growth. You need someone to set a North star for you about where the company wants to go, and that person needs to be the person leading the company, from my opinion, that's what I've seen. Mark is a fantastic example of that. Back when Facebook started, a lot of people were putting out their registered user numbers. Right? You'd see you registered user numbers for MySpace, you'd see a registered user numbers for ___11:38, you'd see registered user numbers. Mark put out monthly active users, as the number both internally he held everyone to, and said we need everyone on Facebook, but that means everyone active on Facebook, not everyone signed up on Facebook, so monthly active people was the number internally, and it was also the number he published externally. It was the number he made the whole world hold Facebook to, as a number that we cared about. If you look at what Jan has done with WhatsApp I think that's another great example. He always published sends numbers.
+Mark is a fantastic example of that. Back when Facebook started, a lot of people were putting out their registered user numbers. Right? You'd see you registered user numbers for MySpace, you'd see a registered user numbers for ___11:38, you'd see registered user numbers. 
+
+Mark put out monthly active users, as the number both internally he held everyone to, and said we need everyone on Facebook, but that means everyone active on Facebook, not everyone signed up on Facebook, so monthly active people was the number internally, and it was also the number he published externally. It was the number he made the whole world hold Facebook to, as a number that we cared about. If you look at what Jan has done with WhatsApp I think that's another great example. He always published sends numbers.
 
 If you’re a messaging application, sends is probably the single most important number. If people use you once a day, maybe that’s great, but you’re not really their primary messaging mechanism, so Jan published the sends number. Inside Airbnb, they talk about ‘nights booked’ and also published that in all of the infographics you see in side TechCrunch. They always benchmark themselves against how many nights booked they have compared to the largest hotel chains in the world. They have at each of these companies, a different north star. The north star doesn’t have to be the number of active users for every different vertical. For eBay, it was gross merchandise volume. How much stuff did people actually buy through eBay? Everyone externally tends to judge eBay based on revenue. Actually, Benedict Evans has done this amazing breakdown of Amazon's business, which is really interesting to look at their marketplace business versus their direct business. So eBay is all marketplace business, right? So eBay's being judged by its revenue, when it actually has 10 times Gross Merchandise Volume going through the site. That was the number that eBay looked at when I was working there. Every different company when it thinks about growth, needs a different North star; however, when you are operating for growth it is critical that you have that North star, and you define as a leader.
 
