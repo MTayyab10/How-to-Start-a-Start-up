@@ -8,7 +8,7 @@
 
 You’ve had tons of lectures, and people have said it over and over, 
 
-#### so what do you guys think matters most for growth?**
+#### So what do you guys think matters most for growth?**
 
    Great product.
 
@@ -20,7 +20,7 @@ You’ve had tons of lectures, and people have said it over and over,
 
      Spread the word.    
     
-Yes that’s it, retention. 
+Yes that’s it, retention.
 
 ## Retention
 
@@ -28,7 +28,8 @@ Retention is the single most important thing for growth.
 
 Now we have an awesome growth team at Facebook and I’m super proud to work in it, but the truth of the matter is, we have a fantastic product.
 
-Getting to work on growth of Facebook is a massive privilege because we are promoting something that everyone in the world really wants to use, which is absolutely incredible. If we can get people on, and get them ramped up, they stick on Facebook.
+Getting to work on growth of Facebook is a massive privilege because we are promoting something that everyone in the world really wants to use, which is absolutely incredible.
+If we can get people on, and get them ramped up, they stick on Facebook.
 
 So many times, I got to advise multiple startups. My favorite was working with Airbnb, but I’ve worked with Coursera,
 
@@ -42,7 +43,9 @@ We used the same methodology for our B2B growth , getting people to sign-up for 
 
 And at that point when I joined Facebook, the product was three days old. And within 90 days of the product launching,
 
-we were able to use this technique to figure out what the one year value of an advertiser was, and we predicted it for the first year to 97%. So I think it’s very important to look at your retention curve.
+we were able to use this technique to figure out what the one year value of an advertiser was, and we predicted it for the first year to 97%.
+
+So I think it’s very important to look at your retention curve.
 
 So the next question that people ask over and over again is,
 
@@ -62,7 +65,9 @@ so what now?
 
 2 billion.
 
-So 2 billion people on the internet. Facebook said around 1.3 billion users in terms of active users. You can divide those numbers by each other. And yet that won’t give you the right answer. 
+So 2 billion people on the internet.
+
+Facebook said around 1.3 billion users in terms of active users. You can divide those numbers by each other. And yet that won’t give you the right answer. 
 
 Of course not! But it’s going to give you close enough to a ballpark answer of what the retention rate looks like for Facebook.
 
@@ -152,13 +157,18 @@ it’s about Gross Merchandise Volume, or it’s not about getting more registra
 
 #### Example 
 
-A great example of this was when I was at eBay in 2004, we changed they way we paid our affiliates for new users. Affiliate programs are a bit out of fashion these days, but the idea of an affiliate program is essentially, you pay anyone on the internet a referral for sending traffic to your site, but it’s mostly about getting access to big marketers who do it on their own.
+A great example of this was when I was at eBay in 2004, we changed they way we paid our affiliates for new users. Affiliate programs are a bit out of fashion these days, but the idea of an affiliate program is essentially,
 
-We were paying for confirmed registered users, so all of our affiliates were lined up on getting confirmed registered users to the eBay site. We changed our payment model to pay for activated confirmed registered users. So you had to confirm your account and then bid on an item, or buy or list an item, to become someone that we paid for. 
+you pay anyone on the internet a referral for sending traffic to your site, but it’s mostly about getting access to big marketers who do it on their own.
+
+We were paying for confirmed registered users, so all of our affiliates were lined up on getting confirmed registered users to the eBay site. We changed our payment model to pay for activated confirmed registered users. 
+So you had to confirm your account and then bid on an item, or buy or list an item, to become someone that we paid for. 
 
 Overnight when we made that change, we lost something like 20% of confirmed registered users that were being driven by the affiliates. But the ACRUs (15:45) only dropped by about 5%. The ratio between CRU to ACRU went up, and then, the growth of ACRUs massively accelerated.
 
-The cause of this is, if you want to drive CRU, if someone searches for a trampoline, you land them on the registration page because they link you have to register and confirm before they get their trampoline. If you want to drive ACRUs, you land them on the search results page, within eBay for trampolines, so they can see the thing they want to buy, get excited, and then register when they want to buy it. And if you drive just CRUs, people don’t have an amazing magic moment on eBay, when they visit the site. And that’s the next most important thing to think about: How do you drive to the magic moment that gets people hooked on your service.
+The cause of this is, if you want to drive CRU, if someone searches for a trampoline, you land them on the registration page because they link you have to register and confirm before they get their trampoline. If you want to drive ACRUs, you land them on the search results page, within eBay for trampolines,
+
+so they can see the thing they want to buy, get excited, and then register when they want to buy it. And if you drive just CRUs, people don’t have an amazing magic moment on eBay, when they visit the site. And that’s the next most important thing to think about: How do you drive to the magic moment that gets people hooked on your service.
 
 ### Magic Moment
 
@@ -191,7 +201,9 @@ and everything we do on growth, if you look at the Linkedin registration flow, y
 The second thing to think about, that everyone in the Valley gets wrong is, we optimize when we think about growth for ourselves.
 My favorite example is notifications. Again, I’ve talked to and advised many different companies; every single company when they talk about notifications goes ‘Oh, I’m getting too many notifications, 
 
-I think that’s what we have to optimize for on notifications.’ Okay, are your power users leaving your site because they’re getting too many notifications? No. Then why would you optimize that? They’re probably grown-ups and they can use filters.
+I think that’s what we have to optimize for on notifications.’ Okay, are your power users leaving your site because they’re getting too many notifications? No. Then why would you optimize that?
+
+They’re probably grown-ups and they can use filters.
 
 - So for operating for growth, what you really need to think about,
   - what is the North star of your company:
@@ -254,11 +266,17 @@ hat was something that Zuck drove because we were all stuck in analysis paralysi
 
 The second thing was internationalization - knocking down another barrier. When we launched it, I think there were two things we did really well: 1) Even though we were late (and stressed about being late) we took the time to build it in a scalable way; we moved slow to move fast. 
 
-You can actually view the full story from Naomi on one of the video links from the lecture page. What we did was draw all the strings on the site in FBT, which is our translation extraction script and then, we created the community translation platform, so we didn’t have just professional translators translating the site, but we could have all our users translating the site. We got French translated in 12 hours. We managed to get, to this day, 104 languages translated by Facebook for Facebook, 70 of those are translated by the community. We took the time to build something, that would enable us to scale.
+You can actually view the full story from Naomi on one of the video links from the lecture page. What we did was draw all the strings on the site in FBT, which is our translation extraction script and then
+
+ we created the community translation platform, so we didn’t have just professional translators translating the site, but we could have all our users translating the site. 
+ 
+ We got French translated in 12 hours. We managed to get, to this day, 104 languages translated by Facebook for Facebook, 70 of those are translated by the community. We took the time to build something, that would enable us to scale.
 
 The other thing is that we prioritized the right languages. 
 
-Back then, the four main languages were French, Italian, German, and Spanish (and Chinese, but we are blocked in China). Now look at that list - that’s today’s distribution of languages. Italian isn’t on the list anymore; French and German are about to fall off. In the last year we quadrupled the number of people on Facebook in Hindi.
+Back then, the four main languages were French, Italian, German, and Spanish (and Chinese, but we are blocked in China). Now look at that list - that’s today’s distribution of languages.
+
+Italian isn’t on the list anymore; French and German are about to fall off. In the last year we quadrupled the number of people on Facebook in Hindi.
 
 Building for what the world is today is an easy mistake to make, and it’s a lot of what the other social networks did. We built a scalable translation infrastructure that actually enabled us to attack all of the languages,
 
