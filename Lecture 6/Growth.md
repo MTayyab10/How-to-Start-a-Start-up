@@ -18,8 +18,7 @@ You’ve had tons of lectures, and people have said it over and over,
 
 #### And what do you need those customers to do?
 
-    Spread the word.
-    
+     Spread the word.    
     
 Yes that’s it, retention. 
 
@@ -41,11 +40,13 @@ Now when I show this job to people, they say that’s all well and good, you had
 
 We used the same methodology for our B2B growth , getting people to sign-up for services advertisements, we used this to understand how much growth we were going to have in that market as well. 
 
-And at that point when I joined Facebook, the product was three days old. And within 90 days of the product launching, we were able to use this technique to figure out what the one year value of an advertiser was, and we predicted it for the first year to 97%. So I think it’s very important to look at your retention curve.
+And at that point when I joined Facebook, the product was three days old. And within 90 days of the product launching,
+
+we were able to use this technique to figure out what the one year value of an advertiser was, and we predicted it for the first year to 97%. So I think it’s very important to look at your retention curve.
 
 So the next question that people ask over and over again is,
 
-### what does good retention look like? 
+### What does good retention look like? 
 
 Sure! I can have 5% retention, but I’m guessing Facebook had better than that. That’s not going to be a successful business. 
 
@@ -53,7 +54,9 @@ I get really pissed off when people ask me that question, because I think you ca
 
 That’s a hard problem. Figuring out what Facebook’s retention rate is, is not a hard problem. 
 
-**How many people are there on the internet?** 2.4 billion, 2.3 billion. Okay, Facebook is banned in China,
+**How many people are there on the internet?**
+
+2.4 billion, 2.3 billion. Okay, Facebook is banned in China,
 
 so what now?
 
@@ -71,7 +74,9 @@ Similarly, if you look at WhatsApp. They’ve announced 600 million active users
 
 You can figure out that number - that number is out knocking around. It can give you an idea of how many users there are.
 
-Amazon has a had a pop at signing up almost everyone in the United States. You know how many people are online in the United States, and you have a good idea of how many customers Amazon has from the numbers they throw out.
+Amazon has a had a pop at signing up almost everyone in the United States.
+
+You know how many people are online in the United States, and you have a good idea of how many customers Amazon has from the numbers they throw out.
 
 **Different verticals need different terminal retention rates for them to have successful businesses.**
 
@@ -105,45 +110,175 @@ How do you then take that, and say, **‘now it’s time to scale.’** (Now it�
 
 - You need someone to set a North star for you about where the company wants to go, and that person needs to be the person leading the company, from my opinion, that's what I've seen.
 
-Mark is a fantastic example of that. Back when Facebook started, a lot of people were putting out their registered user numbers. Right? You'd see you registered user numbers for MySpace, you'd see a registered user numbers for ___11:38, you'd see registered user numbers. 
+Mark is a fantastic example of that. Back when Facebook started, a lot of people were putting out their registered user numbers. Right?
 
-Mark put out monthly active users, as the number both internally he held everyone to, and said we need everyone on Facebook, but that means everyone active on Facebook, not everyone signed up on Facebook, so monthly active people was the number internally, and it was also the number he published externally. It was the number he made the whole world hold Facebook to, as a number that we cared about. If you look at what Jan has done with WhatsApp I think that's another great example. He always published sends numbers.
+Mark put out monthly active users, as the number both internally he held everyone to, and said we need everyone on Facebook, but that means everyone active on Facebook, not everyone signed up on Facebook,
 
-If you’re a messaging application, sends is probably the single most important number. If people use you once a day, maybe that’s great, but you’re not really their primary messaging mechanism, so Jan published the sends number. Inside Airbnb, they talk about ‘nights booked’ and also published that in all of the infographics you see in side TechCrunch. They always benchmark themselves against how many nights booked they have compared to the largest hotel chains in the world. They have at each of these companies, a different north star. The north star doesn’t have to be the number of active users for every different vertical. For eBay, it was gross merchandise volume. How much stuff did people actually buy through eBay? Everyone externally tends to judge eBay based on revenue. Actually, Benedict Evans has done this amazing breakdown of Amazon's business, which is really interesting to look at their marketplace business versus their direct business. So eBay is all marketplace business, right? So eBay's being judged by its revenue, when it actually has 10 times Gross Merchandise Volume going through the site. That was the number that eBay looked at when I was working there. Every different company when it thinks about growth, needs a different North star; however, when you are operating for growth it is critical that you have that North star, and you define as a leader.
+so monthly active people was the number internally, and it was also the number he published externally. It was the number he made the whole world hold Facebook to, as a number that we cared about. 
 
-The reason this matters is, the second you have more than one person working on something, you cannot control what everyone else is doing. I promise you, having now hit 100 people I’m managing, I have no control. It’s all influence. It’s like I tell one person to do one thing, but the other 99 are going to do whatever they want. And the thing is, it’s not clear to everybody what the most important thing is for a company. It would be very easy for people inside eBay to say, ‘you know what? we should focus on revenue,’ or ‘we should focus on the number of people buying from us’ or ‘we should focus on how many people list items on eBay.’ And Pierre, and Meg, and John, those guys as various leaders, have always said ‘no, its the amount of Gross Merchandise Volume that goes through our site, the percentage of e-commerce that goes through our site, that is what really matters for this company. This means that when someone is having a conversation and you’re not in the room, or when they’re sitting in front of their computer screens, and thinking about how they built this particular project or this particular feature, in their head it’s going to be clear to them that it’s not about revenue, it’s about Gross Merchandise Volume, or it’s not about getting more registrations, registrations don’t matter, unless they become long-term active users. A great example of this was when I was at eBay in 2004, we changed they way we paid our affiliates for new users. Affiliate programs are a bit out of fashion these days, but the idea of an affiliate program is essentially, you pay anyone on the internet a referral for sending traffic to your site, but it’s mostly about getting access to big marketers who do it on their own.
-We were paying for confirmed registered users, so all of our affiliates were lined up on getting confirmed registered users to the eBay site. We changed our payment model to pay for activated confirmed registered users. So you had to confirm your account and then bid on an item, or buy or list an item, to become someone that we paid for. Overnight when we made that change, we lost something like 20% of confirmed registered users that were being driven by the affiliates. But the ACRUs (15:45) only dropped by about 5%. The ratio between CRU to ACRU went up, and then, the growth of ACRUs massively accelerated. The cause of this is, if you want to drive CRU, if someone searches for a trampoline, you land them on the registration page because they link you have to register and confirm before they get their trampoline. If you want to drive ACRUs, you land them on the search results page, within eBay for trampolines, so they can see the thing they want to buy, get excited, and then register when they want to buy it. And if you drive just CRUs, people don’t have an amazing magic moment on eBay, when they visit the site. And that’s the next most important thing to think about: How do you drive to the magic moment that gets people hooked on your service.
+If you look at what Jan has done with WhatsApp I think that's another great example. He always published sends numbers.
 
-In the lecture notes for this course, I’ve stuck in a bunch of links to people I think are brilliant at this stuff. For example, regarding the retention curve I showed you earlier, there’s a link to this guy Danny Ferante who is incredible talking about retention curves. The magic moment there are two videos linked: one is Chamath talking about growth, who is the guy who set up the growth team at Facebook, and the other, is my friend Naomi and I talking at f8 four years about how we were thinking about growth back then. In both of those videos, we talk about the magic moment. What do you think the magic moment is for when you’re signing up to Facebook?
+- If you’re a messaging application, **sends** is probably the single most important number.
 
-Audience: See your friends.
+- If people use you once a day, maybe that’s great, but you’re not really their primary messaging mechanism, 
 
-Schultz: See your friends. Simple as that. I’ve talked to so many companies, and they try to get incredibly complicated about what they’re doing, but it is just as simple as when you see the first picture of one of your friends on Facebook, you go ‘Oh my God, this is what this site is about!’ Zuckerberg talked at Y Combinator about getting people to 10 friends in 14 days; that is why we focus on this metric. The number one most important thing in a social media site is connecting to your friends, because without that, you have a completely empty newsfeed, and clearly you’re not going to come back; you’ll never get any notifications, and you’ll never get any friends telling you about things they are missing on the site.
+so Jan published the sends number. Inside Airbnb, they talk about ‘nights booked’ and also published that in all of the infographics you see in side TechCrunch.
 
-So for Facebook the magic moment, is that moment when you see your friend’s face, and everything we do on growth, if you look at the Linkedin registration flow, you look at the Twitter registration flow, or you look at what WhatsApp does when you sign up, the number one thing all these services look to do, is show you the people you want to follow, connect to, send messages to, as quickly as possible, because in this vertical, this is what matters. When you think about Airbnb or eBay, it’s about finding that unique item, that PEZ dispenser or broken laser pointer, that you really really cared about and want to get ahold of. Like when you see that collectible that you are missing, that is the real magic moment on eBay. When you look on Airbnb and you find that first listing, that cool house you can stay in, and when you go through the door, that’s a magic moment. Similarly on the other side, when you’re listing your house, that first time you get paid, is your magic moment or when you list an item on eBay, the first time you get paid, is your magic moment. You should ask Brian what he thinks, because they’ve done these amazing story boards which I think has been shared, about the journey through a user’s life on Airbnb and how exciting it is. He’ll be talking in around three lectures time; he’s awesome about talking about the magic moment, and getting users to feel the love, joy, and all this stuff.
+They always benchmark themselves against how many nights booked they have compared to the largest hotel chains in the world. 
 
-Think about what the magic moment is for your product, and get people connected to it as fast as possible, because then you can move up where that blue line has asymptotic, and you can go from 60% retention to 70% retention easily if you can connect people with what makes them stick on your site.
+They have at each of these companies, a different north star. The north star doesn’t have to be the number of active users for every different vertical.
 
-The second thing to think about, that everyone in the Valley gets wrong is, we optimize when we think about growth for ourselves. My favorite example is notifications. Again, I’ve talked to and advised many different companies; every single company when they talk about notifications goes ‘Oh, I’m getting too many notifications, I think that’s what we have to optimize for on notifications.’ Okay, are your power users leaving your site because they’re getting too many notifications? No. Then why would you optimize that? They’re probably grown-ups and they can use filters.
+- For eBay, it was gross merchandise volume.
 
-What you need to focus on is the marginal user. The one person who doesn’t get a notification in a given day, month, or year. Building an awesome product is all about think about the power user, right? Building an incredible product is definitely optimizing it for the people who use your product the most, but when it comes to driving growth, people who are already using your product are not the ones you have to worry about. So in this Danny Ferante video there’s also talk about our growth accounting framework that we use to think about for growth. We looked at new users, resurrected users (people who weren’t on Facebook for 30 days and came back) and churned users. The resurrected and churned numbers for pretty much every product I’ve ever seen dominate the new user account once you reach a sensible point of growth a few years in. And all those users who are churning and resurrecting, had low friend counts, and didn’t find their friends so weren’t connected to the great stuff that was going on on Facebook. So the number one thing we needed to focus on, was getting them to those 10 friends, or whatever number of friends they needed. So think about the user on the margin; don’t think about where yourself (21:08), when you’re thinking about growth.
+- **How much stuff did people actually buy through eBay?**
 
-So for operating for growth, what you really need to think about, is what is the North star of your company: What is that one metric, where if everyone in your company is thinking about it and driving their product towards that metric and their actions towards moving that metric up, you know in the long-run your company will be successful. By the way, they’re all probably all correlated to each other, so it’s probably fine to pick almost any metric, whichever one you feel the best about, that aligns with your mission and your values - probably go for that one. But realistically, daily active users fairly correlate to monthly active users; we could have gone with either one. Amount of content shared, also correlates with how many users there are, because guess what? You add a user, they share content. So a lot of things end up being correlated. Pick the one that fits with you and know that you’re going to stick with for a long time. Just have a North Star, and know the magic moment that you know when a user experiences that, they will deliver on that metric for you on the North Star, and then think about the marginal user, don’t think about yourself. Those are, I think, the most important points when operating for growth. Everything has to come from the top.
+- Everyone externally tends to judge eBay based on revenue.
 
-So the last area is tactics. So let’s say you’ve found your niche market that you’re going to have a monopoly on inside the mousetrap market. It’s a silenced mousetrap fir sitting under beds, so if that the mice come to your bed overnight, they can be killed without waking you up. That’s your niche market. Your mousetrap is better than anybody else for that market. What typically happens in Silicon Valley is, everyone thinks marketers are useless. I thought marketers were useless when I was a Physics student, so I’m sure that you guys as Engineering students you must think that we’re awful people who aren’t useful to have around.
+- Actually, Benedict Evans has done this amazing breakdown of Amazon's business, which is really interesting to look at their marketplace business versus their direct business. 
 
-‘Build it and they will come.’ That is something that is very much the mantra in the Valley, and I don’t believe it’s true; I believe you actually have to work. There’s a good article in the lecture page from interviewing Ben Silverman. We talked about how the growth of Pinterest was driven by marketing. I’m biased of course.
+- Every different company when it thinks about growth, needs a different North star; however, when you are operating for growth it is critical that you have that North star, and you define as a leader.
+
+The reason this matters is, the second you have more than one person working on something, you cannot control what everyone else is doing. I promise you, having now hit 100 people I’m managing, I have no control. 
+
+- It’s all influence. It’s like I tell one person to do one thing, but the other 99 are going to do whatever they want. And the thing is, it’s not clear to everybody what the most important thing is for a company.
+
+- It would be very easy for people inside eBay to say, ‘you know what? we should focus on revenue,’ or ‘we should focus on the number of people buying from us’ or ‘we should focus on how many people list items on eBay.’
+
+And Pierre, and Meg, and John, those guys as various leaders, have always said ‘no, its the amount of Gross Merchandise Volume that goes through our site, the percentage of e-commerce that goes through our site, that is what really matters for this company.
+
+This means that when someone is having a conversation and you’re not in the room, or when they’re sitting in front of their computer screens, and thinking about how they built this particular project or this particular feature, in their head it’s going to be clear to them that it’s not about revenue,
+
+it’s about Gross Merchandise Volume, or it’s not about getting more registrations, registrations don’t matter, unless they become long-term active users.
+
+#### Example 
+
+A great example of this was when I was at eBay in 2004, we changed they way we paid our affiliates for new users. Affiliate programs are a bit out of fashion these days, but the idea of an affiliate program is essentially, you pay anyone on the internet a referral for sending traffic to your site, but it’s mostly about getting access to big marketers who do it on their own.
+
+We were paying for confirmed registered users, so all of our affiliates were lined up on getting confirmed registered users to the eBay site. We changed our payment model to pay for activated confirmed registered users. So you had to confirm your account and then bid on an item, or buy or list an item, to become someone that we paid for. 
+
+Overnight when we made that change, we lost something like 20% of confirmed registered users that were being driven by the affiliates. But the ACRUs (15:45) only dropped by about 5%. The ratio between CRU to ACRU went up, and then, the growth of ACRUs massively accelerated.
+
+The cause of this is, if you want to drive CRU, if someone searches for a trampoline, you land them on the registration page because they link you have to register and confirm before they get their trampoline. If you want to drive ACRUs, you land them on the search results page, within eBay for trampolines, so they can see the thing they want to buy, get excited, and then register when they want to buy it. And if you drive just CRUs, people don’t have an amazing magic moment on eBay, when they visit the site. And that’s the next most important thing to think about: How do you drive to the magic moment that gets people hooked on your service.
+
+### Magic Moment
+
+For example, regarding the retention curve I showed you earlier, there’s a link to this guy Danny Ferante who is incredible talking about retention curves. 
+
+The magic moment there are two videos linked: one is Chamath talking about growth, who is the guy who set up the growth team at Facebook, and the other, is my friend Naomi and I talking at f8 four years about how we were thinking about growth back then. In both of those videos, we talk about the magic moment.
+
+**What do you think the magic moment is for when you’re signing up to Facebook?**
+
+> - See your friends.
+
+See your friends. Simple as that.
+
+- I’ve talked to so many companies, and they try to get incredibly complicated about what they’re doing, but it is just as simple as when you see the first picture of one of your friends on Facebook, you go ‘Oh my God, this is what this site is about!’ 
+
+Zuckerberg talked at Y Combinator about getting people to 10 friends in 14 days; that is why we focus on this metric.
+
+The number one most important thing in a social media site is connecting to your friends, because without that, you have a completely empty newsfeed, and clearly you’re not going to come back;
+
+you’ll never get any notifications, and you’ll never get any friends telling you about things they are missing on the site.
+
+So for Facebook the magic moment, is that moment when you see your friend’s face, 
+
+and everything we do on growth, if you look at the Linkedin registration flow, you look at the Twitter registration flow, or you look at what WhatsApp does when you sign up, the number one thing all these services look to do
+
+, is show you the people you want to follow, connect to, send messages to, as quickly as possible, because in this vertical, this is what matters. When you think about Airbnb or eBay,
+
+- Think about what the magic moment is for your product, and get people connected to it as fast as possible, because then you can move up where that blue line has asymptotic, and you can go from 60% retention to 70% retention easily if you can connect people with what makes them stick on your site.
+
+The second thing to think about, that everyone in the Valley gets wrong is, we optimize when we think about growth for ourselves.
+My favorite example is notifications. Again, I’ve talked to and advised many different companies; every single company when they talk about notifications goes ‘Oh, I’m getting too many notifications, 
+
+I think that’s what we have to optimize for on notifications.’ Okay, are your power users leaving your site because they’re getting too many notifications? No. Then why would you optimize that? They’re probably grown-ups and they can use filters.
+
+- So for operating for growth, what you really need to think about,
+  - what is the North star of your company:
+  - What is that one metric,
+  
+- where if everyone in your company is thinking about it and driving their product towards that metric and their actions towards moving that metric up, you know in the long-run your company will be successful. 
+
+- By the way, they’re all probably all correlated to each other, so it’s probably fine to pick almost any metric, whichever one you feel the best about, that aligns with your mission and your values - probably go for that one.
+
+But realistically, daily active users fairly correlate to monthly active users; we could have gone with either one. Amount of content shared, also correlates with how many users there are, because guess what? You add a user, they share content. So a lot of things end up being correlated.
+
+Pick the one that fits with you and know that you’re going to stick with for a long time. Just have a North Star, and know the magic moment that you know when a user experiences that, they will deliver on that metric for you on the North Star, and then think about the marginal user, don’t think about yourself. 
+
+Those are, I think, the most important points when operating for growth. Everything has to come from the top.
+
+
+## Tactics
+
+      So the last area is tactics. 
+
+- So let’s say you’ve found your niche market that you’re going to have a monopoly on inside the mousetrap market. It’s a silenced mousetrap fir sitting under beds, so if that the mice come to your bed overnight, they can be killed without waking you up.  -
+
+- That’s your niche market. Your mousetrap is better than anybody else for that market.
+
+What typically happens in Silicon Valley is, everyone thinks marketers are useless. I thought marketers were useless when I was a Physics student, so I’m sure that you guys as Engineering students you must think that we’re awful people who aren’t useful to have around.
+
+**‘Build it and they will come.’** That is something that is very much the mantra in the Valley, and I don’t believe it’s true; I believe you actually have to work. 
+
+There’s a good article in the lecture page from interviewing Ben Silverman. We talked about how the growth of Pinterest was driven by marketing. I’m biased of course.
+
+### Internationalization
 
 The first tactic I want to talk about is internationalization. Facebook internationalized too late. Sheryl said it broadly in public and I definitely agree with that.
 
-One of the biggest barriers to our long-term growth, and one of the biggest things we had to deal with, was all the countries where there were clones. Famously ? (23:55) had Fakebook.css in their HTML, and there were a ton of sites like that out there, whether it was ?, a clear clone, Mixie, Cyworld, Orkut; they were all these different social networks around the world that grew up when Facebook was focused around the U.S. Internationalizing was an important barrier we needed to knock down, and knocking down barriers is often important to think about for growth. Facebook started out as college-only, so every college that it was launched in was knocking down a barrier. When Facebook expanded beyond colleges to high schools, I wasn’t at the company, but that was a company-shaking moment where people questioned whether or not Facebook would survive,if the culture of the site could survive.
-Then after, expanding from high schools to everyone - that was just before I joined - it was a shocking moment; that’s what spurred the growth up to 50 million, and then we hit a brick wall. When we hit that brick wall, that was when a lot of existential questions were being asked inside Facebook whether any social network could ever get to more than 100 million users. It sounds stupid now, but at that time, no one had ever achieved it. Everyone had tapped out between 50 and 100 million users, and we were worried that it wasn’t possible. That was the point at which the growth team got set up; Chamath brought a bunch of us together. He said very publicly he wanted to fire me on multiple occasions. Without Chamath, I think none of us would have stayed at the company; we were a really weird bunch of people - but it worked out. The two things we did, I think that really drove growth initially was, 1) We focused on that 10 friends in 14 days 2) Getting users to the magic moment. That was something that Zuck drove because we were all stuck in analysis paralysis and, ‘Is it causation? Is it correlation?’ Zuck would say ‘You really think that if no one gets a friend, that they’ll be active on Facebook? Are you crazy?’
+One of the biggest barriers to our long-term growth, and one of the biggest things we had to deal with, was all the countries where there were clones. Famously ?  had Fakebook.css in their HTML, and there were a ton of sites like that out there, whether it was ?, 
 
-The second thing was internationalization - knocking down another barrier. When we launched it, I think there were two things we did really well: 1) Even though we were late (and stressed about being late) we took the time to build it in a scalable way; we moved slow to move fast. You can actually view the full story from Naomi on one of the video links from the lecture page. What we did was draw all the strings on the site in FBT, which is our translation extraction script and then, we created the community translation platform, so we didn’t have just professional translators translating the site, but we could have all our users translating the site. We got French translated in 12 hours. We managed to get, to this day, 104 languages translated by Facebook for Facebook, 70 of those are translated by the community. We took the time to build something, that would enable us to scale.
+a clear clone, Mixie, Cyworld, Orkut; they were all these different social networks around the world that grew up when Facebook was focused around the U.S.
 
-The other thing is that we prioritized the right languages. Back then, the four main languages were French, Italian, German, and Spanish (and Chinese, but we are blocked in China). Now look at that list - that’s today’s distribution of languages. Italian isn’t on the list anymore; French and German are about to fall off. In the last year we quadrupled the number of people on Facebook in Hindi. Building for what the world is today is an easy mistake to make, and it’s a lot of what the other social networks did. We built a scalable translation infrastructure that actually enabled us to attack all of the languages, so we could be ready for where the future is going to be. You’ll probably be able to see some of our Internet.org summit in India about where we want to go with language translations.
+Internationalizing was an important barrier we needed to knock down, and knocking down barriers is often important to think about for growth. 
 
-These are the tactics I want to go through now: Virality, SEO, ESPN, SEM, Affiliates/referral programs. I think there are two ways to look at virality. There’s a great book by Adam L. Penenberg called the Viral Loop that goes through a bunch of case studies of companies that have grown through viral marketing. I strongly encourage you to read this book if you’re interested in viral marketing, as well as advertising. I think Ogilvy on Advertising is great as well because in the chapter 7 you can't think of anything else stick a car to billboard with super glue and people will buy the super glue. He has some really great creative tips. So virality. Sean Parker has this really great model that he told us about when I joined Facebook, which is to think about virality about a product, in terms of three things. First, is payload - so how many people can you hit with any given viral blast. Second, is conversion rate, and third is frequency. This gives you a fundamental idea of how viral a product is.
+- Facebook started out as college-only, so every college that it was launched in was knocking down a barrier.
+
+- When Facebook expanded beyond colleges to high schools, I wasn’t at the company, but that was a company-shaking moment where people questioned whether or not Facebook would survive,if the culture of the site could survive.
+
+Then after, expanding from high schools to everyone - that was just before I joined - it was a shocking moment; that’s what spurred the growth up to 50 million, 
+
+and then we hit a brick wall. When we hit that brick wall, that was when a lot of existential questions were being asked inside Facebook whether any social network could ever get to more than 100 million users.
+
+It sounds stupid now, but at that time, no one had ever achieved it. Everyone had tapped out between 50 and 100 million users, and we were worried that it wasn’t possible. 
+
+That was the point at which the growth team got set up; Chamath brought a bunch of us together. 
+
+He said very publicly he wanted to fire me on multiple occasions. Without Chamath, I think none of us would have stayed at the company; we were a really weird bunch of people - but it worked out. 
+
+**The two things we did, I think that really drove growth initially was,**
+- 1) We focused on that 10 friends in 14 days 
+- 2) Getting users to the magic moment. T
+
+hat was something that Zuck drove because we were all stuck in analysis paralysis and, ‘Is it causation? Is it correlation?’ Zuck would say ‘You really think that if no one gets a friend, that they’ll be active on Facebook? Are you crazy?’
+
+The second thing was internationalization - knocking down another barrier. When we launched it, I think there were two things we did really well: 1) Even though we were late (and stressed about being late) we took the time to build it in a scalable way; we moved slow to move fast. 
+
+You can actually view the full story from Naomi on one of the video links from the lecture page. What we did was draw all the strings on the site in FBT, which is our translation extraction script and then, we created the community translation platform, so we didn’t have just professional translators translating the site, but we could have all our users translating the site. We got French translated in 12 hours. We managed to get, to this day, 104 languages translated by Facebook for Facebook, 70 of those are translated by the community. We took the time to build something, that would enable us to scale.
+
+The other thing is that we prioritized the right languages. 
+
+Back then, the four main languages were French, Italian, German, and Spanish (and Chinese, but we are blocked in China). Now look at that list - that’s today’s distribution of languages. Italian isn’t on the list anymore; French and German are about to fall off. In the last year we quadrupled the number of people on Facebook in Hindi.
+
+Building for what the world is today is an easy mistake to make, and it’s a lot of what the other social networks did. We built a scalable translation infrastructure that actually enabled us to attack all of the languages,
+
+so we could be ready for where the future is going to be. You’ll probably be able to see some of our Internet.org summit in India about where we want to go with language translations.
+
+## More Tactics
+
+    These are the tactics I want to go through now: Virality, SEO, ESPN, SEM, Affiliates/referral programs. 
+
+### Virality
+
+I think there are two ways to look at virality. 
+
+> There’s a great book by Adam L. Penenberg called the Viral Loop that goes through a bunch of case studies of companies that have grown through viral marketing.
+
+- I strongly encourage you to read this book if you’re interested in viral marketing, as well as advertising. 
+
+- So virality. Sean Parker has this really great model that he told us about when I joined Facebook, which is to think about virality about a product, in terms of three things.
+
+- First, is payload - so how many people can you hit with any given viral blast. Second, is conversion rate, and third is frequency. This gives you a fundamental idea of how viral a product is.
 
 Hotmail is the canonical example of brilliant viral marketing. Back when Hotmail launched, there were a bunch of mail companies that had been funded and were throwing huge amounts of money at traditional advertising. Back in that time, people couldn’t get free email clients; they had to be tied to their ISP. Hotmail and a couple other companies launched, and their clients were available wherever you went. You could log-in via library internet or school internet, and be able to get access to that. It was a really big value proposition for anyone who wanted to access it. Most of the companies went out there and did big TV campaigns, billboard campaigns, or newspaper campaigns; however, the Hotmail team didn’t have much funding as they did, so they had to scramble around to figure out how to do it. What they did was add that little link at the bottom of every email that said, ‘Sent from Hotmail. Get your free email here.’
 
