@@ -196,7 +196,9 @@ and everything we do on growth, if you look at the Linkedin registration flow, y
 
 , is show you the people you want to follow, connect to, send messages to, as quickly as possible, because in this vertical, this is what matters. When you think about Airbnb or eBay,
 
-- Think about what the magic moment is for your product, and get people connected to it as fast as possible, because then you can move up where that blue line has asymptotic, and you can go from 60% retention to 70% retention easily if you can connect people with what makes them stick on your site.
+- Think about what the magic moment is for your product, and get people connected to it as fast as possible, because then you can move up where that blue line has asymptotic,
+
+and you can go from 60% retention to 70% retention easily if you can connect people with what makes them stick on your site.
 
 The second thing to think about, that everyone in the Valley gets wrong is, we optimize when we think about growth for ourselves.
 My favorite example is notifications. Again, I’ve talked to and advised many different companies; every single company when they talk about notifications goes ‘Oh, I’m getting too many notifications, 
@@ -215,7 +217,9 @@ They’re probably grown-ups and they can use filters.
 
 But realistically, daily active users fairly correlate to monthly active users; we could have gone with either one. Amount of content shared, also correlates with how many users there are, because guess what? You add a user, they share content. So a lot of things end up being correlated.
 
-Pick the one that fits with you and know that you’re going to stick with for a long time. Just have a North Star, and know the magic moment that you know when a user experiences that, they will deliver on that metric for you on the North Star, and then think about the marginal user, don’t think about yourself. 
+Pick the one that fits with you and know that you’re going to stick with for a long time. Just have a North Star, and know the magic moment that you know when a user experiences that,
+
+they will deliver on that metric for you on the North Star, and then think about the marginal user, don’t think about yourself. 
 
 Those are, I think, the most important points when operating for growth. Everything has to come from the top.
 
@@ -259,6 +263,7 @@ That was the point at which the growth team got set up; Chamath brought a bunch 
 He said very publicly he wanted to fire me on multiple occasions. Without Chamath, I think none of us would have stayed at the company; we were a really weird bunch of people - but it worked out. 
 
 **The two things we did, I think that really drove growth initially was,**
+
 - 1) We focused on that 10 friends in 14 days 
 - 2) Getting users to the magic moment. T
 
@@ -284,7 +289,7 @@ so we could be ready for where the future is going to be. You’ll probably be a
 
 ## More Tactics
 
-    These are the tactics I want to go through now: Virality, SEO, ESPN, SEM, Affiliates/referral programs. 
+    These are the tactics go through now: Virality, SEO, ESPN, SEM, Affiliates/referral programs. 
 
 ### Virality
 
@@ -295,66 +300,181 @@ I think there are two ways to look at virality.
 - I strongly encourage you to read this book if you’re interested in viral marketing, as well as advertising. 
 
 - So virality. Sean Parker has this really great model that he told us about when I joined Facebook, which is to think about virality about a product, in terms of three things.
+  -
+- First, is payload - so how many people can you hit with any given viral blast.
 
-- First, is payload - so how many people can you hit with any given viral blast. Second, is conversion rate, and third is frequency. This gives you a fundamental idea of how viral a product is.
+- Second, is conversion rate, 
 
-Hotmail is the canonical example of brilliant viral marketing. Back when Hotmail launched, there were a bunch of mail companies that had been funded and were throwing huge amounts of money at traditional advertising. Back in that time, people couldn’t get free email clients; they had to be tied to their ISP. Hotmail and a couple other companies launched, and their clients were available wherever you went. You could log-in via library internet or school internet, and be able to get access to that. It was a really big value proposition for anyone who wanted to access it. Most of the companies went out there and did big TV campaigns, billboard campaigns, or newspaper campaigns; however, the Hotmail team didn’t have much funding as they did, so they had to scramble around to figure out how to do it. What they did was add that little link at the bottom of every email that said, ‘Sent from Hotmail. Get your free email here.’
+- and third is frequency. This gives you a fundamental idea of how viral a product is.
 
-The interesting thing was that it meant that the payload was low: You email one person at a time, you’re not necessarily going to have a big payload. Maybe you send around one of those spam emails, but I’m not sure I’d click on your link. The frequency is high though, because you’re emailing the same people over and over, which means you’re going to hit those people once, twice, three times a day and really bring up the impressions. The conversion rate was also really high because people didn’t like being tied to their ISP email. So Hotmail ended up being extremely viral because it had high frequency and high conversion rates.
 
-Another example is Paypal. Paypal is interesting because there are two sides to it, the buyer and the seller side. The other thing that is interesting is that its mechanism for viral growth is eBay. So you can use a lot of things for virality that may not look necessarily obviously viral. If you said to a seller that you were going to send them money - I can’t think of a higher conversion rate. Frequency was low, and payload was low. But Paypal did this thing where they gave away money when you got your friends to sign up, and that’s how they went viral on the consumer side. They didn’t have to do that for sellers, because if I said ‘I am going to send you money via this,’ you will take that. And even on the consumer side they went viral because if someone says ‘Sign up for this thing and you’ll get ten bucks.’ Why wouldn’t you? So they were able to go viral because their conversion rate was high on the buyer and the seller side, not because their payload and frequency was high. Make sense?
+### Hotmail
 
-This is a really good way to look at virality if you want to say, ‘Is this product viral?’ Facebook was not viral via email sharing or anything like that. Facebook was purely viral via word of mouth. The interesting thing about Paypal and Hotmail, is to use them, the first person has to send an email to a person who wasn’t on the service. With Facebook, there is no native way to contact people who aren’t on the service. Everyone thinks that Facebook is a viral marketing success, but that’s actually not how it grew. It was word of mouth virality because it was an awesome product you wanted to tell your friends about.
+Hotmail is the canonical example of brilliant viral marketing. Back when Hotmail launched, there were a bunch of mail companies that had been funded and were throwing huge amounts of money at traditional advertising.
 
-Q: In the first round, it makes sense for there to be a low payload. Will the payload increase in later rounds as the campaign grows and people send more and more e-mails?
+Back in that time, people couldn’t get free email clients; they had to be tied to their ISP. Hotmail and a couple other companies launched, and their clients were available wherever you went.
 
-A: First and foremost, I think you only send emails to a small number of people. So compared to the massive viral engines that exist today, where you import someone’s entire contact book and send them all an e-mail, or where you post to everyone’s friends on Facebook, the actual payloads are still very small even if it’s everyone that you e-mail on a frequent basis you hit. I’m also thinking per email sent out, how many people are on it. But it’s a fair point that as more people get on Hotmail, they’ll send more emails, and as more people use email, the product grows more and more successfully.
+You could log-in via library internet or school internet, and be able to get access to that. It was a really big value proposition for anyone who wanted to access it.
 
-Q: Does a point of conversion matter as well?
+Most of the companies went out there and did big TV campaigns, billboard campaigns, or newspaper campaigns; however, the Hotmail team didn’t have much funding as they did, so they had to scramble around to figure out how to do it.
 
-A: On Hotmail you click to sign up, but on a billboard you have to remember the URL, go to the website, type it in, find the registration button, click register and sign up. Anything you can do to move friction out of the flow, do it. Going from a billboard ad to an online ad removes huge amounts of friction from the flow.
+What they did was add that little link at the bottom of every email that said, ‘Sent from Hotmail. Get your free email here.’
 
-Q: Are frequency and conversation rate related?
+The interesting thing was that it meant that the payload was low: You email one person at a time, you’re not necessarily going to have a big payload. Maybe you send around one of those spam emails, but I’m not sure I’d click on your link.
 
-A: Absolutely. If you hit someone with the same email over and over again, or the same banner ad, the same rules apply to every channel. The more times you hit someone with the same Facebook ad, the less they’ll click. That’s why we have to, like creative exhaustion, rotate creatives on Facebook. Same with banner ads and news feed stories. The fiftieth time you see that IQ story on your news feed, you are not going to want to click on it. The same is true with these emails. So if you send the same email to people over and over again with an invite, you will get a lower conversion rate. ‘The more you hit someone with the same message, the less they convert’ is fundamental across every online marketing channel.
+The frequency is high though, because you’re emailing the same people over and over, which means you’re going to hit those people once, twice, three times a day and really bring up the impressions. 
 
-Second way to look at virality, which I think is awesome, is by this guy Ed. Ed runs the growth team at Uber now; he was at the growth team at Facebook. He was a Stanford MBA student, and did a class similar to this where they talked about virality and built viral products. The interesting thing is, if you look at Uber, they’re incredibly focused on drivers. It’s a two-sided market place, so they need drivers. It’s a huge part of their focus as a team, even though they’ve got probably the best viral guy in the world at the company.
+The conversion rate was also really high because people didn’t like being tied to their ISP email. So Hotmail ended up being extremely viral because it had high frequency and high conversion rates.
 
-So with virality, you get someone to contact import (35:12) let's say. Then the question is, how many of those people do you get to send imports? Then, to how many people? Then, how many click? How many sign up? And then how many of those import. So essentially you want people to sign up to your site to import their contacts. You want to then get them to send an invite to all of those contacts - ideally all of those contacts, not just some of them. Then you want a percentage of those to click and sign up. If you multiply all the percentages/numbers in every point in between the steps, this is essentially how you get to the point of ‘What is the K factor?’ For example, let’s says 100 people get an invite per person who imports, then of those, 10% click, and 50% sign up, and of those only 10 to 20% import, you’re going to be at 0.5 - 1.0 K factor, and you’re not going to be viral. A lot of things like Viddy were very good at pumping up stories. They got the factor over 1, which is perfectly doable. But if you’ve got something that doesn’t have high retention on the backend, it doesn’t really matter. You should look at your invite flow and say ‘okay, what is my equivalent to import, how many people per import are invites sent to, how many of those receive clicks, how many of those convert to my site, how many of those then import,’ in order to get an idea of you K factor. The real important thing is still to think about retention, not so much virality, and only do this after you have a large number of people retained on your product per person who signs up.
+### Paypal
+
+Another example is Paypal. Paypal is interesting because there are two sides to it, the buyer and the seller side.
+
+The other thing that is interesting is that its mechanism for viral growth is eBay.
+
+So you can use a lot of things for virality that may not look necessarily obviously viral. If you said to a seller that you were going to send them money - I can’t think of a higher conversion rate. Frequency was low, and payload was low.
+
+But Paypal did this thing where they gave away money when you got your friends to sign up, and that’s how they went viral on the consumer side. They didn’t have to do that for sellers, because if I said ‘I am going to send you money via this,’ you will take that. 
+
+- And even on the consumer side they went viral because if someone says ‘Sign up for this thing and you’ll get ten bucks.’ Why wouldn’t you? So they were able to go viral because their conversion rate was high on the buyer and the seller side, not because their payload and frequency was high. Make sense?
+
+- This is a really good way to look at virality if you want to say, ‘Is this product viral?’ 
+
+- Facebook was not viral via email sharing or anything like that. Facebook was purely **viral via word of mouth.** The interesting thing about Paypal and Hotmail, is to use them, 
+
+- the first person has to send an email to a person who wasn’t on the service. With Facebook, there is no native way to contact people who aren’t on the service. 
+
+- Everyone thinks that Facebook is a viral marketing success, but that’s actually not how it grew. It was word of mouth virality because it was an awesome product you wanted to tell your friends about.
+
+### In the first round, it makes sense for there to be a low payload. Will the payload increase in later rounds as the campaign grows and people send more and more e-mails?
+
+First and foremost, I think you only send emails to a small number of people.
+
+- So compared to the massive viral engines that exist today, where you import someone’s entire contact book and send them all an e-mail, or where you post to everyone’s friends on Facebook, the actual payloads are still very small even if it’s everyone that you e-mail on a frequent basis you hit.
+
+I’m also thinking per email sent out, how many people are on it. 
+
+But it’s a fair point that as more people get on Hotmail, they’ll send more emails, and as more people use email, the product grows more and more successfully.
+
+### Does a point of conversion matter as well?
+
+ On Hotmail you click to sign up, but on a billboard you have to remember the URL, go to the website, type it in, find the registration button, click register and sign up.
+ 
+ Anything you can do to move friction out of the flow, do it. Going from a billboard ad to an online ad removes huge amounts of friction from the flow.
+
+### Are frequency and conversation rate related?
+
+Absolutely. If you hit someone with the same email over and over again, or the same banner ad, the same rules apply to every channel.
+
+The more times you hit someone with the same Facebook ad, the less they’ll click. That’s why we have to, like creative exhaustion, rotate creatives on Facebook.
+
+Same with banner ads and news feed stories. The fiftieth time you see that IQ story on your news feed, you are not going to want to click on it. The same is true with these emails. 
+
+So if you send the same email to people over and over again with an invite, you will get a lower conversion rate. ‘The more you hit someone with the same message, the less they convert’ is fundamental across every online marketing channel.
+
+### Secong way of Virality
+
+Second way to look at virality, which I think is awesome, is by this guy Ed.
+
+- Ed runs the growth team at Uber now; he was at the growth team at Facebook. He was a Stanford MBA student, and did a class similar to this where they talked about virality and built viral products.
+
+- The interesting thing is, if you look at Uber, they’re incredibly focused on drivers. It’s a two-sided market place, so they need drivers. It’s a huge part of their focus as a team, even though they’ve got probably the best viral guy in the world at the company.
+
+So with virality, you get someone to contact import let's say.
+
+**Then the question is, how many of those people do you get to send imports? Then, to how many people? Then, how many click?
+How many sign up?** 
+
+And then how many of those import.
+
+So essentially you want people to sign up to your site to import their contacts. You want to then get them to send an invite to all of those contacts - ideally all of those contacts, not just some of them. Then you want a percentage of those to click and sign up. 
+
+If you multiply all the percentages/numbers in every point in between the steps, this is essentially how you get to the point of ‘What is the K factor?’ For example, let’s says 100 people get an invite per person who imports, then of those, 10% click, and 50% sign up, and of those only 10 to 20% import, you’re going to be at 0.5 - 1.0 K factor, and you’re not going to be viral. A lot of things like Viddy were very good at pumping up stories. They got the factor over 1, which is perfectly doable. But if you’ve got something that doesn’t have high retention on the backend, it doesn’t really matter. You should look at your invite flow and say ‘okay, what is my equivalent to import,
+
+how many people per import are invites sent to, how many of those receive clicks, how many of those convert to my site, how many of those then import,’ in order to get an idea of you K factor. The real important thing is still to think about retention, not so much virality, and only do this after you have a large number of people retained on your product per person who signs up.
 
 A couple more things we are going to touch on: SEO, emails, SMS, and push notifications.
 
-In SEO, there are three things you need to think about. First one is keyword research. People do this badly all the time. So I launched this cocktail site I told you about, I spend a year optimizing it to rank for the word cocktail making, but it turns out in the UK, no one searches for cocktail making- about 500 a month; I dominated that search, it was awesome! 400 visitors a month, it was amazing. Everyone searches for cocktail recipes, and in the U.S., everyone searches for drink recipes. So I optimized for the wrong word. You have to do your research first about what you’re going to go after.
+In SEO, there are three things you need to think about. First one is keyword research. People do this badly all the time. So I launched this cocktail site I told you about, 
 
-Research consists of, what do people search for that’s related to your site, how many people search for it, how many other people are ranking for it, and how valuable is it for you? Supply, demand, and value. So, do your keyword research to figure out which keyword you want to rank for. There are many great tools out there. Honestly the best one is still Google AdWords keyword planner tool.
+I spend a year optimizing it to rank for the word cocktail making, but it turns out in the UK, no one searches for cocktail making- about 500 a month; I dominated that search,
 
-Once you’ve done that, the next most important thing is links. Page ranks is essentially how all SEO is driven, and Google is based on authority. Now there’s a lot of other things in Google’s algorithm now, like, do people search for your website, there's a lot of stuff about what the distribution of what the anchor text is that’s sent to your site, so that if you abuse it or spam it, they can pop out with spam. White text on a white background five pages below the fold doesn't work anymore.
+it was awesome! 400 visitors a month, it was amazing. Everyone searches for cocktail recipes, and in the U.S., everyone searches for drink recipes. So I optimized for the wrong word. You have to do your research first about what you’re going to go after.
 
-But the single most important thing is to get valuable links from high authority websites for you to rank in Google. Then you need to distribute that love inside your site by internally linking effectively. We launched SEO in September 2007; I joined Facebook November 2007. When we launched it, but we were getting no traffic from the pages we had launched, public user profiles. So when I went in and looked at it, the only way you could get into any public user profile was to click on the foot of the page for the about link, then click on the blog articles, then click on one of the authors, and then spider out through their friends to get all their friends.
+Research consists of, what do people search for that’s related to your site, how many people search for it, how many other people are ranking for it, and how valuable is it for you? Supply, demand, and value.
+
+So, do your keyword research to figure out which keyword you want to rank for. There are many great tools out there. Honestly the best one is still Google AdWords keyword planner tool.
+
+Once you’ve done that, the next most important thing is links. Page ranks is essentially how all SEO is driven, and Google is based on authority. Now there’s a lot of other things in Google’s algorithm now, like,
+
+do people search for your website, there's a lot of stuff about what the distribution of what the anchor text is that’s sent to your site, so that if you abuse it or spam it, they can pop out with spam. White text on a white background five pages below the fold doesn't work anymore.
+
+But the single most important thing is to get valuable links from high authority websites for you to rank in Google. Then you need to distribute that love inside your site by internally linking effectively. We launched SEO in September 2007; I joined Facebook November 2007.
+
+When we launched it, but we were getting no traffic from the pages we had launched, public user profiles. So when I went in and looked at it, 
+
+the only way you could get into any public user profile was to click on the foot of the page for the about link, then click on the blog articles, then click on one of the authors, and then spider out through their friends to get all their friends.
 
 Turns out that Google was like, ‘They bury these pages, they’re not very valuable. I’m not going to rank them.’ We made one change: We added a directory so that Google could quickly get to every page on the site, and we 100Xed SEO traffic. Very simple change drove a lot of upside by distributing the link love internally.
 
 The last thing is that there’s a whole bunch of table stakes stuff for XML sitemaps, and making sure you have the right headers; it’s all covered really well online for you.
 
-Email is dead for people under 25 in my opinion. Young people don’t use email. They use WhatsApp, SMS, SnapChat, Facebook; they don’t use email. If you’re targeting an older audience, email is still pretty successful. Email still works for distribution, but realistically, email is not great for teenagers - even people at universities. You know how much you use instant messaging apps, and how little you use emails. And you guys are probably on the high scale for email because you’re in Silicon Valley. That being said, on email the things to think about: Email, SMS, and Push Notifications all behave the same way. They all have questions of deliverability, so to finish to finish first, first you have to finish. Your email has to get to someone’s inbox. So if you send a lot of spam, end up with dirty IPs, or send email from shared servers where other people are sending spam from, you are going to end up being put in the spam folder consistently and your email will fail completely. You may end up being blocked and have your email bounce. There’s a lot of stuff around email where you have to look when you receive feedback from the servers you are sending emails to, 500 series errors versus 400 series errors; you have to be respectful how those are handled. If someone gives you a hard bounce, retry once or twice and then stop trying because if you are someone who abuses people’s inboxes, the email companies spam folder you, and it’s very hard to get out. If you get caught in a spam house link, or anything like that, it’s very hard to get out. It’s really important with email that you are a high class citizen, and that you do good work with email because you want to have deliverability for the long run.
+### Email is Dead
 
-That counts for push notifications and SMS, too. With SMS, you can go buy SMS traffic via grey routes with people who are having phones strung up attached to a computer and pumping out SMSs. That works for a time, but it always gets shut down. I’ve seen so many companies make these mistakes where they think they’re going to grow by using these kinds of tactics. If you can’t get your email, SMS, or Push Notification delivered, you will never get any success from these. You actually spam your power users and give them notifications they don’t care about, making it really hard for them to opt out. Well, they start blocking you, and you can never push them once they’ve opted out of your Push Notifications. And it’s very hard to prompt them to turn them on once they’ve turned them off.
+Email is dead for people under 25 in my opinion. Young people don’t use email. 
+
+They use 
+- WhatsApp,
+- SMS, SnapChat,
+- Facebook; they don’t use email.
+
+If you’re targeting an older audience, email is still pretty successful. Email still works for distribution, but realistically, 
+
+- Email is not great for teenagers - even people at universities. You know how much you use instant messaging apps, and how little you use emails. 
+
+That being said, on email the things to think about: Email, SMS, and Push Notifications all behave the same way.
+
+They all have questions of deliverability, so to finish to finish first, first you have to finish. Your email has to get to someone’s inbox.
+
+So if you send a lot of spam, end up with dirty IPs, or send email from shared servers where other people are sending spam from, you are going to end up being put in the spam folder consistently and your email will fail completely. 
+
+You may end up being blocked and have your email bounce. There’s a lot of stuff around email where you have to look when you receive feedback from the servers you are sending emails to, 500 series errors versus 400 series errors; you have to be respectful how those are handled.
+
+If someone gives you a hard bounce, retry once or twice and then stop trying because if you are someone who abuses people’s inboxes, the email companies spam folder you, and it’s very hard to get out.
+
+If you get caught in a spam house link, or anything like that, it’s very hard to get out. It’s really important with email that you are a high class citizen, and that you do good work with email because you want to have deliverability for the long run.
+
+That counts for push notifications and SMS, too. With SMS, you can go buy SMS traffic via grey routes with people who are having phones strung up attached to a computer and pumping out SMSs. That works for a time, but it always gets shut down.
+
+I’ve seen so many companies make these mistakes where they think they’re going to grow by using these kinds of tactics. If you can’t get your email, SMS, or Push Notification delivered, you will never get any success from these.
+
+You actually spam your power users and give them notifications they don’t care about, making it really hard for them to opt out. Well, they start blocking you, and you can never push them once they’ve opted out of your Push Notifications. And it’s very hard to prompt them to turn them on once they’ve turned them off.
 
 So number one thing to think about regarding email, SMS, and Push Notifications is, you have to get them delivered. Beyond that, it’s a question of open rate, click rate. So what is the compelling subject line you can put there so the people can open your email, and how can you get them to click when they visit?
 
 Everyone focuses towards doing marketing emails that are just spam in my opinion. Newsletters are stupid. Don’t do newsletters because you’ll send the same newsletter to everyone on your site. Someone who signed up to your site yesterday versus someone who’s been using your product for three years - do they need the same message? No.
 
-The most effective email you can do is notifications. So what are you sending? What should you be notifying people of? This is a great place where we’re in the wrong mindset. As a Facebook user, I don’t want Facebook to email me about every ‘like’ I receive, because I receive a lot of them since I have a lot of Facebook friends. But as a new Facebook user, that first ‘like’ you receive is a magic moment. Turning on notifications throughout all of our channels, increased on our emails, SMS, and Push Notifications, but we only turned it on for low-engaged users who weren’t coming back to the site, so it wouldn’t be spamming for them.
+The most effective email you can do is notifications. So what are you sending? What should you be notifying people of? This is a great place where we’re in the wrong mindset. 
 
-So it was a great experience to think about that. The first thing you need to think about when sending emails, SMS, and Push Notifications is what notifications should we be sending. The second thing you need to be thinking about is how can you create great triggered marketing campaigns. When someone created their first cross-border trade transaction was one of the best email campaigns I was ever part of at eBay in terms of click through rate. It was awesome because it was really timely, and really in context - the right thing to do for the user.
+As a Facebook user, I don’t want Facebook to email me about every ‘like’ I receive, because I receive a lot of them since I have a lot of Facebook friends. But as a new Facebook user, that first ‘like’ you receive is a magic moment.
+
+Turning on notifications throughout all of our channels, increased on our emails, SMS, and Push Notifications, but we only turned it on for low-engaged users who weren’t coming back to the site, so it wouldn’t be spamming for them.
+
+So it was a great experience to think about that. The first thing you need to think about when sending emails, SMS, and Push Notifications is what notifications should we be sending.
+
+The second thing you need to be thinking about is how can you create great triggered marketing campaigns.
+
+When someone created their first cross-border trade transaction was one of the best email campaigns I was ever part of at eBay in terms of click through rate. It was awesome because it was really timely, and really in context - the right thing to do for the user.
 
 I’d say make sure you have deliverability. Focus on notifications and triggered based emails, SMS, and Push Notifications.
 
 There’s one thing I wanted to finish with, which is my favorite quote by General Patton. It’s so cliche; it’s crazy, but it’s awesome.
 
-“A good plan, violently executed today, is better than a perfect plan tomorrow.”
+**A good plan, violently executed today, is better than a perfect plan tomorrow.”**
 
-And one other thing that Chamath instills in us and Mark still instills across the whole of Facebook is move fast and don’t be afraid to break stuff. If you can run more experiments than the next guy, if you can be hungry for growth, if you can fight and die for every extra user and you stay up late at night to get those extra users, to run those experiments, to get the data, and do it over and over and over again, you will grow faster.
+And one other thing that Chamath instills in us and Mark still instills across the whole of Facebook is move fast and don’t be afraid to break stuff.
+
+If you can run more experiments than the next guy, if you can be hungry for growth, if you can fight and die for every extra user and you stay up late at night to get those extra users, to run those experiments, to get the data, and do it over and over and over again, you will grow faster.
 
 Mark has said he thinks we won because we wanted it more, and I really believe that. We just worked really hard. It’s not like we’re crazy smart, or we’ve all done these crazy things before. We just worked really really hard, and we executed fast. I strongly encourage you to do that. Growth is optional.
 
