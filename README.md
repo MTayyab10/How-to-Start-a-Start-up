@@ -47,3 +47,5 @@ I try to write some main and important parts of Course, Step wise Lectures
 - [Lecture 6](https://github.com/MTayyab10/How-to-Start-a-Start-up/tree/main/Lecture%206) Growth for Startups
 
 - [Lecture 7](https://github.com/MTayyab10/How-to-Start-a-Start-up/tree/main/Lecture%207) How to build products Users love
+
+- [Lecture 8](https://github.com/MTayyab10/How-to-Start-a-Start-up/tree/main/Lecture%208)
