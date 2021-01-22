@@ -3,7 +3,7 @@
 
 [YouTube Video Lecture](https://youtu.be/oQOC-qy-GDY)
 
-### Stanley Tang
+### DoorDash (Stanley Tang)
 
        I'm Stanley, the founder of DoorDash. 
        
@@ -158,27 +158,90 @@ For us when we started DoorDash, it was always about helping small business owne
 That's still our focus; that's our long-term vision. For now we are just focused on restaurant delivery as a way to scale, but ultimately that's where we want to end up in.
 
 
-# Walker Williams
+## Teespring (walker Williams)
 
         Walker Williams, founder of Teespring.
+we are an e-commerce platform that allows entrepreneurs to launch products and apparel brands without risk, cost, or compromise. Today the company is about 180 folks and we ship tens of thousands of products each day.
 
-I almost rejected him, which sounds like a dumb idea, but now they're making hundreds of millions of dollars in revenue, so very luckily I did not. Walker is also going to talk about doing things that don't scale.
+### Things that don't scale
 
-Walker: Thank you guys for having me! My name is Walker; I am the CEO/Founder of Teespring. For those of you who don't know what Teespring is, we are an e-commerce platform that allows entrepreneurs to launch products and apparel brands without risk, cost, or compromise. Today the company is about 180 folks and we ship tens of thousands of products each day. I want to talk to you about one of the most fundamental advantages you have as a start up, and that's that you are able to do things that don't scale.
+I want to talk to you about one of the most fundamental advantages you have as a start up, and that's that you are able to do things that don't scale.
 
-I define things that don't scale as things that are sort of fundamentally unsustainable; they will not last; they will not bring in the millionth user. Where they break, it's usually time but it could be a number of other things. But it's really growth strategies that won't take you to a million users. There are three places I want to focus on today. First one is finding your first users. The second one is turning those users into champions, and the third one is finding your product/market fit.
+I define things that don't scale as things that are sort of fundamentally unsustainable; they will not last; they will not bring in the millionth user.
 
-So finding your first users: The first thing you have to understand is that there's no silver bullet for user acquisition. You know, everybody, and this includes me when we got started, looks for that dream solution, that paperclip campaign that has tremendous ROI, some accelerating partnership that's going to springboard you into the stratosphere, and affiliate agreement; something that solves it for you. But the reality is for the vast majority of companies and in fact for every company that I've had the chance to speak to the CEO of, that's just not possible - those are unicorns. And most of the companies that from the outside look like they've had this dream growth curve, the reality is that those first users were impossibly hard to get. Let me tell you about the story about this ridiculously unsustainable business.
+Where they break, it's usually time but it could be a number of other things. But it's really growth strategies that won't take you to a million users. 
 
-So this is Teespring in 2012 (PowerPoint). When we first launched, the business couldn't have looked worse. It took days of meetings; we had to offer free designs, and days of revisions back-and-forth, we'd have to launch the product ourselves, we'd have to do the social media, all to sell about 50 shirts to a local nonprofit and generate about $1000 of revenue. Anybody looking in would've said, "You guys have to give up, this is a terrible idea." But as time went on, those users started to add up, and I think something you have to understand is when you first launch a company, just by virtue of the fact that it's a new product, you're going to be bad at selling it right? You've got no idea what the pain points of customers really are. You've never sold that before. You don't have any success stories to point to, or testimonials. Those first users are always going to be the hardest.
+There are three places I want to focus on today. 
 
-And so it's your responsibility as a founder to do whatever it takes to bring in your first users. It's going to be different for every company. The common thread that I hear is, founders need to spend personal time and effort, a lot of their personal time and effort to bring those users in themselves. It could mean a number of things - anything from sending 100 emails a day, getting on the phone and just calling as many people as you can, going through a network like Stanford or Y Combinator. Anything you can do to just get that first user. I really equate it to pushing a boulder uphill. And if you think of a smooth hill when you get started, the incline is the steepest and those first inches are the hardest. But over time as you get farther and farther, the incline steadies out, it gets easier, and eventually you reach a point where you're at the top of the hill and the boulder starts to roll on its own.
+- **First one is finding your first users.**
 
-And so for those first users, you cannot just focus on ROI in the sense of time. Do not expect to spend an hour and return thousands of dollars. Maybe Stanley was one of those unicorns - really incredible story. But for most of us, those first two users are going to take a lot of handholding, a lot of personal love, and that's okay - that's essential for building a company. The one caveat of that is, I don't recommend giving your product for free. And there are plenty of exceptions to this rule, but in general, cutting costs or giving the product away is an unsustainable strategy I wouldn't recommend. You need to make sure that users value your product. And you know, people treat products that are free in a much different way than a paid product, and often times it can give you a false sense of security like, "Oh we're getting all these users; surely we can convert them to paid."
+- **The second one is turning those users into champions,**
 
-The second aspect is what happens when you get those users? How do you turn those users into champions? A champion is a user who talks about and advocates for your product. Every company with a great growth strategy has users who are champions. The easiest way to turn a user into a champion is to the delight them with an experience they are going to remember, so something that's unusual or out of the ordinary – an exceptional experience.
+- **and the third one is finding your product/market fit.**
 
-The easiest way to do this early, and again something that is completely unsustainable - it's not going to scale forever - is to just talk to those users. People will say this all the time, it's sort of the core tenant of Y Combinator, is talk to users. I cannot stress how important it is that you spend a large chunk of your time talking to users. You should do it constantly, every single day, and as long as possible. Today at Teespring, I'm still the catchall email address, so anytime anybody misspells "support" or writes an email address that doesn't exist, I get that email. And so I still do about 10 to 20 customer service tickets every single day; I spend hours each night reading every single tweet, probably a little bit OCD, but that's okay; I read through all the Teespring communities. You're never going to get a better sense for your products than actually listening to real users. Especially in the early days, the product and the feature set you launch with is almost certainly not going to be the feature set that you scale with. So the quicker you talk to users and learn what they actually need, the faster you can get to that point.
+So finding your first users: The first thing you have to understand is that there's no silver bullet for user acquisition. 
+
+You know, everybody, and this includes me when we got started, looks for that dream solution, that paperclip campaign that has tremendous ROI, 
+
+some accelerating partnership that's going to springboard you into the stratosphere, and affiliate agreement; something that solves it for you. 
+
+But the reality is for the vast majority of companies and in fact for every company that I've had the chance to speak to the CEO of, that's just not possible - those are unicorns. 
+
+And most of the companies that from the outside look like they've had this dream growth curve, the reality is that those first users were impossibly hard to get.
+
+Let me tell you about the story about this ridiculously unsustainable business.
+
+### Teespring Example
+
+So this is Teespring in 2012. When we first launched, the business couldn't have looked worse. 
+
+It took days of meetings; we had to offer free designs, and days of revisions back-and-forth, we'd have to launch the product ourselves, 
+
+we'd have to do the social media, all to sell about 50 shirts to a local nonprofit and generate about $1000 of revenue. Anybody looking in would've said, **"You guys have to give up, this is a terrible idea."**
+
+But as time went on, those users started to add up, and I think something you have to understand is when you first launch a company, just by virtue of the fact that it's a new product, you're going to be bad at selling it right? 
+
+You've got no idea what the pain points of customers really are. You've never sold that before. You don't have any success stories to point to, or testimonials. Those first users are always going to be the hardest.
+
+And so it's your responsibility as a founder to do whatever it takes to bring in your first users. It's going to be different for every company.
+
+The common thread that I hear is, founders need to spend personal time and effort, a lot of their personal time and effort to bring those users in themselves. 
+
+It could mean a number of things - anything from sending 100 emails a day, getting on the phone and just calling as many people as you can, going through a network like Stanford or Y Combinator.
+
+Anything you can do to just get that first user. I really equate it to pushing a boulder uphill. 
+
+And if you think of a smooth hill when you get started, the incline is the steepest and those first inches are the hardest. But over time as you get farther and farther,
+
+the incline steadies out, it gets easier, and eventually you reach a point where you're at the top of the hill and the boulder starts to roll on its own.
+
+And so for those first users, you cannot just focus on ROI in the sense of time. Do not expect to spend an hour and return thousands of dollars. 
+
+Maybe Stanley was one of those unicorns - really incredible story. But for most of us, those first two users are going to take a lot of handholding, a lot of personal love, and that's okay - that's essential for building a company.
+
+The one caveat of that is, I don't recommend giving your product for free. And there are plenty of exceptions to this rule, but in general, cutting costs or giving the product away is an unsustainable strategy I wouldn't recommend. 
+
+You need to make sure that users value your product.
+
+And you know, people treat products that are free in a much different way than a paid product, and often times it can give you a false sense of security like, "Oh we're getting all these users; surely we can convert them to paid."
+
+The second aspect is what happens when you get those users? How do you turn those users into champions? A champion is a user who talks about and advocates for your product.
+
+Every company with a great growth strategy has users who are champions. The easiest way to turn a user into a champion is to the delight them with an experience they are going to remember, so something that's unusual or out of the ordinary – an exceptional experience.
+
+The easiest way to do this early, and again something that is completely unsustainable - it's not going to scale forever - is to just talk to those users.
+
+People will say this all the time, it's sort of the core tenant of Y Combinator, is talk to users. I cannot stress how important it is that you spend a large chunk of your time talking to users. You should do it constantly, every single day, and as long as possible. 
+
+Today at Teespring, I'm still the catchall email address, so anytime anybody misspells "support" or writes an email address that doesn't exist, I get that email. And so I still do about 10 to 20 customer service tickets every single day;
+
+I spend hours each night reading every single tweet, probably a little bit OCD, but that's okay; I read through all the Teespring communities. 
+
+You're never going to get a better sense for your products than actually listening to real users.
+
+Especially in the early days, the product and the feature set you launch with is almost certainly not going to be the feature set that you scale with.
+
+So the quicker you talk to users and learn what they actually need, the faster you can get to that point.
 
 There are three ways to talk to your customers. You can run customer service yourself. Up until Teespring was doing about $130-$140,000 a month, my cofounder Evan and I did everything in customer service. This is one where there's going to be an instinct to quickly pass off, and that's because it's painful. Even today when I open our customer service portal, I have an emotional reaction where my stomach sinks because it sucks talking to so many users who have had a terrible experience, and it's painful that something that you love and put so much effort into, to know you got it wrong or somebody didn't treat them right. But it's so important that you go through that and learn what you need to build, and what you need to fix.
 
