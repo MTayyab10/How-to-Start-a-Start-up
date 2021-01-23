@@ -34,23 +34,23 @@ Very Important for Tech Startups.
 
 I try to write some main and important parts of Course, Step wise Lectures 
 
-- [Lecture 1](https://github.com/MTayyab10/How-to-start-Start-up/tree/main/Lecture%201) Idea and Product
+- [Lecture 1](https://github.com/MTayyab10/How-to-start-Start-up/tree/main/Lecture%201) - Idea and Product
 
-- [Lecture 2](https://github.com/MTayyab10/How-to-start-Start-up/tree/main/Lecture%202) Team and Execution
+- [Lecture 2](https://github.com/MTayyab10/How-to-start-Start-up/tree/main/Lecture%202) - Team and Execution
 
-- [Lecture 3](https://github.com/MTayyab10/How-to-Start-a-Start-up/tree/main/Lecture%203) Counterintuitive Parts of Startups and How to Have Ideas
+- [Lecture 3](https://github.com/MTayyab10/How-to-Start-a-Start-up/tree/main/Lecture%203) - Counterintuitive Parts of Startups and How to Have Ideas
 
-- [Lecture 4](https://github.com/MTayyab10/How-to-Start-a-Start-up/tree/main/Lecture%204) Building Product, Talking to Users and Growing
+- [Lecture 4](https://github.com/MTayyab10/How-to-Start-a-Start-up/tree/main/Lecture%204) - Building Product, Talking to Users and Growing
 
-- [Lecture 5](https://github.com/MTayyab10/How-to-Start-a-Start-up/tree/main/Lecture%205) Business strategy and monopoly ( Competition is For Losers)
+- [Lecture 5](https://github.com/MTayyab10/How-to-Start-a-Start-up/tree/main/Lecture%205) - Business strategy and monopoly ( Competition is For Losers)
 
-- [Lecture 6](https://github.com/MTayyab10/How-to-Start-a-Start-up/tree/main/Lecture%206) Growth for Startups
+- [Lecture 6](https://github.com/MTayyab10/How-to-Start-a-Start-up/tree/main/Lecture%206) - Growth for Startups
 
-- [Lecture 7](https://github.com/MTayyab10/How-to-Start-a-Start-up/tree/main/Lecture%207) How to build products Users love
+- [Lecture 7](https://github.com/MTayyab10/How-to-Start-a-Start-up/tree/main/Lecture%207) - How to build products Users love
 
-- [Lecture 8](https://github.com/MTayyab10/How-to-Start-a-Start-up/tree/main/Lecture%208) How to Get Started, Doing Things that Don't Scale, Press
+- [Lecture 8](https://github.com/MTayyab10/How-to-Start-a-Start-up/tree/main/Lecture%208) - How to Get Started, Doing Things that Don't Scale, Press
 
-- [Lecture 9](https://github.com/MTayyab10/How-to-Start-a-Start-up/tree/main/Lecture%209) How to Raise Money (Marc Andreessen, Ron Conway, Parker Conrad)
+- [Lecture 9](https://github.com/MTayyab10/How-to-Start-a-Start-up/tree/main/Lecture%209) - How to Raise Money (Marc Andreessen, Ron Conway, Parker Conrad)
 
 
 
