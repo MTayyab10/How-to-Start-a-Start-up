@@ -23,7 +23,7 @@
        
 ## Description
 
-Course at Stanford University from Y-Combinator (YC).
+Course at Stanford University from Y-Combinator ( YC ).
 
 Here is the YouTube link of complete course [How to start a StartUp](https://www.youtube.com/watch?v=CBYhVcO4WgI&list=PL5q_lef6zVkaTY_cT1k7qFNF2TidHCe-1)
 
