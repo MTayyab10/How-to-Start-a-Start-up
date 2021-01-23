@@ -42,7 +42,7 @@ I try to write some main and important parts of Course, Step wise Lectures
 
 - [Lecture 4](https://github.com/MTayyab10/How-to-Start-a-Start-up/tree/main/Lecture%204) - Building Product, Talking to Users and Growing
 
-- [Lecture 5](https://github.com/MTayyab10/How-to-Start-a-Start-up/tree/main/Lecture%205) - Business strategy and monopoly ( Competition is For Losers)
+- [Lecture 5](https://github.com/MTayyab10/How-to-Start-a-Start-up/tree/main/Lecture%205) - Business strategy and monopoly ( Competition is For Losers )
 
 - [Lecture 6](https://github.com/MTayyab10/How-to-Start-a-Start-up/tree/main/Lecture%206) - Growth for Startups
 
@@ -51,6 +51,8 @@ I try to write some main and important parts of Course, Step wise Lectures
 - [Lecture 8](https://github.com/MTayyab10/How-to-Start-a-Start-up/tree/main/Lecture%208) - How to Get Started, Doing Things that Don't Scale, Press
 
 - [Lecture 9](https://github.com/MTayyab10/How-to-Start-a-Start-up/tree/main/Lecture%209) - How to Raise Money (Marc Andreessen, Ron Conway, Parker Conrad)
+
+- [Lecture 10](https://github.com/MTayyab10/How-to-Start-a-Start-up/tree/main/Lecture%2010) - Culture (Brian Chesky, Alfred Lin)
 
 
 
