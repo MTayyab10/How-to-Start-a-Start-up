@@ -156,114 +156,308 @@ SV Angel invests in seed stage startups, so we like to be the very first investo
 
 It used to only be a million. So if we invest two hundred and fifty k, that means there’s five or six other investors in that syndicate.
 
-SV Angel has now a staff of thirteen people. I do no due diligence anymore, I am not a picker anymore. I just help on major projects for the portfolio companies that are starting to mature. But we have a whole team that processes. We, at SV Angel, end up investing in one company for every thirty that we look at, and we end up investing at about one a week.
+SV Angel has now a staff of thirteen people. I do no due diligence anymore, I am not a picker anymore. I just help on major projects for the portfolio companies that are starting to mature.
 
-I think what’s interesting is, we don't really take anything over the transome. Our network is so huge now that we basically just take leads from our own network. We evaluate the opportunity, which means you have to send in a really great short executive summary and if we like that, we actually vote, although I am not in this meeting anymore, but the group actually takes a vote on do we make this phone call. That's how important time is in this process. And if enough of the team at SV thinks it's interesting then they appoint a person to make a phone call to that founder. Usually somebody on our team that has domain experience. If the phone call goes well, bingo! We want to meet you. If SV Angel asks you for a meeting, we are well on our way to investing. If that meeting goes well, we’ll do some background checks, back door background checks, get a good feeling about the company, the market that they are going after and then make the commitment to invest. And then start helping get other value-add investors to be part of the syndicate. Because if we are going to have an equal workload we want the other investors in this company to be great angel investors as well.
+But we have a whole team that processes. We, at SV Angel, end up investing in one company for every thirty that we look at, and we end up investing at about one a week.
 
-Marc Andreessen: Okay, so I will talk a little about the venture stage, the Series A stage. I think it’s fair to say at this point, the top tier venture capitalists only invest in two kinds of companies at the Series A stage. One is if they have previously raised a seed round. So it's almost always the case when we are doing a Series A investment for the company when the company has a million or two million in seed financing, from Ron and the folks that he likes to work with. Almost always Ron, just to be clear and folks he likes to work with. So if you are going Series A, the first thing you to do is to raise seed, that is generally the way the progression works at this point. Every once in a while we will go straight to a company that hasn’t raised a seed round. Really the only times when that happens is when it is a founder who has been a successful founder in the past and is almost certainly somebody we have worked with in the past.
+- I think what’s interesting is, we don't really take anything over the transome. Our network is so huge now that we basically just take leads from our own network. 
 
-So actually, we have not announced, but we just did one of these we will announce in a few weeks where it was a founder, I was an Angel investor, actually I think Ron was also in the company in 2006. Then the company did it's thing and ultimately was acquired by another big company. And now that team is now starting new things. So in that case we are just going to jump it straight to an A. Because they are so well known and they have a plan all lined up for it. That's the exception, it’s almost always preceded by a seed round. The other thing is, I mentioned this already, but we get similar to what Ron said, about two thousand referrals a year through our referral network. A very large percentage of those are referrals through the seed investors. So by far the best way to get the introductions to the A stage venture firms is to work through the seed investors. Or work through something like Y Combinator.
+- We evaluate the opportunity, which means you have to send in a really great short executive summary and if we like that, we actually vote, although I am not in this meeting anymore, but the group actually takes a vote on do we make this phone call. That's how important time is in this process.
 
-Sam Altman: Speaking of terms. What term should founders care most about? And how should founders negotiate?
+- And if enough of the team at SV thinks it's interesting then they appoint a person to make a phone call to that founder. Usually somebody on our team that has domain experience.
 
-Parker Conrad: Probably precisely because of what Marc said, the most important thing at the seed stage is picking the right seed investors because they are going to lay the foundation for future fundraising events. They’re going to make the right introductions, and I think there is an enormous difference in the quality of an introduction. So if you can get a really good introduction from an someone that the venture capitalist really trusts and respects, the likelihood that that is going to go well is so much higher than a lukewarm introduction from someone they don't know as well. So the seed stage, probably the best thing you can do is find the right investors and then-
+If the phone call goes well, bingo! We want to meet you. If SV Angel asks you for a meeting, we are well on our way to investing. 
 
-Sam Altman: How does the founder know who the right investors are?
+- If that meeting goes well, we’ll do some background checks, back door background checks, get a good feeling about the company, the market that they are going after and then make the commitment to invest.
 
-Parker Conrad: Well, I think it’s really hard. I think one of the best ways, and not to give a plug to YC, is YC does a very good job at telling you who they think those people are. And can really direct you towards, and I actually found it to be pretty accurate in terms of who you guys have said were going to be the best people, they ended up being the most helpful as we were raising subsequent rounds that provided the best introductions. The people who I thought seemed okay, but were not as highly rated by YC that ended up being the case that they were real duds in the seed round.
+- And then start helping get other value-add investors to be part of the syndicate. Because if we are going to have an equal workload we want the other investors in this company to be great angel investors as well.
 
-Sam Altman: Someday we are going to publish some of these people-
+So I will talk a little about the **venture stage, the Series A stage.**
 
-Parker Conrad: Oh gosh there are going to be a lot of upset people if you do.
+I think it’s fair to say at this point, the top tier venture capitalists only invest in two kinds of companies at the Series A stage. One is if they have previously raised a seed round. 
 
-Sam Altman: So how do you think about negotiation? How do you figure out what the right evaluation of their company should be, what are the terms?
-Parker Conrad: Well when I was starting out, I was raising my seed round and I didn’t really know. I mean, we had conversations about this. I probably started a little too high on the valuation side. As you guys know, Y Combinator starts this thing called Demo Day. You get all these sort of investors at once who are looking at the company. I started out trying to raise money for a twelve or fifteen million dollar cap. Which is not quite the same thing as a valuation but roughly the equivalent. And everyone thought that was crazy, you know, that's completely nuts. You are too big for your britches, that completely just wouldn't work. So I started working it down a little bit. Within the space of a couple days I decided I was going to raise at nine, and for some reason that hit some magical threshold on the seed stage that it was below ten that it seemed that there was almost infinite demand for the round at a nine million cap. So no one would pay twelve but at a nine million dollar cap it felt like I could have raised ten million dollars. And the round came together in roughly about a week at that point, once I hit that threshold.
+So it's almost always the case when we are doing a Series A investment for the company when the company has a million or two million in seed financing, from Ron and the folks that he likes to work with. Almost always Ron, just to be clear and folks he likes to work with.
 
-There seemed to be, and they fluctuate over time, these thresholds particularly for seed stage companies that investors think that above this level is crazy, it doesn’t matter. And there is a rough kind of range that people are willing to pay. You just have to figure out what that is. Just get the money that you need, don't raise any more than you need. And just get it done. At the end of the day, whether you raise a twelve, a nine, or a six, it's not a huge deal for the rest of the company.
+- So if you are going Series A, the first thing you to do is to raise seed, that is generally the way the progression works at this point.
 
-Sam Altman: Is there a maximum in the company that you think founders should sell in their seed round, their A round? Beyond what Paul was talking about.
+- Every once in a while we will go straight to a company that hasn’t raised a seed round. Really the only times when that happens is when it is a founder who has been a successful founder in the past and is almost certainly somebody we have worked with in the past.
 
-Parker Conrad: I don't know the rules on this stuff. The tricky thing is, it seems like they are particularly rough for a Series A. You are probably going to sell somewhere between twenty to thirty percent of the company. Below, venture capitalist tend to be a lot more ownership focused than price focused. So you might find that it's actually, when companies raise really big rounds it is because the investors says, "Hey listen, I am not going to go below twenty percent ownership but I will pay more for it." Above thirty percent, probably weird things happen with the cap table, like it gets hard, you know, down the line for there to be a firm on the cap table for everyone. Everything seems to come in in that range, so that probably just is what it is. In most cases, in the seed stage from what I have heard, there doesn’t seem to be any magic to it, but it seems ten to fifteen percent is what people say, but that is mostly just what I have heard.
+So actually, we have not announced, but we just did one of these we will announce in a few weeks where it was a founder, I was an Angel investor, actually I think Ron was also in the company in 2006. Then the company did it's thing and ultimately was acquired by another big company. 
 
-Ron Conway: I agree with all of that. I think it is important to get the process over with. But I think it is important for the founder to say to themselves in the beginning, at what point does my ownership start to demotivate me? Because if there is a forty percent dilution in an Angel round, I have actually said to the founder, do you realize you have already doomed yourself? You are going to own less than five percent of this company if you are a normal company. And so these guidelines are important. The ten to fifteen percent is because if you keep giving away more than that there is not enough left for you and the team. You are the ones doing all the work.
+And now that team is now starting new things. So in that case we are just going to jump it straight to an A. Because they are so well known and they have a plan all lined up for it. That's the exception, it’s almost always preceded by a seed round. The other thing is, 
 
-Marc Andreessen: We'll actually, we'll walk. We have seen a series of interesting companies in the last five years that, where we just walk, we won't bid simply on the basis that their cap table is already destroyed. Outside investors already own too much. There is a company we really wanted to invest in, but the outside investors already owned eighty percent of it when we talked to them. And it was a relatively young company, they just had done two early rounds that sold too much of the company. Literally, we were worried, and accurately so, it was going to be demotivating for the team to have that structure.
+I mentioned this already, but we get similar to what Ron said, about two thousand referrals a year through our referral network.
 
-Sam Altman: One more question before we open up for the audience to ask questions. For Ron and for Marc. Could you both tell a story about the most successful investment you ever made and how that came to happen?
+A very large percentage of those are referrals through the seed investors. So by far the best way to get the introductions to the A stage venture firms is to work through the seed investors. Or work through something like Y Combinator.
 
-Parker Conrad: Other than Zenefits.
+### Speaking of terms. What term should founders care most about? And how should founders negotiate?
 
-Ron Conway: For me clearly, it was the investment in Google in 1999. And we got a googol return out of it. Funny enough, I meet Google through a Stanford professor David Cheriton, who is in the school of engineering and he is still here. He was actually an angel investor in Google and an investor in our fund. Kind of the quid pro quo we have with our investors in the fund is you have to tell us about any interesting companies that you see. We loved it that David Cheriton was an investor in our fund because he had access to the computer science departments deal flow. And we were at this party at Vivek Wadhwa's house in full tuxedo, I hate tuxedos, does anyone here know David Cheriton? Because you know for sure he does not like tuxedos and he was in a tuxedo. But I went up to him and we complained about our attire. Then I said, hey what's happening at Stanford? And he said, well there is this project called backrub, and it's search. It's page search by page rank and relevancy.
+Probably precisely because of what Marc said, the most important thing at the seed stage is picking the right seed investors because they are going to lay the foundation for future fundraising events. 
 
-Today everyone says pagerank and relevancy is obvious. Back in 1998 that was not obvious, that engineers were designing a product based on this thing called pagerank. All it was was a simple algorithm that said if a lot of people go to that website and other websites direct them there, there must be something good happening on that website. That was the original algorithm. The motivation was relevance. So I said to David, I have to meet these people. He said, you can't meet them until they’re ready. Which was the following May funny enough, I waited, I called them every month for five months. And finally got my audition with Larry and Sergey. Right away they were very strategic. They said, they we'll let you invest if you can get Sequoia, we don't know Sequoia but they are investors in Yahoo and because we are late to market, but we want to know we have a deal with Yahoo. So I earned my way into the investment in Google.
+They’re going to make the right introductions, and I think there is an enormous difference in the quality of an introduction.
 
-Marc Andreessen: I will tell one on the other side, which is Airbnb, which we were not early investors in, Airbnb is a growth round, we did the first big growth round under Airbnb at about a billion dollar valuation in 2011. And I think that will turn out to be, I believe that will turn out to be one of the spectacular growths of all time. I think this will really be a great company, so I will tell that story because it is not a story of pure genius.
+So if you can get a really good introduction from an someone that the venture capitalist really trusts and respects, 
 
-We passed. I don't think we even met with them the first time around, or maybe one of our junior people did. I said earlier that venture capital is entirely a game of outliers. One of the key things of outliers is that their ideas often seem outright nuts up front. So of course having a website where you can have other people stay in your house, if you made a list of the ideas that were the most nuts that would be right there at the top. Well the second most stupid idea you can think of is having a website where you can stay at other people’s houses. Airbnb deeply combines both of those bad ideas. So of course it turns out, they have unlocked an entirely new way to sell real estate, they have unlocked this gigantic global phenomenon. So part was just coming to the fact that we just whiffed on our initial analysis of the idea and the numbers were clearly proving that we were wrong. And the customer behavior was clearly proven that we were wrong.
+the likelihood that that is going to go well is so much higher than a lukewarm introduction from someone they don't know as well. So the seed stage, probably the best thing you can do is find the right investors and then-
 
-So one of the philosophies in our firm is we are multistage, a big reason for that is so we can fix our mistakes and we can pay up to get in later when we screw up early on. The other thing I will highlight on, the other reason we pulled the trigger at a high valuation when we did was because we had spent time at that point with the founders, with Bryan, with Joe, and with Nate. And there is a friend of mine who has a great line, he says when people progress in their careers they get bigger and bigger jobs, and at some point they get the really big job. Some of the people grow into the job, and half the people swell into it. And you can kind of tell the difference. There is a point when people just lose their minds. One of the issues with these companies that are super successful and hyper growth companies, Airbnb was sort of the classic case with these super young founders that haven’t ran anything before. How are they going to be at running this giant global operation? We were just tremendously impressed and are today every time we deal with all three of those guys; how mature they are, how much that are progressing. It's like they get more and more mature, they get better and better judgement, and they get more and more humble as they grow. So that made us feel really good, that not just was this business going to grow, but that these were guys who were going to be able to build something and be able to run it in a really good way.
+### How does the founder know who the right investors are?
 
-Ron Conway: You know, people always ask me, why do you think Airbnb is going to be such a great company? Its funny, we are obsessing over Airbnb. It’s because all three founders are as good as the other founder. That is very rare. In the case of Google, two founders, one of them is a little better than the other... hey, he is the CEO. Every company has a CEO. Why am I saying this? When you start a company, you have to go find somebody as good or better than you to be the co-founder. If you do that, your chance of success grow astronomically. And that is why Airbnb became so successful, so quickly. The anomaly is Mark Zuckerberg at Facebook. Yes he has an awesome team, but the Mark Zuckerberg phenomenon where is it one person, is the outlier. So when you start a company, you have got to find phenomenal co-founders.
+I think it’s really hard. I think one of the best ways, and not to give a plug to YC, is YC does a very good job at telling you who they think those people are. 
 
-Sam Altman: Okay, audience members.
+And can really direct you towards, and I actually found it to be pretty accurate in terms of who you guys have said were going to be the best people, they ended up being the most helpful as we were raising subsequent rounds that provided the best introductions. 
 
-Q: So obviously the conventional wisdom of why you raise money is you need it. But the more I get off conventional wisdom the more I hear another story on why you raise money. I am actually hearing founders say it is more to facilitate the big exit. Or in the worse case the acqui-hire instead of fizzling out into nothing. To what extent is that accurate thinking?
+The people who I thought seemed okay, but were not as highly rated by YC that ended up being the case that they were real duds in the seed round.
 
-Ron Conway: Well if you pick good investors who have good rolodexes and good domain expertise in what your company does, they are going to add a lot more value than the money. Those are the types of investors you should be looking for.
+Someday we are going to publish some of these people-
+Oh gosh there are going to be a lot of upset people if you do.
 
-Marc Andreessen: So the answer to the question is yes but in a sense it doesn't matter. Because you can not plan these things according to the downside. I mean that is the scenario that you are obviously not hoping for. While the answer is yes, that should probably not play into the decision making process too much, it might enter into which investor to raise money from, it probably doesn't enter into the whether to raise money question that much.
+### So how do you think about negotiation? How do you figure out what the right evaluation of their company should be, what are the terms?
 
-Q: If you intend to start a business that is capital equipment intensive, do you guys have any advice on how to deal with demotivation? So not everything starts in software, viral, or anything else? What should founders do for capital equipment intensive companies?
+Well when I was starting out, I was raising my seed round and I didn’t really know. I mean, we had conversations about this.
 
-Marc Andreessen: I would double down on my previous comments on the onion theory of risk and the staging of risk and cash. Which is the more capital has the business, the more intense you have to be about exactly what is going to be required to make a business work and what the staging of milestones and risks are. In that case you want to line up, you want to be very precise on lining up, because the risk is so high that it will all go sideways, right? You want to be very precise on what you can accomplish with your A round and what is going to be a successful execution of your A round. If you raise too much money in your A round that will seriously screw you up, right, later on down the road. Because you are going to raise a C seed then the accumulative dilution will get to be too much. So you have to be precise on every single round, you have to raise as close to the exact amount of money as possible. Then you have to be as pure and clean and precise with the investors as you can possibly be about the risks and the milestones.
+- I probably started a little too high on the valuation side. As you guys know, Y Combinator starts this thing called Demo Day. You get all these sort of investors at once who are looking at the company.
 
-This, by the way, is a big thing. I am really glad you asked the question. It kind of goes back to what Parker said. If you walk into our firm, and you have Twitter or Pinterest or you have something, and it's just viral growth and it's just on fire and it's just going to go, those are the easy ones. It's like, let's just put money in it. Let's just feed the beast. But if you walk in and you’re like, I got this really great idea but it's going to take three hundred million dollars staged out over the next five years probably across five rounds. It has a potential of very big outcome, but this is not Twitter. We will still do those but the operational excellence on the part of the team matters a lot more. One of the ways you convey the operational excellence is in the quality of the plan. Back to the Steve Martin thing, be so good that they can't ignore you. The plan should be precise.
+- I started out trying to raise money for a twelve or fifteen million dollar cap. Which is not quite the same thing as a valuation but roughly the equivalent.
 
-Ron Conway: If you are capital equipment intensive, there are ways of borrowing money, in addition to venture capital.
+- And everyone thought that was crazy, you know, that's completely nuts. You are too big for your britches, that completely just wouldn't work. So I started working it down a little bit. 
 
-Marc Andreessen: You can kick in venture debt and then later on lease financing, but then again that underlies the need for operational excellence. Because if you are going to raise debt then you really need to be precise on how you are running the company because very easy to trip the convenance on a loan and it'a very easy to lose the company. So it's a thread the needle process. The demands are just a more advanced level of management than the next Snapchat.
+- Within the space of a couple days I decided I was going to raise at nine, and for some reason that hit some magical threshold on the seed stage that it was below ten that it seemed that there was almost infinite demand for the round at a nine million cap. 
 
-Q: What is a sign you should not work with an investor?
+- So no one would pay twelve but at a nine million dollar cap it felt like I could have raised ten million dollars. And the round came together in roughly about a week at that point, once I hit that threshold.
 
-Ron Conway: Well it is the inverse of what I said about a good investor. If it is an investor that has no domain expertise in your company, does not have a rolodex where they can help you with introductions both for business development and in helping you do the intros for Series A, you should not take that person’s money. Especially if they are in it just to make money. And you can sus those people out pretty quickly.
+- There seemed to be, and they fluctuate over time, these thresholds particularly for seed stage companies that investors think that above this level is crazy, it doesn’t matter. 
 
-Marc Andreessen: I'm glad you asked this question because it brings up a larger point. If your company is successful, at least the ones we want to invest in want to build big franchise companies, so we are talking about a ten or fifteen or twenty year journey. Ten, fifteen, or twenty years you may notice is longer than the average American marriage. This is significant. The choice of key investors, of particular investors who are going to be on the board for a company, I think is just as important as who you get married to, which is extremely important. These are people you are going to be living with, partnering with, relying on, and dealing with in positions, in conditions of great stress and anxiety for a long period of time.
+- And there is a rough kind of range that people are willing to pay. You just have to figure out what that is. Just get the money that you need, don't raise any more than you need. 
 
-This is the big argument I always make, and I make it all the time, sometimes people believe it, sometimes they don't. If everything goes great, it doesn't matter who your investors are. But almost never does everything always go great. Even the big successful companies, even Facebook, all these big companies that are now considered to be very successful, all along the way all kinds of shit hit the fan over, and over, and over, and over again. There are any number of stressful board meetings and discussions, and late-night meetings with the future of the company at stake where everyone really needs to be on the same team and have the same goals, be pulling at the same direction, have a shared understanding, have the right kind of ethics, and the right kind of staying power to actually weather the storms that come up.
+And just get it done. At the end of the day, whether you raise a twelve, a nine, or a six, it's not a huge deal for the rest of the company.
 
-And one of the things you will find is a big difference for first time founders versus second time founders is almost always the second time founders take that point much more seriously after they have been through it once. So it really, really, really matters who your partner is. It really is like getting married, and it really is worth putting the same amount, maybe not the quite as much time and effort as picking your spouse, but it is worth spending significant time really understanding who you are about to be partnered with. That is way more important than did I get another five million in the valuation order, or another two million dollars in the check.
+### Is there a maximum in the company that you think founders should sell in their seed round, their A round? Beyond what Paul was talking about.
 
-Ron Conway: I know at SV Angel, our attitude is if you invest in an entrepreneur, we are investing for life. Because if we made the right decision, we are going to invest in every company they start. Once an entrepreneur, always an entrepreneur. We actually do consider it a marriage.
+I don't know the rules on this stuff. The tricky thing is, it seems like they are particularly rough for a Series A. You are probably going to sell somewhere between twenty to thirty percent of the company.
 
-Parker Conrad: I always look for, in that first meeting, do you feel like you respect this person and do you feel like you have a lot to learn from this person? Because sometimes when you meet with VCs, you feel like they are slow on the uptake, they just don’t get it. Sometimes you walk in and they have just this incredible amount of insight into your business that you walk out of their like, man even if these guys didn’t invest that sort of hour that I spent with them was such a great use of my time, I felt like I came out with a much clearer picture of what I need to do and where I need to go. And that is such a great microcosm of what the next couple years are going to be like. If you feel like you would really want this person to be really involved in the company, even if they didn't have a checkbook that they brought with them, that is probably a really good sign. And if not, that is probably a really bad sign.
+- Below, venture capitalist tend to be a lot more ownership focused than price focused. So you might find that it's actually, when companies raise really big rounds it is because the investors says, "Hey listen, I am not going to go below twenty percent ownership but I will pay more for it." 
 
-Q: What is the constraint on how many companies you guys have invested in? Time, money, or lack of good companies?
+Above thirty percent, probably weird things happen with the cap table, like it gets hard, you know, down the line for there to be a firm on the cap table for everyone. Everything seems to come in in that range, so that probably just is what it is. 
+
+In most cases, in the seed stage from what I have heard, there doesn’t seem to be any magic to it, but it seems ten to fifteen percent is what people say, but that is mostly just what I have heard.
+
+= I agree with all of that. I think it is important to get the process over with. But I think it is important for the founder to say to themselves in the beginning, at what point does my ownership start to demotivate me? Because if there is a forty percent dilution in an Angel round, I have actually said to the founder, do you realize you have already doomed yourself?
+
+- You are going to own less than five percent of this company if you are a normal company. And so these guidelines are important. 
+
+The ten to fifteen percent is because if you keep giving away more than that there is not enough left for you and the team. You are the ones doing all the work.
+
+- We'll actually, we'll walk. We have seen a series of interesting companies in the last five years that, where we just walk, we won't bid simply on the basis that their cap table is already destroyed.
+
+Outside investors already own too much. There is a company we really wanted to invest in, but the outside investors already owned eighty percent of it when we talked to them. And it was a relatively young company, 
+
+they just had done two early rounds that sold too much of the company. Literally, we were worried, and accurately so, it was going to be demotivating for the team to have that structure.
+
+#### Could you both tell a story about the most successful investment you ever made and how that came to happen?
+
+- For me clearly, it was the investment in Google in 1999. And we got a googol return out of it. Funny enough, I meet Google through a Stanford professor David Cheriton, who is in the school of engineering and he is still here. 
+
+- He was actually an angel investor in Google and an investor in our fund.
+
+Kind of the quid pro quo we have with our investors in the fund is you have to tell us about any interesting companies that you see. We loved it that David Cheriton was an investor in our fund because he had access to the computer science departments deal flow.
+
+And we were at this party at Vivek Wadhwa's house in full tuxedo, I hate tuxedos, does anyone here know David Cheriton? Because you know for sure he does not like tuxedos and he was in a tuxedo.
+
+But I went up to him and we complained about our attire. Then I said, hey what's happening at Stanford? And he said, well there is this project called backrub, and it's search. It's page search by page rank and relevancy.
+
+Today everyone says pagerank and relevancy is obvious. Back in 1998 that was not obvious, that engineers were designing a product based on this thing called pagerank.
+
+All it was was a simple algorithm that said if a lot of people go to that website and other websites direct them there, there must be something good happening on that website. That was the original algorithm. The motivation was relevance.
+
+So I said to David, I have to meet these people. He said, you can't meet them until they’re ready. Which was the following May funny enough, I waited, I called them every month for five months. 
+
+And finally got my audition with Larry and Sergey. Right away they were very strategic. 
+
+- They said, they we'll let you invest if you can get Sequoia, we don't know Sequoia but they are investors in Yahoo and because we are late to market, but we want to know we have a deal with Yahoo. So I earned my way into the investment in Google.
+
+#### Airbnb
+
+I will tell one on the other side, which is Airbnb, which we were not early investors in, Airbnb is a growth round, we did the first big growth round under Airbnb at about a billion dollar valuation in 2011.
+
+> And I think that will turn out to be, I believe that will turn out to be one of the spectacular growths of all time. I think this will really be a great company, so I will tell that story because it is not a story of pure genius.
+
+We passed. I don't think we even met with them the first time around, or maybe one of our junior people did. I said earlier that venture capital is entirely a game of outliers. 
+
+One of the key things of outliers is that their ideas often seem outright nuts up front. So of course having a website where you can have other people stay in your house, 
+
+if you made a list of the ideas that were the most nuts that would be right there at the top. Well the second most stupid idea you can think of is having a website where you can stay at other people’s houses. 
+
+Airbnb deeply combines both of those bad ideas. So of course it turns out, they have unlocked an entirely new way to sell real estate, they have unlocked this gigantic global phenomenon.
+
+So part was just coming to the fact that we just whiffed on our initial analysis of the idea and the numbers were clearly proving that we were wrong. And the customer behavior was clearly proven that we were wrong.
+
+#### why do you think Airbnb is going to be such a great company? 
+
+Its funny, we are obsessing over Airbnb. It’s because all three founders are as good as the other founder. That is very rare.
+
+In the case of Google, two founders, one of them is a little better than the other... hey, he is the CEO. Every company has a CEO.
+
+**Why am I saying this?**
+
+    When you start a company, you have to find someone as good or better than you to be the co-founder.
+    
+- If you do that, your chance of success grow astronomically. And that is why Airbnb became so successful, so quickly. 
+
+The anomaly is Mark Zuckerberg at Facebook. Yes he has an awesome team, but the Mark Zuckerberg phenomenon where is it one person, is the outlier. So when you start a company, you have got to find phenomenal co-founders.
+
+#### So obviously the conventional wisdom of why you raise money is you need it. But the more I get off conventional wisdom the more I hear another story on why you raise money. I am actually hearing founders say it is more to facilitate the big exit. Or in the worse case the acqui-hire instead of fizzling out into nothing. To what extent is that accurate thinking?
+
+Well if you pick good investors who have good rolodexes and good domain expertise in what your company does, they are going to add a lot more value than the money. Those are the types of investors you should be looking for.
+
+So the answer to the question is yes but in a sense it doesn't matter. Because you can not plan these things according to the downside. I mean that is the scenario that you are obviously not hoping for.
+
+While the answer is yes, that should probably not play into the decision making process too much, it might enter into which investor to raise money from, it probably doesn't enter into the whether to raise money question that much.
+
+### If you intend to start a business that is capital equipment intensive, do you guys have any advice on how to deal with demotivation? So not everything starts in software, viral, or anything else? What should founders do for capital equipment intensive companies?
+
+I would double down on my previous comments on the onion theory of risk and the staging of risk and cash. Which is the more capital has the business, the more intense you have to be about exactly what is going to be required to make a business work and what the staging of milestones and risks are.
+
+In that case you want to line up, you want to be very precise on lining up, because the risk is so high that it will all go sideways, right? 
+
+You want to be very precise on what you can accomplish with your A round and what is going to be a successful execution of your A round.
+
+If you raise too much money in your A round that will seriously screw you up, right, later on down the road. 
+
+Because you are going to raise a C seed then the accumulative dilution will get to be too much. So you have to be precise on every single round, you have to raise as close to the exact amount of money as possible. 
+
+Then you have to be as pure and clean and precise with the investors as you can possibly be about the risks and the milestones.
+
+This, by the way, is a big thing. I am really glad you asked the question. It kind of goes back to what Parker said.
+
+If you walk into our firm, and you have Twitter or Pinterest or you have something, and it's just viral growth and it's just on fire and it's just going to go, those are the easy ones.
+
+ It's like, let's just put money in it. Let's just feed the beast. But if you walk in and you’re like, I got this really great idea but it's going to take three hundred million dollars staged out over the next five years probably across five rounds. It has a potential of very big outcome, but this is not Twitter. 
+ 
+ We will still do those but the operational excellence on the part of the team matters a lot more. One of the ways you convey the operational excellence is in the quality of the plan. Back to the Steve Martin thing, be so good that they can't ignore you. The plan should be precise.
+
+If you are capital equipment intensive, there are ways of borrowing money, in addition to venture capital.
+
+You can kick in venture debt and then later on lease financing, but then again that underlies the need for operational excellence.
+
+Because if you are going to raise debt then you really need to be precise on how you are running the company because very easy to trip the convenance on a loan and it'a very easy to lose the company.
+
+So it's a thread the needle process. The demands are just a more advanced level of management than the next Snapchat.
+
+### What is a sign you should not work with an investor?
+
+Well it is the inverse of what I said about a good investor. 
+
+If it is an investor that has no domain expertise in your company, does not have a rolodex where they can help you with introductions both for business development and in helping you do the intros for Series A, you should not take that person’s money. 
+
+Especially if they are in it just to make money. And you can sus those people out pretty quickly.
+
+I'm glad you asked this question because it brings up a larger point. If your company is successful, at least the ones we want to invest in want to build big franchise companies, so we are talking about a ten or fifteen or twenty year journey. Ten, fifteen, or twenty years you may notice is longer than the average American marriage.
+
+This is significant. The choice of key investors, of particular investors who are going to be on the board for a company, I think is just as important as who you get married to, which is extremely important. 
+
+These are people you are going to be living with, partnering with, relying on, and dealing with in positions, in conditions of great stress and anxiety for a long period of time.
+
+This is the big argument I always make, and I make it all the time, sometimes people believe it, sometimes they don't. If everything goes great, it doesn't matter who your investors are. 
+
+But almost never does everything always go great. Even the big successful companies, even Facebook, all these big companies that are now considered to be very successful, all along the way all kinds of shit hit the fan over, and over, and over, and over again.
+
+There are any number of stressful board meetings and discussions, and late-night meetings with the future of the company at stake where everyone really needs to be on the same team and have the same goals, be pulling at the same direction, have a shared understanding, 
+
+have the right kind of ethics, and the right kind of staying power to actually weather the storms that come up.
+
+And one of the things you will find is a big difference for first time founders versus second time founders is almost always the second time founders take that point much more seriously after they have been through it once. 
+
+So it really, really, really matters who your partner is. It really is like getting married, and it really is worth putting the same amount, maybe not the quite as much time and effort as picking your spouse,
+
+but it is worth spending significant time really understanding who you are about to be partnered with. That is way more important than did I get another five million in the valuation order, or another two million dollars in the check.
+
+I know at SV Angel, our attitude is if you invest in an entrepreneur, we are investing for life. Because if we made the right decision, we are going to invest in every company they start. Once an entrepreneur, always an entrepreneur. We actually do consider it a marriage.
+
+I always look for, in that first meeting, do you feel like you respect this person and do you feel like you have a lot to learn from this person? Because sometimes when you meet with VCs, you feel like they are slow on the uptake, they just don’t get it.
+
+Sometimes you walk in and they have just this incredible amount of insight into your business that you walk out of their like, man even if these guys didn’t invest that sort of hour that I spent with them was such a great use of my time,
+
+I felt like I came out with a much clearer picture of what I need to do and where I need to go. And that is such a great microcosm of what the next couple years are going to be like. 
+
+If you feel like you would really want this person to be really involved in the company, even if they didn't have a checkbook that they brought with them, that is probably a really good sign. And if not, that is probably a really bad sign.
+
+### What is the constraint on how many companies you guys have invested in? Time, money, or lack of good companies?
 
 Ron Conway: SV Angel has kind of got comfortable with one a week. You certainly can’t do more that that, and that is a staff of thirteen. So it's really the number of companies.
 
 Marc Andreessen: Ron if you had twice the number of hours, would you invest in twice the number of companies?
 
-Ron Conway: I would advise against that. I would rather just add more value to the existing companies. SV Angel does have a written conflict policy. But when we do end up with a conflict, it is usually because one company has morphed into another space. We don’t normally invest in companies that have a direct conflict. If we do, we disclose it to the other company, to both companies, and keep in mind at our stage, we don’t know the company's product strategy anyway. We probably don’t know enough to disclose, but our conflict policy also talks about this really important word which is trust. In other words, we are off to a bad start if we don’t trust each other. With SV Angel, the relationship between the founder and us is based on trust. If someone doesn’t trust us, they shouldn’t work with us.
+Ron Conway: I would advise against that. I would rather just add more value to the existing companies. SV Angel does have a written conflict policy. 
 
-Marc Andreessen: Let me go back to the original question. This is the question that is talked about most in our firm. So the main constraint on a top-tier venture capital firm is the concept of opportunity cost. It's the concept that means everything you do, there are a whole bunch of other things that you can’t do. It's not so much the cost of we invest five million dollars into the company, the company goes wrong and we lose the money. That’s not really the loss that we are worried about because the theory is we'll have the winners that will make up for that.
+But when we do end up with a conflict, it is usually because one company has morphed into another space. We don’t normally invest in companies that have a direct conflict. 
 
-The cost we worry about is, every investment we make has two implications for how we run the firm. Number one rules on conflicts. So our policy for sure on venture and growth rounds is that we don't invest in conflicting companies. We only invest in one company in a category. So if we invest in MySpace, and Facebook comes along a year later, we are out. We can't do it. Every investment we make locks us out of a category. And the nature, that is a very complicated topic when we’re discussing these things internally. You only know the companies that already exist, you don't know the companies that haven’t been founded yet. And god help you if you invested in an early company that was not going to be the winner and you were locked out by the time the winner came along.
+If we do, we disclose it to the other company, to both companies, and keep in mind at our stage, we don’t know the company's product strategy anyway. We probably don’t know enough to disclose, but our conflict policy also talks about this really important word which is trust. 
 
-The other issue is opportunity cost on the time and bandwidth of the general partners. Going back to the concept of adding value, we are a general firm, we have official partners. A partner can maybe be on ten to twelve boards in total if they are completely, fully loaded. Basically you want to think of it as a ticket that you have a limited number of holes you can punch, every time you make an investment you punch a hole. When you are out of holes to punch, you are done, you can't make any new investments. That is very much how venture capital operates. A way to look at it is, every board slot that our GP’s have at any given time is an asset to the firm. They can be deployed against an opportunity. But every time we make an investment, it takes the number of slots we can punch down by one. So it reduces the ability for the firm to do new deals. Every investment we make forecloses not just the competitive set but other deals that we will simply run out of time. This goes back to what I said earlier. This company is fairly good, it seems fairly obvious that it's going to get venture funding, why didn't you fund it? Well, on its own, if we had unlimited capacity, we probably would have, but relative to getting blocked by a competitive set, and not having that board seat for an even better opportunity, we pass on that basis a lot.
+In other words, we are off to a bad start if we don’t trust each other. With SV Angel, the relationship between the founder and us is based on trust. If someone doesn’t trust us, they shouldn’t work with us.
 
-Q: What would convince you to invest in a company with no product to show. What do you make that judgement based on?
+Let me go back to the original question. This is the question that is talked about most in our firm. So the main constraint on a top-tier venture capital firm is the concept of opportunity cost.
 
-Ron Conway: What would convince us, is what usually convinces us, is the founder and their team themselves. So we invest in people first, not necessarily the product idea. The product idea tends to morph a lot. So we will invest in the team first. If it’s pre users, the valuation is going to tend to be correspondingly lower unless one of the founders has a success track record.
+It's the concept that means everything you do, there are a whole bunch of other things that you can’t do. It's not so much the cost of we invest five million dollars into the company, the company goes wrong and we lose the money. 
 
-Marc Andreessen: For us, if there’s nothing at the time of investment it's always almost, other than a plan, it's always, usually a founder we have worked with before. Or a founder that is very well known. You know, in these conversations, the default assumption is that we're all starting consumer web companies or consumer mobile companies. You know there are other company categories. For example, enterprise software companies, SaaS, application companies. It’s much more common that there is no MVP, it’s much more common that it's a cold start. And it is much more common that they build a product in the A round. There is no point in having an MVP, the customer isn’t going to buy an MVP, the customer actually needs a full product when they first start using it. So the company actually needs to raise five or ten million dollars to get the first product built. But in almost all those cases that is going to be a founder that has done it before.
+That’s not really the loss that we are worried about because the theory is we'll have the winners that will make up for that.
 
-Q: What is the ideal board structure?
+The cost we worry about is, every investment we make has two implications for how we run the firm. Number one rules on conflicts. 
 
-Parker Conrad: We are fortunate to have, there’s myself and my co-founder and a partner from Andreessen Horowitz. I think it removes the fear, creates a little more trust. It removes the fear that someone is going to come in and fire you arbitrarily because it's time for a big company CEO. But in most cases if you trust the people you are working with, it shouldn't really be an issue. Things almost never come to a board vote, and by the time they do it's something is deeply broken at that point any way. Most of the power that VCs have is outside of the board structure. There are protective covenants that are built into the financing round, you can't take on debt, you can't sell the company, there are certain things you can't do without them agreeing to it anyway.
+So our policy for sure on venture and growth rounds is that we don't invest in conflicting companies. We only invest in one company in a category. 
 
-It's less of a big deal than people make it out to be. What I found, as a founder, if things are going well at the company, you have unlimited power vis a vis your investors. No matter what the board structure is, no matter the convenants in the round. If you say, this is what I want to do, I think this is what we need to do. Even if it's a good investor, or a bad investor, they are like, let's make it happen. They want to ride this rocketship with you, and when things go badly it doesn't matter what protections you have built into the system for yourself.
+- So if we invest in MySpace, and Facebook comes along a year later, we are out. We can't do it. Every investment we make locks us out of a category. 
 
-Marc Andreessen: When a company gets in dire straights, it doesn't matter what the terms for the prior round are, they all get renegotiated. I have been on boards for twenty years, I have never been in an important board vote that mattered. It's never been a vote, many discussions, many controversies, never a vote. The decision has always been clear by the end. It's almost always unanimous. And so I think the decision is almost always around the intangibles and not around the details.
+And the nature, that is a very complicated topic when we’re discussing these things internally. 
 
-Sam Altman: Okay thank you guys for coming today!
+- You only know the companies that already exist, you don't know the companies that haven’t been founded yet. And god help you if you invested in an early company that was not going to be the winner and you were locked out by the time the winner came along.
+
+The other issue is opportunity cost on the time and bandwidth of the general partners. Going back to the concept of adding value, we are a general firm, we have official partners. A partner can maybe be on ten to twelve boards in total if they are completely, fully loaded.
+
+Basically you want to think of it as a ticket that you have a limited number of holes you can punch, every time you make an investment you punch a hole. When you are out of holes to punch, you are done, you can't make any new investments. That is very much how venture capital operates.
+
+A way to look at it is, every board slot that our GP’s have at any given time is an asset to the firm. They can be deployed against an opportunity.
+
+But every time we make an investment, it takes the number of slots we can punch down by one. So it reduces the ability for the firm to do new deals. 
+
+Every investment we make forecloses not just the competitive set but other deals that we will simply run out of time. This goes back to what I said earlier.
+
+This company is fairly good, it seems fairly obvious that it's going to get venture funding, **why didn't you fund it?** 
+
+Well, on its own, if we had unlimited capacity, we probably would have, but relative to getting blocked by a competitive set, and not having that board seat for an even better opportunity, we pass on that basis a lot.
+
+### What would convince you to invest in a company with no product to show. What do you make that judgement based on?
+
+What would convince us, is what usually convinces us, is the founder and their team themselves. So we invest in people first, not necessarily the product idea. 
+
+The product idea tends to morph a lot. So we will invest in the team first. If it’s pre users, the valuation is going to tend to be correspondingly lower unless one of the founders has a success track record.
+
+For us, if there’s nothing at the time of investment it's always almost, other than a plan, it's always, usually a founder we have worked with before. Or a founder that is very well known.
+
+You know, in these conversations, the default assumption is that we're all starting consumer web companies or consumer mobile companies. You know there are other company categories.
+
+**For example,** enterprise software companies, SaaS, application companies. It’s much more common that there is no MVP, it’s much more common that it's a cold start. 
+
+And it is much more common that they build a product in the A round. There is no point in having an MVP, the customer isn’t going to buy an MVP, the customer actually needs a full product when they first start using it.
+
+So the company actually needs to raise five or ten million dollars to get the first product built. But in almost all those cases that is going to be a founder that has done it before.
+
+### What is the ideal board structure?
+
+We are fortunate to have, there’s myself and my co-founder and a partner from Andreessen Horowitz. I think it removes the fear, creates a little more trust. 
+
+It removes the fear that someone is going to come in and fire you arbitrarily because it's time for a big company CEO. But in most cases if you trust the people you are working with, it shouldn't really be an issue. 
+
+Things almost never come to a board vote, and by the time they do it's something is deeply broken at that point any way. Most of the power that VCs have is outside of the board structure. 
+
+There are protective covenants that are built into the financing round, you can't take on debt, you can't sell the company, there are certain things you can't do without them agreeing to it anyway.
+
+It's less of a big deal than people make it out to be. What I found, as a founder, if things are going well at the company, you have unlimited power vis a vis your investors.
+
+No matter what the board structure is, no matter the convenants in the round. If you say, this is what I want to do, I think this is what we need to do. 
+
+Even if it's a good investor, or a bad investor, they are like, let's make it happen. They want to ride this rocketship with you, and when things go badly it doesn't matter what protections you have built into the system for yourself.
+
+When a company gets in dire straights, it doesn't matter what the terms for the prior round are, they all get renegotiated. I have been on boards for twenty years, I have never been in an important board vote that mattered. 
+
+It's never been a vote, many discussions, many controversies, never a vote. The decision has always been clear by the end. It's almost always unanimous. And so I think the decision is almost always around the intangibles and not around the details.
 
