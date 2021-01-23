@@ -245,9 +245,19 @@ Especially in the early days, the product and the feature set you launch with is
 
 So the quicker you talk to users and learn what they actually need, the faster you can get to that point.
 
-There are three ways to talk to your customers. You can run customer service yourself. Up until Teespring was doing about $130-$140,000 a month, my cofounder Evan and I did everything in customer service. This is one where there's going to be an instinct to quickly pass off, and that's because it's painful. Even today when I open our customer service portal, I have an emotional reaction where my stomach sinks because it sucks talking to so many users who have had a terrible experience, and it's painful that something that you love and put so much effort into, to know you got it wrong or somebody didn't treat them right. But it's so important that you go through that and learn what you need to build, and what you need to fix.
+- There are three ways to talk to your customers. You can run customer service yourself. Up until Teespring was doing about $130-$140,000 a month,
 
-The second step is to proactively reach out to current and churn customers. Churn customers are customers who have left. This is one that often falls by the wayside in the pursuit of new customers, but you want to make sure that your customers are having consistent good experiences; you don't want to take your current users for granted. When a user actually leaves your service, you want to reach out and find out why, both because that personal outreach can make the difference between leaving and staying; sometimes people just need to know that you care and it's going to get better. And even if you can't bring them back, there's a chance that you can learn from the mistakes you made that caused them leave, and fix it so you don't churn users out in the future in the same way.
+- my cofounder Evan and I did everything in customer service. This is one where there's going to be an instinct to quickly pass off, and that's because it's painful.
+
+- Even today when I open our customer service portal, I have an emotional reaction where my stomach sinks because it sucks talking to so many users who have had a terrible experience, and it's painful that something that you love and put so much effort into, 
+
+- to know you got it wrong or somebody didn't treat them right. But it's so important that you go through that and learn what you need to build, and what you need to fix.
+
+- The second step is to proactively reach out to current and churn customers. Churn customers are customers who have left. This is one that often falls by the wayside in the pursuit of new customers, but you want to make sure that your customers are having consistent good experiences;
+
+- you don't want to take your current users for granted. When a user actually leaves your service, you want to reach out and find out why, both because that personal outreach can make the difference between leaving and staying;
+
+- sometimes people just need to know that you care and it's going to get better. And even if you can't bring them back, there's a chance that you can learn from the mistakes you made that caused them leave, and fix it so you don't churn users out in the future in the same way.
 
 My cofounder Evan, who is our CTO and a million times better developer than I am, ran the math and figured out that if we did it the right way, it was going to take about a month to build out these features.
 
@@ -257,7 +267,9 @@ and that just wasn't going to do. So he actually went out and duplicated the cod
 
 We gave them the tool, they on-boarded, and generated a lot of revenue. Eventually we learned what features were core, and we integrated them into the core product. But what would've taken a month, we were able to do in three to four days.
 
-A great rule of thumb is to only worry about the next order of magnitude, so when you have your tenth user, you shouldn't be wondering how you are going to serve one million users. You should be worried about how you're going to get to 100. When you're at 100, you should think about 1,000. 
+A great rule of thumb is to only worry about the next order of magnitude, so when you have your tenth user, you shouldn't be wondering how you are going to serve one million users.
+
+You should be worried about how you're going to get to 100. When you're at 100, you should think about 1,000. 
 
 It's one of those things where necessity is the mother of invention, so when you hit the breaking point (the Twitter Fail Whale is a great example), and in Teespring there were month-stretches where every single night the site would crash - every night. 
 
@@ -275,7 +287,185 @@ This is one of your biggest advantages as a company, and the moment you give it 
 
 So as long as humanly possible, as long as it is a net positive, you need to spend time talking to your users, you need to move as fast as possible in development, but don't give it up willingly; it should be ripped from you.
 
-## Press
+#### What convinced you to get into the market of T-shirt printing when there is so much competition in this business?
 
+I think there are two factors to it. 
+- First, I completely agree. From the outside, people have been telling us that this is a silly idea since day one in every order magnitude we reach. People will come and say, **"This is a terrible idea. Why are you doing that?"** 
 
+But the reason why we launched Teespring is because we ran into a personal pain point. We identified a need and found that there were no great current solutions.
 
+I was a student at Brown trying to create a "Remember the Bar" shirt for a dive bar that got shutdown, and I realized that nothing matched my needs.
+
+And so because I knew that I had that pain point, and I knew there was market fit, and I had seen people adopt the product, 
+I knew there was something there.
+
+And it was also one of those things where you could sort of feel the wind on your back where people were adopting the product quickly. The pain point was clearly there; it's not a met need. 
+
+So I would say that most times, great ideas start out by looking like the silly ideas, and then you can feel out whether or not there is a scalable business by how people are adopting it and whether it is possible to bring customers onboard.
+
+#### Are nonprofits your biggest customer base?
+
+No, today our biggest customer base is entrepreneurs who are trying to build brands and businesses. We have a little over 1000 people who make their full-time living on Teespring today via brands they've launched. 
+
+And the other side is influencers, so YouTube stars, Reddit communities, bloggers who want to add product merchandise as a way to create a brand and monetize that affinity.
+
+Those are our two biggest markets. We still work with a lot of nonprofits, and love working with them. They are still part of our business, but just not the majority.
+
+## Press (Justin)
+
+I’ve started a lot of start-ups, but I think you've heard a lot of awesome "how I got started" stories, 
+
+so I'm going to talk about something very specific that people always have questions about, 
+
+          which is press:
+          
+**how do you get it and how does it work?**
+
+This is kind of like an abridged version of what we talk about at Y Combinator. Hopefully you guys will find it helpful.
+
+When most people get started with entrepreneurship, they think about press and being in the press as something that happens magically. 
+They think about journalists out there, trying to get the best stories - it's like a meritocracy - which is absolutely not the case.
+
+Before you think about press, one of the things you really want to consider is who you want to reach, as well as your actual goal. I
+know when I got started I wanted to be in the news because I thought that's what you did as an important company. 
+
+- It turns out that if you don't have any goals, you're not going to achieve them 
+
+- that's true of pretty much everything. And with press, if you aimlessly just want to be covered, it's not going to do anything for your startup. If you don't have an actual business goal, then it's not a good use of time.
+
+So there are many different goals. With Socialcam, which is a spinoff of Justin.tv, our goal was to be known as like video Instagram and be thought of in that context. 
+
+- When it was time to pitch to our Silicon Valley investors and influencers, we really wanted to get covered in tech press and be positioned as this new, hot social app.
+
+With Exec one of my goals was to get customers. Exec was like a local cleaning service, and our goal was to get people in San Francisco to use it.
+
+It wasn't useful to get national press because 99% of those people couldn't use it. So we targeted initially local press like SF Chronicle, who would directly talk to people who could potentially use our app. TwitchTV, which is probably what you guys mostly know, is like ESPN for gamers, kind of like a live stream community for gamers.
+
+### So what's an actual story? I 
+
+think there's a bunch of different types of stories, but these are the ones you usually see in startups. Product launches are when you launch a different version of your app.
+
+- There's fundraising; for whatever reason, the press loves to write about fundraising even though it's not very interesting. So like if you raise a million dollar seed round you can pretty much get that covered.
+
+- Milestones are metrics, like if you've achieved one million dollars a week in revenue. The company that bought Exec just announced that they achieved one million dollars a week in revenue, and it was covered pretty widely. 
+
+- Business stories, which happen when you're already a successful company, The New York Times, The New Yorker, or Business Magazine, will want to cover your startup story. You don't have to worry about that in the beginning.
+
+What I like to call stunts - I don't know if you guys remember, but a couples years ago,
+
+#### Hiring Announces
+
+Hiring announcements: If you're a big enough company and you hire someone really important, people will want to cover that.
+
+And finally contributor articles which would be you writing some sort of industry overview or some opinion piece, maybe a tech blog, stuff like that.
+
+Basically any of those things can be a story. Something that people usually don't think about when you're trying to start a startup is, when you start a startup, you think that everything you're doing is interesting,
+
+but that may not be true for other people. What you really need to think about objectively is, if I wasn't the founder of this company, would I want to read a story about what I'm pitching? So your incremental feature release or your 2.01 feature release might not be interesting just because you added "Find Your Contacts" on Facebook. 
+
+You really want to take a step back before you invest the time in actually trying to pitch a story, and think, "Will anyone actually really want to read this?" What journalists and bloggers are really looking for are things that people actually want to read.
+
+The other thing is you don't actually have to be very original 
+
+ - your press doesn't have to be original.
+ 
+ It just has to be what I like to call "original enough." You don't want to be the second-coolest company to raise $5 million on Kickstarter - the first guy gets all the news. 
+ 
+So one of the actual mechanics of getting the story (this is pretty tactical), if you want to get your news in the press, basically there are some really easy steps to follow: Think of getting press like a sales funnel.
+
+You're going to talk to a lot of people but not all of them are going to convert – so you shouldn't be upset when one individual person or reporter doesn't write your story. 
+
+The first thing is you have to think of it like a story. The second thing is you want to get introduced to any reporter or multiple reporters who are going to write about your thing. 
+
+It's much much easier, just like any business development, to get in touch with them through someone, rather than cold emailing them.
+
+The best thing to do is go to entrepreneurs who were just written about or friends who were just covered on TechCrunch, get them to introduce you to that reporter who wrote about them.
+
+The reason that's good is because from the entrepreneur's perspective, the easiest thing in the world to do is to introduce you to the reporter who already wrote about them.
+
+They don't need anything else from the reporter, and they're actually doing that person a favor if the story is interesting; it's not like you're asking for intros to investors or people they would want to hire as employees.
+
+And then from the reporter's perspective, they're getting introduced to someone who they already vetted as interesting; they're getting an intro from someone who they believed was interesting enough to write about, so by the transitive property, they're going to think you're probably interesting.
+
+- So you get an email from this guy who introduces you to the reporter, and you want to get in contact with them with enough time to get them to write a story - let them know probably a week in advance or more, because they're not going to drop everything they're doing to just write about your news.
+
+- A lot of people, especially first time entrepreneurs, will come and say "Justin I'm launching this product tomorrow. Can you get me in TechCrunch?" That's probably not going to happen unless you already have a relationship. The best thing to do is give yourself some lead time; get that intro in advance.
+
+So once you've set a date for your news to go out – you’re going to launch a product in two weeks - you have this intro, you've set up some sort of meeting, and you really want to get the reporter to invest time and effort into you because there's a sunk cost fallacy at play.
+
+- **Basically, the more time they spend with you, the more likely they are to write about you.**
+
+- The best thing to do is get a face-to-face meeting. Some bloggers don't actually want to meet face-to-face, but like if not that, then get a phone call.
+
+The worst thing to do is just have an email exchange because it's very easy for them to forget about it or ignore it.
+
+The next step is actually pitch them. What I do is actually write out the ideal story that I want to see published in bullet points, and memorize it. 
+
+And when I have a conversation with them if it's in person, the conversation is structured like my outline, and they'll be taking notes. Then they'll go transcribe those notes into a story.
+
+So basically what I wrote will be translated into an actual story. By preparing, you can actually control more of the conversation and not forget critical things like mentioning your cofounder's name or the awesome features in your app are.
+
+If I'm doing this over the phone, I'll make sure to have the bullet point list in front of me and I will make sure to walk through a conversation that includes all those things.
+
+So you have a pitch, they take notes, and they're going to write the story at this time. The next thing to do is follow-up like a couple days or day before your actual news goes out.
+
+You want to send them an email that says "This is the time we're launching the app; thanks for meeting; here's collateral if there are any videos, photos, or screenshot you want to include; how to spell your cofounder's name or your name. 
+
+I just include all the information that I really care about and bold it. And then that's it. Hopefully the day comes when you press submit on the release to the App Store and at the same time, they released their article on TechCrunch and you are famous.
+
+So a lot of people ask us about PR firms. So I think in the beginning it's kind of like, everything you do in a startup, you want to do yourself. And it's actually pretty easy especially with tech press and bloggers who constantly need new things to write about. 
+
+I strongly encourage people to try it themselves, and kind of get started by learning the process themselves before they hire anyone. One thing I'll say is that firms can only help you with the contacts and the logistics, but they can't help you know what's interesting about your company,
+
+or – I'm never been able to have any one that’s told me what the stories that I'm producing on; they've only been able to give me a list of reporters I might want to contact. So you really have to be responsible about thinking about what's interesting about your company and what you're doing, you know, the roadmap of interesting things that you're working on.
+
+They're also really expensive. I think we were spending about $5,000 and $20,000 a month, and for various firms, it’s a lot - for a startup right? It's generally not a good use of money especially in the early days. Getting press is a lot of work, so you should really make sure it's worth it.
+
+Getting press is like a vanity metric: It feels like you're being successful because many successful companies like Facebook are covered in the press all the time, but it doesn't actually mean you're successful; it doesn't actually mean you're making money, getting users, or making those users happy.
+
+Sometimes it's a really good strategy for getting your first hundred or two hundred or a thousand customers, but it's really not a user-scalable acquisition strategy, so it's really something that's just a bootstrap; you can't just get like infinity articles written about you. 
+
+Eventually people are going to get tired of hearing about your company, and usually that happens really quickly right? The pull point about news is that it's new, so it's pretty hard, unless you’re like Google, to get covered in the press every week. If you decide it's worth it though, that you do want to have a regular heartbeat of news,
+
+you're thinking about what you're doing that matches those seven story types in the future. When I was working primarily on marketing and PR, 
+I would make a schedule on the calendar of when we're going to launch things and make sure to space them out, but have them appear at regular intervals so people didn't want to forget about us and we could maximize our coverage.
+
+You also want to keep your contacts fresh; it's really a relationship business. Once someone writes about you, you should keep up with them because they could potentially write about you in the future. 
+
+You're more likely to do something for someone that you've already done something for in the past. I would try to establish good relationships with a couple reporters that you could go to for breaking news; 
+
+it could come in handy later if you're fortunate enough to have people writing negative things about you; your relationships will help you get out your side of the story.
+
+The last thing is kind of like a golden rule or more of like a "pay it forward:" You should help your fellow entrepreneurs get coverage because they'll help you get coverage. 
+
+The best way to get coverage is really through these introductions. Whenever I'm meeting with reporters, I throw out names of other things I think would be interesting stories for them, and usually that comes back.
+
+The reporters like it because you're helping them find interesting stories, and you're more likely to get leads back from those entrepreneurs that you helped out.
+
+If you're interested in learning more about press, here are two resources that I really like: Jason Kincaid, who is a former TechCrunch reporter, goes through a great overview that covers a lot of things I talked about in more depth.
+
+And then kind of an evil resource is this book called Trust Me, I'm Lying which was written by a former marketer at American Apparel. He talked about ways that he evilly manipulated the press, 
+
+but I think it's a pretty good look into the psychology of how stories spread on the Internet; it's valuable to take a look at. Cool, that's basically it.
+
+### When is the right time to start worrying about press altogether?
+
+The first time I launched my first startup, you know my first products, for a lot of them we got zero attention and we didn't really know how we could get 100 users.
+
+I think it's a really fine way to get 100 users, and a lot of companies at YC when they first launch their product, we'll encourage them to get out and do one TechCrunch story to get a few people to see it.
+
+It's good to get in the practice. I wouldn't obsess getting coverage in multiple outlets or anything like that in the very beginning.
+
+### How much of a role did you guys play in getting the Pokemon thing out?
+
+Twitch had this thing called "Twitch Plays Pokemon" where developers set up a Pokémon Gameboy game that was controlled by chat, so millions of people would be typing in A or B, and the character would wander around aimlessly.
+
+That was a huge news story. I think what we did was set the stage by having other news stories that someone from the BBC would Google "Twitch" and be like, 
+
+**"What is this crazy thing that everyone on Reddit is talking about?"**
+
+They would have some context. The other thing is we didn't come up with the idea for Twitch. That was like fortuitous, but we helped give it legs by making the company available to talk to reporters and suggesting follow-up stories, 
+
+not only about "Twitch Plays Pokémon" with 100,000 people watching,
+
+but also stories about when they beat the game or when Twitch played Crystal, the new Pokémon version. We didn't originate the story; it was the community who I think really originated it.
