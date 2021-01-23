@@ -48,7 +48,7 @@ I try to write some main and important parts of Course, Step wise Lectures
 
 - [Lecture 7](https://github.com/MTayyab10/How-to-Start-a-Start-up/tree/main/Lecture%207) - How to build products Users love
 
-- [Lecture 8](https://github.com/MTayyab10/How-to-Start-a-Start-up/tree/main/Lecture%208) - How to Get Started, Doing Things that Don't Scale, Press
+- [Lecture 8](https://github.com/MTayyab10/How-to-Start-a-Start-up/tree/main/Lecture%208) - How to Get Started, Doing Things that Don't Scale and Press
 
 - [Lecture 9](https://github.com/MTayyab10/How-to-Start-a-Start-up/tree/main/Lecture%209) - How to Raise Money ( Marc Andreessen, Ron Conway, Parker Conrad )
 
