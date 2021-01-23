@@ -227,7 +227,9 @@ And you know, people treat products that are free in a much different way than a
 
 The second aspect is what happens when you get those users? How do you turn those users into champions? A champion is a user who talks about and advocates for your product.
 
-Every company with a great growth strategy has users who are champions. The easiest way to turn a user into a champion is to the delight them with an experience they are going to remember, so something that's unusual or out of the ordinary – an exceptional experience.
+Every company with a great growth strategy has users who are champions. 
+
+The easiest way to turn a user into a champion is to the delight them with an experience they are going to remember, so something that's unusual or out of the ordinary – an exceptional experience.
 
 The easiest way to do this early, and again something that is completely unsustainable - it's not going to scale forever - is to just talk to those users.
 
@@ -247,19 +249,33 @@ There are three ways to talk to your customers. You can run customer service you
 
 The second step is to proactively reach out to current and churn customers. Churn customers are customers who have left. This is one that often falls by the wayside in the pursuit of new customers, but you want to make sure that your customers are having consistent good experiences; you don't want to take your current users for granted. When a user actually leaves your service, you want to reach out and find out why, both because that personal outreach can make the difference between leaving and staying; sometimes people just need to know that you care and it's going to get better. And even if you can't bring them back, there's a chance that you can learn from the mistakes you made that caused them leave, and fix it so you don't churn users out in the future in the same way.
 
-Finally, the one I'm probably most OCD about is social media and communities. You need to know how people are talking about your brand. You need to try to make sure that when somebody does have a bad experience, and they're talking about it, that you make it right. Problems are inevitable: You're not going to have the perfect product; things are going to break; things are going to go wrong. That's not important. What's important is to always make it right, to always go the extra mile and make that customer happy. One detractor who's had a terrible experience in your platform is enough to reverse the progress of 10 champions. That's all it takes, is one to say, "No you shouldn't use those guys for X reasons," to ruin a ton of momentum.
-There are examples in the early days where we would mess up massive orders. We'd print out colors slightly wrong; it would be the wrong size, and it would be half of our GMV for that month. We would know we got it wrong, and the customer would be unhappy, and the instinct was to say that it was only a little bit off, not completely wrong, or that it would be fine. But the reality is you just have to bite the bullet and make sure it's right. And the customers who are originally the most frustrated tend to turn into the biggest champions and the longest term users.
+My cofounder Evan, who is our CTO and a million times better developer than I am, ran the math and figured out that if we did it the right way, it was going to take about a month to build out these features.
 
-The last one I want to talk about is finding product/market fit. What I mean by that is the product you launch with will almost certainly not be the product that takes you to scale. So your job in those early days of a startup is to progress and iterate as fast as possible to reach that product that does have market fit. And as engineers your instinct is building a platform that's beautiful, clean-code, and that scales. You don't want to write a duct tape code that's going to pile on technical debt. But you need to optimize for speed over scalability and clean code. An example of this is in the early days, we had a couple enterprise customers come in, sort of bigger nonprofits, and say "Hey, we really like your service, but you're missing these fundamental things, so we're not going to use it." And we looked at what it would take to build out those features, and we weren't sure if they were going to work out long-term, but we wanted to try it.
+**A month for a startup – you live in dog years – a month is a year,**
 
-My cofounder Evan, who is our CTO and a million times better developer than I am, ran the math and figured out that if we did it the right way, it was going to take about a month to build out these features. A month for a startup – you live in dog years – a month is a year, and that just wasn't going to do. So he actually went out and duplicated the code-base, duplicated the database, and was able to basically build a completely different product so that he didn't have to worry about the existing users to serve these enterprise customers. We gave them the tool, they on-boarded, and generated a lot of revenue. Eventually we learned what features were core, and we integrated them into the core product. But what would've taken a month, we were able to do in three to four days.
+and that just wasn't going to do. So he actually went out and duplicated the code-base, duplicated the database, and was able to basically build a completely different product so that he didn't have to worry about the existing users to serve these enterprise customers.
 
-A great rule of thumb is to only worry about the next order of magnitude, so when you have your tenth user, you shouldn't be wondering how you are going to serve one million users. You should be worried about how you're going to get to 100. When you're at 100, you should think about 1,000. It's one of those things where necessity is the mother of invention, so when you hit the breaking point (the Twitter Fail Whale is a great example), and in Teespring there were month-stretches where every single night the site would crash - every night. Every single person on the team would go to sleep with their phone on loud, under their pillows, so inevitably when their phones went off, we could quickly restart the server and go back to sleep; this would happen daily. But the reality is that it was worth it, and you'll end up with these huge pain points and all this technical debt and regret, but it's worth it just to get to that end goal and that product fit faster. You will make it work; you will survive. Those bumps are just speed-bumps, and speed is so so important early.
+We gave them the tool, they on-boarded, and generated a lot of revenue. Eventually we learned what features were core, and we integrated them into the core product. But what would've taken a month, we were able to do in three to four days.
 
-The lesson that I've been learning lately is that you want to do things that don't scale as long as possible. There's not some magical moment; it's not Series A, or it's not when you hit a certain revenue milestone that you stop doing things that don't scale. This is one of your biggest advantages as a company, and the moment you give it up, you're giving your competitors that are smaller and can still do these things, that advantage over you. So as long as humanly possible, as long as it is a net positive, you need to spend time talking to your users, you need to move as fast as possible in development, but don't give it up willingly; it should be ripped from you.
+A great rule of thumb is to only worry about the next order of magnitude, so when you have your tenth user, you shouldn't be wondering how you are going to serve one million users. You should be worried about how you're going to get to 100. When you're at 100, you should think about 1,000. 
 
-To practice what I preach, I want to give you guys my email address. If you guys have any questions, if you want to learn about Teespring, or if you want to print some T-shirts (fingers-crossed), just shoot me an email. I'd love to help and I'd love to speak to you.
+It's one of those things where necessity is the mother of invention, so when you hit the breaking point (the Twitter Fail Whale is a great example), and in Teespring there were month-stretches where every single night the site would crash - every night. 
 
+Every single person on the team would go to sleep with their phone on loud, under their pillows, so inevitably when their phones went off, we could quickly restart the server and go back to sleep; this would happen daily. 
+
+But the reality is that it was worth it, and you'll end up with these huge pain points and all this technical debt and regret, but it's worth it just to get to that end goal and that product fit faster. 
+
+You will make it work; you will survive. Those bumps are just speed-bumps, and speed is so so important early.
+
+The lesson that I've been learning lately is that you want to do things that don't scale as long as possible.
+
+There's not some magical moment; it's not Series A, or it's not when you hit a certain revenue milestone that you stop doing things that don't scale. 
+
+This is one of your biggest advantages as a company, and the moment you give it up, you're giving your competitors that are smaller and can still do these things, that advantage over you. 
+
+So as long as humanly possible, as long as it is a net positive, you need to spend time talking to your users, you need to move as fast as possible in development, but don't give it up willingly; it should be ripped from you.
+
+## Press
 
 
 
