@@ -38,7 +38,9 @@ It provides a certain level of stability to fall back on. And it provides level 
 
 - And what the more important thing about that is what not to do. Then finally the other thing that is important is it allows you to retain the right employees. 
 
-- There are people in this world that are not going to be a fit for your company, but if you have good strong culture, and the strong core values, you'll know who you want to retain and who you truly do not want to retain. And if you take the first letter of those it happens to help you move faster.
+- There are people in this world that are not going to be a fit for your company, but if you have good strong culture, and the strong core values, you'll know who you want to retain and who you truly do not want to retain.
+
+And if you take the first letter of those it happens to help you move faster.
 
 ### So how do you create a set of values and define the culture etc? 
 
@@ -46,7 +48,9 @@ Get asked that a lot. You have to start with the leader of the company and the f
 
 Ask yourself what are the values that are the most important to you? Of those things, that are most important in the business? 
 
-Who are the types of people you like working with? And what are their values? And through that you distill together what a set of values are. Think about all the people that you've never liked working with. What values do they have? Think of the opposite of that.
+Who are the types of people you like working with? And what are their values? And through that you distill together what a set of values are. Think about all the people that you've never liked working with.
+
+What values do they have? Think of the opposite of that.
 
 Maybe those should be considered values for your company. Finally remember the values have to support your mission and if they don't support your mission, you’re missing something. 
 
@@ -56,11 +60,15 @@ So the first core value we had, was to deliver wow through service. We are very 
 
 I had a paragraph talking about what we mean by that, we wanted to support them, doing the wow through service, and support people such as our employees, our customers, our brand partners, and investors.
 
-On terms of the opposite thing, we generally didn’t like working with arrogant people, so one of our core values at Zappos was to be humble. So those are two examples where we create core values in a way that became credible and uniquely tied to our mission.
+On terms of the opposite thing, we generally didn’t like working with arrogant people, so one of our core values at Zappos was to be humble.
+
+So those are two examples where we create core values in a way that became credible and uniquely tied to our mission.
 
 So you go through this process, you come up with a few core values, these might be some of them, whether it's honesty, integrity, service, teamwork.
 
-It might be a list, you might start with three, might end up with a list of ten, you might have a list of thirty. It’s a good start. When Zappos went through this process we asked all the employees at the time what core values they can identify with and they came up with thirty-seven. 
+It might be a list, you might start with three, might end up with a list of ten, you might have a list of thirty.
+
+It’s a good start. When Zappos went through this process we asked all the employees at the time what core values they can identify with and they came up with thirty-seven. 
 
 We whittled that down to about ten. And it took a year to do this, that's a long time and you might want to ask why. Well if you just come up with the word honesty, give me a break, everybody wants the culture to be honest, nobody is going to say I want to be lied to every day.
 
@@ -106,55 +114,225 @@ One of the things I think a lot of companies don't actually do is, they intervie
 
 whether someone will actually believe in and follow the mission. I think that is a big, big no no. I think you can have the smartest engineer in the world but if they don't believe the mission they are not going to pour their heart and soul into it.
 
+### Daily Habit
+
 And that's one of the things where if you actually start thinking about culture, from the interview process, to performance reviews, to making sure that’s a daily habit, you get a lot further with making a great culture.
 
-One final point made here, culture, just like customer service or fitness, is like motherhood and apple pie. Everybody wants to provide great customer service, every company wants to have great culture. What they fail to do is make it a daily habit. You just can't be fit, if you don't do it as a daily habit. Eventually you get out of shape, then you get fat, and then you say, Oh I have to go on a crash diet to get back into shape. That doesn't quite work, and the same is true with something like culture. So I think we checked all of these off, so we can go into Q and A with Brian.
+One final point made here, culture, just like customer service or fitness, is like motherhood and apple pie. 
+Everybody wants to provide great customer service, every company wants to have great culture. What they fail to do is make it a daily habit. 
 
-Brian Chesky: Hello everybody. It’s quiet in here, I'll be honest, now I feel a little less on edge. Nothing worse than a room full of people really, really quiet staring at you, but now I feel better.
+You just can't be fit, if you don't do it as a daily habit. Eventually you get out of shape, then you get fat, and then you say, Oh I have to go on a crash diet to get back into shape. 
 
-Alfred Lin: Well I did it for five or ten minutes, you can do it a little longer. So Brian, could you talk about the process by which you came to understand that culture was important to AirBnB and building a company?
+That doesn't quite work, and the same is true with something like culture. So I think we checked all of these off, so we can go into Q and A with Brian.
 
-Brian Chesky: Yeah, so I think one of the things we realized is, to just give you, I won’t tell the full story of how Airbnb came to be. Some of you may know it. So here’s the very short version the story, Airbnb wasn't meant to be the company we were trying to start. I quit my job, I was living in LA. One day I drove to San Francisco, became roommates with my friend from college, from the Rhode Island School of Design, Joe Gebbia, and I had one thousand dollars in the bank and the rent was one thousand one hundred and fifty dollars. So that weekend this international design convention was coming to San Francisco, all the hotels were sold out, so we decided to turn the house into a bed and breakfast for the conference. I didn’t have a bed, Joe had three air beds, we pulled them out of the closet and called it The Air Bed and Breakfast. That's how the company started.
+### Could you talk about the process by which you came to understand that culture was important to AirBnB and building a company?
 
-I recall the story ten thousand times by the way, some version of that story, and I didn't think I'd ever tell that a second time. I remember growing up, I also went to college, my parents were social workers and never thought about me going to art school. They had worried that maybe I would not get a job after college, which I’m sure most parents worry about. Make sure you promise me you get a job with health insurance, I end up starting Airbnb. I remember her telling me, I guess you never got the job with health insurance.
+Brian Chesky: Yeah, so I think one of the things we realized is, to just give you, I won’t tell the full story of how Airbnb came to be. Some of you may know it. 
 
-The reason I say this though is, Airbnb was never meant to be the big idea. It was meant to be the thing to pay the rent so we could think of the big idea. Along the way, by solving our problem it became the big idea. So alongside that, we won’t touch on how we built a product, that's probably another conversation that's being talked about, you have to build a team and a great company. And in the early days, we had three co-founders, Joe, Nate, and myself. I think of one of the reasons we're successful was that I was really lucky. I don't think it was really lucky to pick up the idea Airbnb and I don’t think we were lucky to be successful once we had a team. I think we could have come up with a lot of other ideas and been just as successful. I think I was lucky in that I found two great people that I wanted to start up a business with, people I admired. That almost intimidated me by how smart they were. I think that's what the first thing is, to build a team that is so talented that they kind of, slightly make you uncomfortable to be with them, because you know you are going to have to raise your game to be with them.
+- So here’s the very short version the story, Airbnb wasn't meant to be the company we were trying to start. I quit my job, I was living in LA. One day I drove to San Francisco, became roommates with my friend from college, from the Rhode Island School of Design, Joe Gebbia,
 
-And then when we were working together in the early days, this is 2008, the first thing is we were like a family. You think about founders like parents and the company like a child. That child will manifest in many ways, behaviors that parents have in the relationship. If the parents are functional but not working together then the child is, frankly, going to be pretty fucked up. You don’t want that. You want your culture to be awesome. And so Joe, Nate, and I were a total family the beginning, we usually worked eighteen hours a day, seven days a week. I remember when we were at Y Combinator, we worked together, we ate food together, or even went to the gym together. We may as well have gotten jumpsuit, we didn’t go that far. It was like we were a mission, a special force.
+and I had one thousand dollars in the bank and the rent was one thousand one hundred and fifty dollars.
 
-We had this amazing shared way of doing things with amazing accountability, and that was the DNA of a company. And then we were thinking, at some point you build the product to phase two, which is building the company that builds the product. So a lot of the talk is about how to build a product, how to get product market fit. Once people do that, now you have to build a company. It doesn't matter how great your original product idea is, if you cannot build a great company then your product will not endure. As we thought about this, we realized we wanted to build a company for the long term.
+So that weekend this international design convention was coming to San Francisco, all the hotels were sold out, so we decided to turn the house into a bed and breakfast for the conference.
 
-We wanted a company that would endure. To do that, we started noticing companies have something in common. Companies around for a really long time had a clear mission. A clear sense of values, and they had a shared way of doing something that was unique to them and was really special. And so Joe, Nate, and I, when we were three people, decided to look around at companies. I noticed Apple, Steve Jobs’ core value was that he believed people with passion could change the world. He said our products change but our value never has. We learned about Amazon, we learned about Nike, we learned about companies in the early days. You can even use this to talk about nations. Even a nation has core values and a declaration so that the nation may endure longer. We started to realize that we needed to have intention, culture needs to be designed. And that is how we got connected. Because we were funded by Sequoia, Alfred just joined them with Zappos, and I was told Zappos had an amazing culture. We went to Las Vegas and met up with Tony and we learned about it.
+I didn’t have a bed, Joe had three air beds, we pulled them out of the closet and called it The Air Bed and Breakfast. That's how the company started.
 
-Alfred Lin: So what did you learn?
+I recall the story ten thousand times by the way, some version of that story, and I didn't think I'd ever tell that a second time. I remember growing up, I also went to college, my parents were social workers and never thought about me going to art school. 
 
-Brian Chesky: Well, you guys are crazy. The thing we learned, and we were three people, was if culture is a way of doing things, there really are two arts. One is behaviors and those can change maybe fifty years from now. There will be rituals and behaviors that change, be different. But there have to be some things that never change. Some principles, some ideas that endure, that make you, you. And I think of core values, integrity, honesty, those aren’t core values. Those are values that everyone should have. But there have to be like three, five, six things that are unique to you. And you can probably think about this in your life. What is different about you, that every single other person, if you could only tell them three or four things, you would want them to know about you. And we realized that when Zappos was one hundred employees, they wrote down these ten core values. The thing I learned from Tony is I wish I didn’t wait until I was one hundred employees to write down a core value. I was talking to Sam, he thinks we are the only company to write our core values down before we hired anyone.
-Alfred Lin: How long did it take you to hire your first employee?
+The reason I say this though is, Airbnb was never meant to be the big idea. It was meant to be the thing to pay the rent so we could think of the big idea. Along the way, by solving our problem it became the big idea. 
 
-Brian Chesky: So the first employee was our first engineer, I think we looked for him for four or five months. I probably looked through thousands of people and interviewed hundreds of people.
+So alongside that, we won’t touch on how we built a product, that's probably another conversation that's being talked about, you have to build a team and a great company.
 
-Alfred Lin: By then, when you hired him, when did you write it? Was it on day one or two or was it three?
+And in the early days, we had three co-founders, Joe, Nate, and myself. I think of one of the reasons we're successful was that I was really lucky.
 
-Brian Chesky: I think we started working on it around the time of Y Combinator, which would've been January 2009. It was probably a process that evolved over the course of six to seven months. We finished Y Combinator in April 2009, hired our first engineer in July something like that. Probably six months. Some people ask why did you spend so much time on hiring your first engineer. I think bringing in your first engineer is like bringing in a DNA chip to the company. This person, if we're successful, there were going to be a thousand people just like him or her in that company, it still wasn't a matter of getting somebody to build the next three features we need the ship for users. There was something much more long-term and much more enduring which was, do I want to work with one hundred thousand more people like this? Now, you want diversity to play, you want diversity of background, age. You don't want diversity of values, you want very homogenous beliefs. That’s the one thing that shouldn’t be diverse.
+I don't think it was really lucky to pick up the idea Airbnb and I don’t think we were lucky to be successful once we had a team.
+I think we could have come up with a lot of other ideas and been just as successful. 
 
-Alfred Lin: So what were these values?
+I think I was lucky in that I found two great people that I wanted to start up a business with, people I admired.
+That almost intimidated me by how smart they were.
 
-Brian Chesky: Six core values, I’ll talk about maybe three of them. So the first core value we talk about is champion in mission. And what it really means is that we want to hire people that are here for a mission. We don’t want people here because they think we have a great valuation, they like our office design, they need a job, or they think it’s hot. We want people to be here for the one thing that will never change, and that’s our mission. And just to tell you a quick story about our mission, Airbnb, a lot of people describe it as a way to book a room or book a house and travel around the world. And that’s what we do, but that is not why we do it. To answer the question on what our mission is, is to tell you a story I think it describes it.
+### Relation of Team and Company
 
-In 2012, I met a host named Sebastian, we do these new jobs around the world where we do meet ups. Sebastian is probably late fifties in north London. Sebastian looks at me and says, "Brian there is this word you never use on your website." And I say, "What's that word?" And he says, "That word is friendship. I would love to read a story about friendship." I said, "Okay read me a story about friendship." He says, "Six months ago the brunt of riots broke out in front of my home and I was very scared. The next day my mom called me to make sure I was ok, I said yeah mom I’m ok. And she goes, what about the house?" He says, "The house is OK as well." He said, "Here's the interesting thing, from the time the riots broke out to the time my mom called me was a twenty four hour window of time. In the periods between that time, seven of my previous Airbnb guests called me just to make sure I was okay." He said, "Think about that, seven of my own guests called me before my own mother did."
+I think that's what the first thing is, to build a team that is so talented that they kind of, 
 
-I think that says more about his mother than his guests. But in this summer on a typical night or a peak night, we wouldhave four hundred twenty five thousand people staying in homes and living together and they were coming from a hundred and ninety different countries in the world which is every country except North Korea, Iran, Syria, Cuba. So just hearing that story, at our core that is what we are about. That’s much more than just booking a room or traveling. That what we are about is we want to help bring the world together. We want to do that by giving a sense of belonging anywhere you go. Our mission is to belong anywhere. So five years from now, twenty years from now, maybe we're still selling rooms and homes to meet in or not, but I can guarantee you we're always going be about a sense of belonging and bringing people together. And that's the more enduring idea.
+slightly make you uncomfortable to be with them, because you know you are going to have to raise your game to be with them.
 
-So when we hire people, the first thing to make sure it is that, if that is your mission, you need to champion your mission. You champion the mission by living the mission. Do you believe in it? Do you have stories about it? Do you use the product? Do you believe in the product? I used to ask crazy questions, one of the crazy questions Sam reminds me of, I use to interview people. So I interviewed the first three hundred employees at Airbnb which people think I’m really neurotic and they may also be true. I used to ask them a question, if you had a year left to live would you take this job? I amended it, people who say yes probably don't like their families. So I changed it to ten years. I feel like you should use whatever time you have left to live. Whatever you want to do in those last ten years you should just do. I really want you to think about that, that was enough time for you to do something you really cared about and the answer doesn't have to be this company. I say fine if what you’re meant to do is travel or start a company just do that, don't come here. Go do that.
+And then when we were working together in the early days, this is 2008, the first thing is we were like a family. You think about founders like parents and the company like a child.
+
+- That child will manifest in many ways, behaviors that parents have in the relationship. If the parents are functional but not working together then the child is, frankly, going to be pretty fucked up.
+
+- You don’t want that. You want your culture to be awesome. And so Joe, Nate, and I were a total family the beginning, we usually worked eighteen hours a day, seven days a week.
+
+- I remember when we were at Y Combinator, we worked together, we ate food together, or even went to the gym together.
+We may as well have gotten jumpsuit, we didn’t go that far. It was like we were a mission, a special force.
+
+We had this amazing shared way of doing things with amazing accountability, and that was the DNA of a company. And then we were thinking, at some point you build the product to phase two,
+
+- which is building the company that builds the product. So a lot of the talk is about how to build a product, how to get product market fit. 
+
+- Once people do that, now you have to build a company. It doesn't matter how great your original product idea is, if you cannot build a great company then your product will not endure.
+
+As we thought about this, we realized we wanted to build a company for the long term.
+
+We wanted a company that would endure. To do that, we started noticing companies have something in common. Companies around for a really long time had a clear mission.
+
+A clear sense of values, and they had a shared way of doing something that was unique to them and was really special. And so Joe, Nate, and I, when we were three people, decided to look around at companies.
+
+I noticed Apple, Steve Jobs’ core value was that he believed people with passion could change the world. He said our products change but our value never has.
+
+We learned about Amazon, we learned about Nike, we learned about companies in the early days. 
+
+You can even use this to talk about nations. Even a nation has core values and a declaration so that the nation may endure longer.
+
+We started to realize that we needed to have intention, culture needs to be designed. And that is how we got connected. Because we were funded by Sequoia, Alfred just joined them with Zappos, and I was told Zappos had an amazing culture.
+
+We went to Las Vegas and met up with Tony and we learned about it.
+
+### So what did you learn?
+
+Brian Chesky: Well, you guys are crazy. The thing we learned, and we were three people, was if culture is a way of doing things, there really are two arts. 
+
+One is behaviors and those can change maybe fifty years from now. There will be rituals and behaviors that change, be different.
+
+But there have to be some things that never change. Some principles, some ideas that endure, that make you, you. And I think of core values, integrity, honesty, those aren’t core values. 
+
+Those are values that everyone should have. But there have to be like three, five, six things that are unique to you. And you can probably think about this in your life.
+
+What is different about you, that every single other person, if you could only tell them three or four things, you would want them to know about you.
+
+And we realized that when Zappos was one hundred employees, they wrote down these ten core values.
+
+The thing I learned from Tony is I wish I didn’t wait until I was one hundred employees to write down a core value.
+I was talking to Sam, he thinks we are the only company to write our core values down before we hired anyone.
+
+### Alfred Lin: How long did it take you to hire your first employee?
+
+Brian Chesky: So the first employee was our first engineer, I think we looked for him for four or five months. 
+
+I probably looked through thousands of people and interviewed hundreds of people.
+
+#### By then, when you hired him, when did you write it? Was it on day one or two or was it three?
+
+Brian Chesky: I think we started working on it around the time of Y Combinator, which would've been January 2009.
+It was probably a process that evolved over the course of six to seven months. We finished Y Combinator in April 2009, hired our first engineer in July something like that.
+
+Probably six months. Some people ask why did you spend so much time on hiring your first engineer.
+
+**I think bringing in your first engineer is like bringing in a DNA chip to the company.**
+
+This person, if we're successful, there were going to be a thousand people just like him in that company, it still wasn't a matter of getting somebody to build the next three features we need the ship for users.
+
+There was something much more long-term and much more enduring which was, do I want to work with one hundred thousand more people like this?
+
+- Now, you want diversity to play, you want diversity of background, age.
+
+- You don't want diversity of values, you want very homogenous beliefs. That’s the one thing that shouldn’t be diverse.
+
+### Alfred Lin: So what were these values?
+
+Brian Chesky: Six core values, I’ll talk about maybe three of them. 
+
+- So the first core value we talk about is champion in mission. And what it really means is that we want to hire people that are here for a mission.
+
+We don’t want people here because they think we have a great valuation, they like our office design, they need a job, or they think it’s hot.
+
+We want people to be here for the one thing that will never change, and that’s our mission. And just to tell you a quick story about our mission, Airbnb, a lot of people describe it as a way to book a room or book a house and travel around the world.
+
+And that’s what we do, but that is not why we do it. To answer the question on what our mission is, is to tell you a story I think it describes it.
+
+- In 2012, I met a host named Sebastian, we do these new jobs around the world where we do meet ups. Sebastian is probably late fifties in north London. 
+
+Sebastian looks at me and says, "Brian there is this word you never use on your website." And I say, "What's that word?" And he says, "That word is friendship. 
+
+- I would love to read a story about friendship." I said, "Okay read me a story about friendship."
+
+He says, "Six months ago the brunt of riots broke out in front of my home and I was very scared. The next day my mom called me to make sure I was ok, I said yeah mom I’m ok.
+
+And she goes, what about the house?" He says, "The house is OK as well." 
+
+- He said, "Here's the interesting thing, from the time the riots broke out to the time my mom called me was a twenty four hour window of time. 
+
+- In the periods between that time, seven of my previous Airbnb guests called me just to make sure I was okay." He said, "Think about that, seven of my own guests called me before my own mother did."
+
+I think that says more about his mother than his guests. But in this summer on a typical night or a peak night,
+
+we wouldhave four hundred twenty five thousand people staying in homes and living together and they were coming from a hundred and ninety different countries in the world which is every country except North Korea, Iran, Syria, Cuba. 
+
+So just hearing that story, at our core that is what we are about. That’s much more than just booking a room or traveling. 
+
+That what we are about is we want to help bring the world together. We want to do that by giving a sense of belonging anywhere you go. Our mission is to belong anywhere. 
+
+So five years from now, twenty years from now, maybe we're still selling rooms and homes to meet in or not, but I can guarantee you we're always going be about a sense of belonging and bringing people together. And that's the more enduring idea.
+
+So when we hire people, the first thing to make sure it is that, if that is your mission, you need to champion your mission.
+
+You champion the mission by living the mission. 
+
+### Do you believe in it? Do you have stories about it? Do you use the product? Do you believe in the product?
+
+I used to ask crazy questions, one of the crazy questions Sam reminds me of, I use to interview people. 
+
+So I interviewed the first three hundred employees at Airbnb which people think I’m really neurotic and they may also be true. 
+
+I used to ask them a question, if you had a year left to live would you take this job? I amended it, people who say yes probably don't like their families. 
+
+- So I changed it to ten years. I feel like you should use whatever time you have left to live. Whatever you want to do in those last ten years you should just do.
+
+-  I really want you to think about that, that was enough time for you to do something you really cared about and the answer doesn't have to be this company.
+
+I say fine if what you’re meant to do is travel or start a company just do that, don't come here. Go do that.
 
 So there is this old parable about two men laying bricks. Somebody comes up to the first man and says what are you doing? I’m building a wall. He asks the other guy, he says I’m building a Cathedral. There's a job and there is a calling. We want to hire people not only looking for jobs, but a calling. And that's the first value, champion the mission.
 
-I don’t want to take all the time, I will talk about just one more. The second value relates to being frugal and I will tell you a story. By the way, all the founding stories of your company end up becoming the things that you keep talking about to thousands of people, kind of like a child, that these things keep coming back later in life. So Airbnb, I think Marc Andreessen said in the last talk that it was the worst idea that ever worked. I remember people thinking we were crazy, I remember telling people about the idea, I actually told Paul Graham, I said we have this idea it’s called Airbnb. He asked, people are actually doing this? I said, yeah. Question was, what's wrong with them? So I knew the interview wasn't going well and in the interview Paul Graham I think wasn't going to accept us. And we told the story of how we funded the company and here's how it goes. We're introduced, Michael Seibel, who is a partner of Y Combinator, introduced me and Joe to like fifteen investors in the Valley, including some of the ones that have been here and all of them said no to the company. They could have bought ten percent of the company for one hundred and fifty thousand dollars. They all said no, they thought it was crazy. No one would ever stay in someone's home.
+### Second Value
 
-So we ended up funding the company with credit cards and you know those binders kids in school put baseball cards in? We had to put them in those, we had to put them somewhere. That’s how many credit cards we had and we were completely in debt. And in the fall of 2008, we provided housing for the Democratic and Republican National Convention. We had this crazy idea because we weren't selling a lot of homes. In the year after we launched, we had a hundred people a day visiting our website and two bookings, which is generally bad. It’s like releasing a song and a year later three people are listing to it a day. It’s probably not going to be a very popular song. But I believed in it. Joe and Nate believed in it.
+I don’t want to take all the time, I will talk about just one more. The second value relates to being frugal and I will tell you a story.
 
-So we are completely in debt, right, and we get this idea. We are an air bed and breakfast providing housing for the Democratic Republican National Convention. What if we made a breakfast cereal for like the Democratic National Convention? And we came up with this Obama themed cereal. And we called it Obama-O’s, the breakfast of change. Then we came up with a Republican themed cereal for John McCain. We found out he was a Captain in the navy. So we came up with… Captain-McCain’s, a maverick in every bite. We had zero dollars and without any money, we tried calling General Mills they told us to stop calling them or they would get a restraining order so that didn't work. We found a local, though an alumni of RISD, who made a thousand boxes deal for us. We ended up sending them to press and eventually within a week it got on national television, national news. We made forty thousand dollars selling breakfast cereal.
-In 2008 we made five thousand dollars from our website and we made forty thousand dollars selling breakfast cereal. I remember my mom asking so are a you cereal company now. And that wasn't that bad part, the bad part was the honest answer which was technically, yes. But the reason I tell that is our second core value is to be a cereal entrepreneur. I'm sorry for the cheesy pun. But be a cereal entrepreneur. We really mean, is that we believe constraints bring out the creativity. When you raise eight hundred million dollars suddenly all that scrappiness, it's easy to lose that scrappiness. It’s easier for people to tell you I just need this fifty thousand dollar contract. I need this, I need that. When people are desperate and not being a little bit frugal, not being creative, or tell me they can't do something, I'll just take a box of cereal and even the suggestion of Obama-O’s is you need to be scrappy and frugal. So again a lot of the founding DNA of your company becomes these values, these principles. Everyone knows that if you don't give a crap you shouldn't be here. And it doesn't mean you have to give a crap it just means you have to to be here. You also have to be creative to be an entrepreneur and super scrappy. And these are some of the values we learned.
+By the way, all the founding stories of your company end up becoming the things that you keep talking about to thousands of people, kind of like a child, that these things keep coming back later in life.
+
+- So Airbnb, I think Marc Andreessen said in the last talk that it was the worst idea that ever worked. I remember people thinking we were crazy, 
+
+I remember telling people about the idea, I actually told Paul Graham, I said we have this idea it’s called Airbnb. 
+
+He asked, people are actually doing this? I said, yeah. 
+
+#### Question was, what's wrong with them? 
+
+So I knew the interview wasn't going well and in the interview Paul Graham I think wasn't going to accept us. 
+
+And we told the story of how we funded the company and here's how it goes. 
+
+We're introduced, Michael Seibel, who is a partner of Y Combinator, introduced me and Joe to like fifteen investors in the Valley, all of them said no to the company.
+
+They could have bought ten percent of the company for one hundred and fifty thousand dollars. 
+
+**They all said no, they thought it was crazy. No one would ever stay in someone's home.**
+
+- So we ended up funding the company with credit cards and you know those binders kids in school put baseball cards in?
+
+- We had to put them in those, we had to put them somewhere. That’s how many credit cards we had and we were completely in debt. And in the fall of 2008, we provided housing for the Democratic and Republican National Convention.
+
+- We had this crazy idea because we weren't selling a lot of homes. 
+
+In the year after we launched, we had a hundred people a day visiting our website and two bookings, which is generally bad. 
+
+- It’s like releasing a song and a year later three people are listing to it a day. It’s probably not going to be a very popular song. But I believed in it. Joe and Nate believed in it.
+
+- So we are completely in debt, right, and we get this idea. We are an air bed and breakfast providing housing for the Democratic Republican National Convention. 
+
+#### What if we made a breakfast cereal for like the Democratic National Convention? 
+
+And we came up with this Obama themed cereal. And we called it Obama-O’s, the breakfast of change.
+
+Then we came up with a Republican themed cereal for John McCain. We found out he was a Captain in the navy. So we came up with… Captain-McCain’s, a maverick in every bite. 
+
+We had zero dollars and without any money, we tried calling General Mills they told us to stop calling them or they would get a restraining order so that didn't work.
+
+We found a local, though an alumni of RISD, who made a thousand boxes deal for us. We ended up sending them to press and eventually within a week it got on national television, national news. 
+
+- We made forty thousand dollars selling breakfast cereal.
+
+- In 2008 we made five thousand dollars from our website and we made forty thousand dollars selling breakfast cereal. I remember my mom asking so are a you cereal company now. And that wasn't that bad part, the bad part was the honest answer which was technically, yes. But the reason I tell that is our second core value is to be a cereal entrepreneur. I'm sorry for the cheesy pun. But be a cereal entrepreneur. We really mean, is that we believe constraints bring out the creativity. When you raise eight hundred million dollars suddenly all that scrappiness, it's easy to lose that scrappiness. It’s easier for people to tell you I just need this fifty thousand dollar contract. I need this, I need that. When people are desperate and not being a little bit frugal, not being creative, or tell me they can't do something, I'll just take a box of cereal and even the suggestion of Obama-O’s is you need to be scrappy and frugal. So again a lot of the founding DNA of your company becomes these values, these principles. Everyone knows that if you don't give a crap you shouldn't be here. And it doesn't mean you have to give a crap it just means you have to to be here. You also have to be creative to be an entrepreneur and super scrappy. And these are some of the values we learned.
 
 Alfred Lin: So you guys should start to think about questions when we open up to questions from the audience but I have a few more questions to ask. So this all sounds nice, stories are great. The people here are a pretty skeptical group. It’s a CS department class, probably left brain focused. This feels like a softie, right brain focus. How does having a strong culture help you make important, tough decisions?
 
